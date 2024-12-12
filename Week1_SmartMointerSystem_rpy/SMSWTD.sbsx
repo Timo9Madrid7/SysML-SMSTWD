@@ -12,20 +12,16 @@
 			<_id type="a">GUID bc1817d3-d769-4c8a-8b9c-f70296eae11b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SMSWTD</_name>
-			<Annotations type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Annotations>
-			<_modifiedTimeWeak type="a">12.12.2024::8:32:5</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.12.2024::14:19:11</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::8:32:5</_modifiedTime>
-			<_lastID type="a">9</_lastID>
-			<weakCGTime type="a">12.12.2024::8:32:5</weakCGTime>
+			<_modifiedTime type="a">12.12.2024::14:34:35</_modifiedTime>
+			<_lastID type="a">10</_lastID>
+			<weakCGTime type="a">12.12.2024::14:19:11</weakCGTime>
 			<strongCGTime type="a">12.11.2024::18:42:25</strongCGTime>
 			<_defaultComposite type="s">GUID b4863571-3946-4a62-abf3-bf26a084705a</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -35,6 +31,7 @@
 				<value>GUID 6318d626-f6a6-4439-a936-5b0094dee642</value>
 				<value>GUID c1d10a36-ce80-478a-90c8-498a47e2f833</value>
 				<value>GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</value>
+				<value>GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce</value>
 				<value>GUID b4863571-3946-4a62-abf3-bf26a084705a</value>
 			</AggregatesList>
 		</ISubsystem>
@@ -2250,6 +2247,10 @@
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
+		<ISubsystem type="e">
+			<fileName type="a">SERVICE_UCS</fileName>
+			<_id type="a">GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce</_id>
+		</ISubsystem>
 		<IClass type="e">
 			<_id type="a">GUID b4863571-3946-4a62-abf3-bf26a084705a</_id>
 			<_myState type="a">40960</_myState>
