@@ -12,10 +12,10 @@
 			<_id type="a">GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SERVICE_UCS</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::14:41:4</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:41:4</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.12.2024::14:44:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::14:44:42</_modifiedTime>
 			<_lastID type="a">13</_lastID>
-			<weakCGTime type="a">12.12.2024::14:41:4</weakCGTime>
+			<weakCGTime type="a">12.12.2024::14:44:42</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:22:59</strongCGTime>
 			<_defaultComposite type="s">GUID e0ceb06c-644f-4116-9fe5-b5d329f05ed8</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -23,11 +23,9 @@
 			<AggregatesList type="e">
 				<value>GUID 6ce96b26-8505-44a3-b4c1-2865f2c1a799</value>
 				<value>GUID e0ceb06c-644f-4116-9fe5-b5d329f05ed8</value>
-				<value>GUID 724cb109-97b4-4914-9818-f98d1b5025fe</value>
 				<value>GUID c9f323d2-7315-4144-a63b-7f6017e8ed1a</value>
 				<value>GUID bbb5d4cf-675e-4494-ae55-e1c39bc38431</value>
 				<value>GUID ca99d3b7-3a50-491d-85b9-71e56efdf735</value>
-				<value>GUID 13721dd1-59b9-4377-a608-8fc1c5bb33f1</value>
 				<value>GUID 14ad0e90-c44d-4377-9b5f-1edd3376f62a</value>
 				<value>GUID e3916990-6df7-443f-bf7e-11c2b91b3196</value>
 				<value>GUID f273cb03-0a24-46cc-9d79-e392e39ed7f0</value>
@@ -3574,28 +3572,6 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 		</IClass>
 		<IUseCase type="e">
-			<_id type="a">GUID 724cb109-97b4-4914-9818-f98d1b5025fe</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">usecase_2</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:22:18</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
-			<_itsStateChart type="r">
-				<IHandle type="e">
-				</IHandle>
-			</_itsStateChart>
-			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
-			<_EntryPoints type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</_EntryPoints>
-		</IUseCase>
-		<IUseCase type="e">
 			<_id type="a">GUID c9f323d2-7315-4144-a63b-7f6017e8ed1a</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">GetSensorData</_name>
@@ -3951,28 +3927,6 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
-		<IUseCase type="e">
-			<_id type="a">GUID 13721dd1-59b9-4377-a608-8fc1c5bb33f1</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">usecase_7</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:26:21</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
-			<_itsStateChart type="r">
-				<IHandle type="e">
-				</IHandle>
-			</_itsStateChart>
-			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
-			<_EntryPoints type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</_EntryPoints>
-		</IUseCase>
 		<IUseCase type="e">
 			<_id type="a">GUID 14ad0e90-c44d-4377-9b5f-1edd3376f62a</_id>
 			<_myState type="a">8192</_myState>
