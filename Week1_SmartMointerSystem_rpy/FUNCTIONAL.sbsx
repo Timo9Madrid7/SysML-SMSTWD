@@ -12,7 +12,7 @@
 			<_id type="a">GUID 27961a6d-c22f-4538-a98d-1be811d317fb</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FUNCTIONAL</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::14:30:11</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.13.2024::8:28:41</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,12 +22,16 @@
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::14:30:11</_modifiedTime>
+			<_modifiedTime type="a">12.13.2024::8:28:41</_modifiedTime>
 			<_lastID type="a">9</_lastID>
-			<weakCGTime type="a">12.12.2024::14:30:11</weakCGTime>
+			<weakCGTime type="a">12.13.2024::8:28:41</weakCGTime>
 			<strongCGTime type="a">12.11.2024::18:36:1</strongCGTime>
 			<_defaultComposite type="s">GUID b100f88b-4d22-41fa-a7e6-132dd3bf3177</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<TableInstances type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</TableInstances>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 6f195e30-5279-423b-b5a9-b2cac692a12e</value>
@@ -35,15 +39,14 @@
 				<value>GUID 17195419-ed39-4e48-9a1b-d5a3255685f5</value>
 				<value>GUID 02404bff-ae12-4bb0-82d0-b10f392378f1</value>
 				<value>GUID b100f88b-4d22-41fa-a7e6-132dd3bf3177</value>
-				<value>GUID 56e14bf6-1d21-431e-b7cc-19178dd465e2</value>
 			</AggregatesList>
 		</ISubsystem>
 		<IRequirement type="e">
 			<_id type="a">GUID 6f195e30-5279-423b-b5a9-b2cac692a12e</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FR_SMSWTD</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::14:30:11</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:30:11</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.13.2024::8:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::8:28:41</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The SMSWTD system shall satisfy all functional requirements.\par%0D
@@ -83,8 +86,8 @@
 			<_id type="a">GUID c5b7c444-a92b-4e00-a436-beb2590b2aa4</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">RealTimeAnalysis</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::14:30:11</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:30:11</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.13.2024::8:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::8:28:41</_modifiedTime>
 			<_lastID type="a">7</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The SMSTWD shall continuously analyze data from sensors and predict the weather change.\par%0D
@@ -432,20 +435,55 @@
 			<_id type="a">GUID d376d7a9-7d13-4d6b-817e-f4acf4fba7e2</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DataProcessing</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::14:29:44</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:29:44</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.13.2024::8:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::8:28:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The SMSTWD shall be able to process the aggregated data through a central unit consisting of ML Models.\par%0D
 }%0D
 </_body>
 			<reqID type="a">106</reqID>
+			<AggregatesList type="e">
+				<value>GUID 68145a93-558e-49da-ad28-b15864280008</value>
+			</AggregatesList>
 		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 68145a93-558e-49da-ad28-b15864280008</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">RealTimeAnalysis</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.13.2024::8:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::8:28:41</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c5b7c444-a92b-4e00-a436-beb2590b2aa4</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID d376d7a9-7d13-4d6b-817e-f4acf4fba7e2</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
 		<IRequirement type="e">
 			<_id type="a">GUID 4ea3d4b6-524b-40f9-b0d0-6839141b750d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">RealTimeCommunication</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::8:48:27</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::8:48:27</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.12.2024::15:50:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::15:50:53</_modifiedTime>
 			<_lastID type="a">4</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The SMSWTD system shall communicate with satellite imagery, aircraft-based and underwater sensors to monitor and track storms in real time.\par%0D
@@ -578,11 +616,11 @@
 			<_id type="a">GUID 56fbd678-989a-4e03-9d21-1a7a204dab6b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DataTransmission</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::8:35:4</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::8:35:4</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.12.2024::15:50:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::15:50:53</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20\par%0D
+\viewkind4\uc1\pard\fs20 The SMSWTD system shall receive the raw data from sensors, and transfer the raw data to the processor for further preprocssing and analysis. \par%0D
 }%0D
 </_body>
 			<reqID type="a">201</reqID>
@@ -893,8 +931,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:30:11</_modifiedTime>
-			<_lastModifiedTime type="a">12.12.2024::14:30:11</_lastModifiedTime>
+			<_modifiedTime type="a">12.13.2024::8:29:40</_modifiedTime>
+			<_lastModifiedTime type="a">12.13.2024::8:29:40</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1059,7 +1097,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_transform type="a">7.51852 0 0 6.63636 16 20 </m_transform>
+			<m_transform type="a">8.41204 0 0 8.10606 20 20 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1138,7 +1176,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.116236 0 0 0.104396 904 59.687 </m_transform>
+			<m_transform type="a">0.116236 0 0 0.104396 1101 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1240,7 +1278,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.103321 0 0 0.104396 1311 59.687 </m_transform>
+			<m_transform type="a">0.103321 0 0 0.104396 1508 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1342,7 +1380,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.116236 0 0 0.104396 1104 59.687 </m_transform>
+			<m_transform type="a">0.116236 0 0 0.104396 1301 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1444,7 +1482,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.116236 0 0 0.104396 1504 59.687 </m_transform>
+			<m_transform type="a">0.116236 0 0 0.104396 1701 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1546,7 +1584,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.114391 0 0 0.155678 1136 539.533 </m_transform>
+			<m_transform type="a">0.114391 0 0 0.155678 1333 733.533 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1648,7 +1686,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.156827 0 0 0.172161 263 530.484 </m_transform>
+			<m_transform type="a">0.156827 0 0 0.172161 460 724.484 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1812,7 +1850,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.132841 0 0 0.292366 26 406.689 </m_transform>
+			<m_transform type="a">0.132841 0 0 0.292366 223 600.689 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1900,7 +1938,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.095941 0 0 0.104396 296 771.687 </m_transform>
+			<m_transform type="a">0.095941 0 0 0.104396 493 965.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2002,7 +2040,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.0867159 0 0 0.104396 26 59.687 </m_transform>
+			<m_transform type="a">0.0867159 0 0 0.104396 223 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2104,7 +2142,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.180812 0 0 0.104396 594 59.687 </m_transform>
+			<m_transform type="a">0.180812 0 0 0.104396 791 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2206,7 +2244,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.188192 0 0 0.104396 263 59.687 </m_transform>
+			<m_transform type="a">0.188192 0 0 0.104396 460 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2298,7 +2336,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 1198 741  374 741  </m_arrow>
+			<m_arrow type="a">2 1395 935  571 935  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -2405,7 +2443,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 98 749  322 749  </m_arrow>
+			<m_arrow type="a">2 295 943  519 943  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -3077,46 +3115,6 @@
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 		</IClass>
-		<ITableInstance type="e">
-			<_id type="a">GUID 56e14bf6-1d21-431e-b7cc-19178dd465e2</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">FUNCTINAL_REQ_TABLE</_name>
-			<Stereotypes type="c">
-				<IRPYRawContainer type="e">
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
-							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
-							<_hname type="a">RequirementsTable</_hname>
-							<_hid type="a">GUID ac8ca999-c415-4942-b5eb-99bb8da2415c</_hid>
-						</IHandle>
-					
-				</IRPYRawContainer>
-			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.12.2024::13:9:26</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::13:9:26</_modifiedTime>
-			<LayoutHandle type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">ITableLayout</_hm2Class>
-					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
-					<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
-					<_hname type="a">ReqTableLayout</_hname>
-					<_hid type="a">GUID 8f1f7467-b093-4abe-9871-3462587c6bc8</_hid>
-				</IHandle>
-			</LayoutHandle>
-			<ScopeHandles type="c">
-				<IRPYRawContainer type="e">
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IProject</_hm2Class>
-							<_hname type="a">Week1_SmartMointerSystem</_hname>
-							<_hid type="a">GUID 3ba853ba-d9fd-4910-b3de-dbf6529773aa</_hid>
-						</IHandle>
-					
-				</IRPYRawContainer>
-			</ScopeHandles>
-		</ITableInstance>
 		
 	</RHAPSODY-MODEL>
 	<OslcLinks type="c">
