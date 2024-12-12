@@ -12,7 +12,7 @@
 			<_id type="a">GUID 4b9def48-49f3-44ab-8b73-f66704b08a31</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SMSWTD_CONTEXT</_name>
-			<_modifiedTimeWeak type="a">12.11.2024::20:55:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.12.2024::9:44:38</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.11.2024::21:22:3</_modifiedTime>
+			<_modifiedTime type="a">12.12.2024::9:44:38</_modifiedTime>
 			<_lastID type="a">29</_lastID>
-			<weakCGTime type="a">12.11.2024::20:55:29</weakCGTime>
+			<weakCGTime type="a">12.12.2024::9:44:38</weakCGTime>
 			<strongCGTime type="a">12.11.2024::18:35:16</strongCGTime>
 			<_defaultComposite type="s">GUID 17ab1116-29c5-4a1d-a1ac-5b14b7298388</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -326,7 +326,7 @@
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
-			<_name type="a">SMS_STRUCTURE_DIAGRAM</_name>
+			<_name type="a">SMSWTD_STRUCTURE_DIAGRAM</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -341,8 +341,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.11.2024::21:23:29</_modifiedTime>
-			<_lastModifiedTime type="a">12.11.2024::21:23:29</_lastModifiedTime>
+			<_modifiedTime type="a">12.12.2024::9:44:38</_modifiedTime>
+			<_lastModifiedTime type="a">12.12.2024::9:44:38</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1639,7 +1639,7 @@
 			<m_pParent type="s">GUID 80410309-777a-4d53-a22f-ceb762f260ba</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">MLAlgorithms</m_str>
+					<m_str type="a">Algorithms</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1952,7 +1952,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSatelliteSystems_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1969,7 +1968,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSensors_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2121,7 +2119,7 @@
 				</IObjectLinkHandle>
 			</m_pInverseInstance>
 			<m_bShowSourceMultiplicity type="a">0</m_bShowSourceMultiplicity>
-			<m_bShowSourceRole type="a">1</m_bShowSourceRole>
+			<m_bShowSourceRole type="a">0</m_bShowSourceRole>
 			<m_bShowTargetMultiplicity type="a">0</m_bShowTargetMultiplicity>
 			<m_bShowTargetRole type="a">0</m_bShowTargetRole>
 			<m_bShowLinkName type="a">1</m_bShowLinkName>
@@ -2148,7 +2146,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSensors</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2311,7 +2308,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsUnderwaterSensors</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2328,7 +2324,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSensors</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2491,7 +2486,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSensors</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2508,7 +2502,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSMSWTD</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2670,7 +2663,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsTransformer</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2687,7 +2679,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsMLAlgorithms</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2849,7 +2840,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsMLAlgorithms</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2866,7 +2856,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsProcessors</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3029,7 +3018,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsProcessors</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3046,7 +3034,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSMSWTD</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3208,7 +3195,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSMSWTD</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3225,7 +3211,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsCommunicationInfrastructure</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3566,7 +3551,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsCommunicationInfrastructure</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3583,7 +3567,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsPublic</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3940,7 +3923,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsScientists_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3957,7 +3939,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsResearchGateway_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4119,7 +4100,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsResearchGateway_2</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4136,7 +4116,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsDataStorage_2</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4299,7 +4278,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsDataStorage_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4316,7 +4294,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSMSWTD_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4846,15 +4823,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.11.2024::20:53:33</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.12.2024::9:43:50</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e0460a5f-44f1-4ded-9864-7e7a3d9d7b9d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.11.2024::20:53:33</_modifiedTime>
-			<weakCGTime type="a">12.11.2024::20:53:33</weakCGTime>
+			<_modifiedTime type="a">12.12.2024::9:43:50</_modifiedTime>
+			<weakCGTime type="a">12.12.2024::9:43:50</weakCGTime>
 			<strongCGTime type="a">12.6.2024::14:58:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4869,9 +4846,9 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 57347f7a-d46a-44e0-9125-f6d6b22470cf</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsMLAlgorithms</_name>
-			<_modifiedTimeWeak type="a">12.11.2024::20:53:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.11.2024::20:53:18</_modifiedTime>
+			<_name type="a">itsAlgorithms</_name>
+			<_modifiedTimeWeak type="a">12.12.2024::9:43:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::9:43:50</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -5528,16 +5505,16 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.11.2024::21:22:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.12.2024::9:43:50</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e0460a5f-44f1-4ded-9864-7e7a3d9d7b9d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.11.2024::21:22:20</_modifiedTime>
+			<_modifiedTime type="a">12.12.2024::9:43:50</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">12.11.2024::21:22:20</weakCGTime>
+			<weakCGTime type="a">12.12.2024::9:43:50</weakCGTime>
 			<strongCGTime type="a">12.6.2024::15:1:20</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -5572,9 +5549,9 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID d8c07f1b-6064-4224-a327-d2995cfe9841</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsMLAlgorithms</_name>
-			<_modifiedTimeWeak type="a">12.11.2024::20:53:13</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.11.2024::20:53:13</_modifiedTime>
+			<_name type="a">itsAlgorithms</_name>
+			<_modifiedTimeWeak type="a">12.12.2024::9:43:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::9:43:50</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -5616,7 +5593,7 @@
 		<IClass type="e">
 			<_id type="a">GUID 9ed1ac68-7698-4f33-ac0c-116182d77482</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">MLAlgorithms</_name>
+			<_name type="a">Algorithms</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -5630,16 +5607,16 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.11.2024::20:53:18</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.12.2024::9:43:50</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e0460a5f-44f1-4ded-9864-7e7a3d9d7b9d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.11.2024::20:53:18</_modifiedTime>
-			<weakCGTime type="a">12.11.2024::20:53:18</weakCGTime>
-			<strongCGTime type="a">12.6.2024::15:1:30</strongCGTime>
+			<_modifiedTime type="a">12.12.2024::9:43:50</_modifiedTime>
+			<weakCGTime type="a">12.12.2024::9:43:50</weakCGTime>
+			<strongCGTime type="a">12.12.2024::9:43:50</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -5654,8 +5631,8 @@
 			<_id type="a">GUID 8ca95b13-cb88-44d0-b21b-93dcb3d9c28d</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsTransformer</_name>
-			<_modifiedTimeWeak type="a">12.11.2024::20:53:13</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.11.2024::20:53:13</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.12.2024::9:43:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::9:43:50</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -5676,8 +5653,8 @@
 			<_id type="a">GUID c7ede9b6-4042-42e8-9730-ccb0c67086e0</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsProcessors</_name>
-			<_modifiedTimeWeak type="a">12.11.2024::20:53:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.11.2024::20:53:18</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.12.2024::9:43:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::9:43:50</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
