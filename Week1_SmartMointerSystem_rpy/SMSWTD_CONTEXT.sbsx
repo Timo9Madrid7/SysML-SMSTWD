@@ -12,7 +12,7 @@
 			<_id type="a">GUID 4b9def48-49f3-44ab-8b73-f66704b08a31</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SMSWTD_CONTEXT</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::14:40:27</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.12.2024::15:7:52</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::14:34:35</_modifiedTime>
+			<_modifiedTime type="a">12.12.2024::15:13:34</_modifiedTime>
 			<_lastID type="a">31</_lastID>
-			<weakCGTime type="a">12.12.2024::14:40:27</weakCGTime>
+			<weakCGTime type="a">12.12.2024::15:7:52</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:4:10</strongCGTime>
 			<_defaultComposite type="s">GUID 17ab1116-29c5-4a1d-a1ac-5b14b7298388</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -4602,6 +4602,7 @@
 			<m_pParent type="s">GUID 80410309-777a-4d53-a22f-ceb762f260ba</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">rationale_30</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5002,15 +5003,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.12.2024::14:32:55</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.12.2024::15:7:52</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e0460a5f-44f1-4ded-9864-7e7a3d9d7b9d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::14:32:55</_modifiedTime>
-			<weakCGTime type="a">12.12.2024::14:32:55</weakCGTime>
+			<_modifiedTime type="a">12.12.2024::15:7:52</_modifiedTime>
+			<weakCGTime type="a">12.12.2024::15:7:52</weakCGTime>
 			<strongCGTime type="a">12.6.2024::14:58:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -5021,6 +5022,7 @@
 				<value>GUID 57347f7a-d46a-44e0-9125-f6d6b22470cf</value>
 				<value>GUID 788ffc2d-1b02-4d2c-a611-e73293db5a6f</value>
 				<value>GUID d1cbc291-621f-4f9e-ae67-d5d0d8e8e674</value>
+				<value>GUID 71f88a5e-15dc-4045-bb6c-348201405b38</value>
 			</AggregatesList>
 		</IClass>
 		<IAssociationEnd type="e">
@@ -5091,6 +5093,35 @@
 					<_hclass type="a">ProcessRawData</_hclass>
 					<_hname type="a">itsProcessors</_hname>
 					<_hid type="a">GUID 7916654c-fc7d-4007-a601-d7e638bd2904</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 71f88a5e-15dc-4045-bb6c-348201405b38</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMaintainers</_name>
+			<_modifiedTimeWeak type="a">12.12.2024::15:7:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::15:7:52</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
+					<_hname type="a">Maintainers</_hname>
+					<_hid type="a">GUID 020b266d-0b9d-4d2e-88cf-3d2f0ccf64e6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
+					<_hclass type="a">Maintainers</_hclass>
+					<_hname type="a">itsProcessors</_hname>
+					<_hid type="a">GUID f6c59e5b-7106-4957-8e96-8d96ad4975af</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
@@ -6343,15 +6374,15 @@
 			<_id type="a">GUID a6a652e1-0de9-45ab-af97-125700cf8ba9</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Scientists</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::14:42:37</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.12.2024::15:13:3</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e0460a5f-44f1-4ded-9864-7e7a3d9d7b9d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::14:42:37</_modifiedTime>
-			<weakCGTime type="a">12.12.2024::14:42:37</weakCGTime>
+			<_modifiedTime type="a">12.12.2024::15:13:3</_modifiedTime>
+			<weakCGTime type="a">12.12.2024::15:13:3</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:4:10</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -6434,16 +6465,16 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID b93fb049-852a-4058-813d-08ade33562d8</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsDownloadData</_name>
+			<_name type="a">itsReadData</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:42:37</_modifiedTime>
+			<_modifiedTime type="a">12.12.2024::15:13:3</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hname type="a">DownloadData</_hname>
+					<_hname type="a">ReadData</_hname>
 					<_hid type="a">GUID 80b0adb3-37cc-47e7-b922-b365a097943e</_hid>
 				</IClassifierHandle>
 			</_otherClass>
@@ -6452,7 +6483,7 @@
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hclass type="a">DownloadData</_hclass>
+					<_hclass type="a">ReadData</_hclass>
 					<_hname type="a">itsScientists</_hname>
 					<_hid type="a">GUID 12a7b7b2-ceef-4966-9600-80251e066869</_hid>
 				</IHandle>
