@@ -12,16 +12,16 @@
 			<_id type="a">GUID bc1817d3-d769-4c8a-8b9c-f70296eae11b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SMSWTD</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::14:19:11</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.13.2024::15:8:6</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::14:34:35</_modifiedTime>
-			<_lastID type="a">10</_lastID>
-			<weakCGTime type="a">12.12.2024::14:19:11</weakCGTime>
+			<_modifiedTime type="a">12.13.2024::16:20:35</_modifiedTime>
+			<_lastID type="a">12</_lastID>
+			<weakCGTime type="a">12.13.2024::15:8:6</weakCGTime>
 			<strongCGTime type="a">12.11.2024::18:42:25</strongCGTime>
 			<_defaultComposite type="s">GUID b4863571-3946-4a62-abf3-bf26a084705a</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -33,6 +33,7 @@
 				<value>GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</value>
 				<value>GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce</value>
 				<value>GUID b4863571-3946-4a62-abf3-bf26a084705a</value>
+				<value>GUID c872e75c-7e01-454b-ba2d-06f35a5ee860</value>
 			</AggregatesList>
 		</ISubsystem>
 		<ISubsystem type="e">
@@ -2265,6 +2266,64 @@
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID c872e75c-7e01-454b-ba2d-06f35a5ee860</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CheckDataIntegrityBLK</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.13.2024::15:8:6</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">Model1</_hname>
+					<_hid type="a">GUID c6f4c201-d6c5-4363-a25f-c086c87aee5e</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">TEST</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.13.2024::15:8:6</_modifiedTime>
+			<weakCGTime type="a">12.13.2024::15:8:6</weakCGTime>
+			<strongCGTime type="a">12.13.2024::14:57:23</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 0bffbb6b-2bed-4846-aea6-ebbc7cb036fb</value>
+			</AggregatesList>
+		</IClass>
+		<IMHyperLink type="e">
+			<_id type="a">GUID 0bffbb6b-2bed-4846-aea6-ebbc7cb036fb</_id>
+			<_modifiedTimeWeak type="a">12.13.2024::15:8:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::15:8:6</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
+					<_hname type="a">CheckDataIntegrity</_hname>
+					<_hid type="a">GUID 3ff29939-2d30-4edd-acdc-8e28eb98b288</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">CheckDataIntegrity</_linkDispName>
+			<_linkType type="a">NAME</_linkType>
+			<isConfigurationFileHyperLink type="a">0</isConfigurationFileHyperLink>
+		</IMHyperLink>
 		
 	</RHAPSODY-MODEL>
 	<OslcLinks type="c">

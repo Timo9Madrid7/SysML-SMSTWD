@@ -20,62 +20,28 @@
 						<_placement type="p">
 							<CCommon_WINDOWPLACEMENT type="e">
 								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
-								<m_nLeft type="a">96</m_nLeft>
-								<m_nTop type="a">96</m_nTop>
-								<m_nRight type="a">1130</m_nRight>
+								<m_nLeft type="a">192</m_nLeft>
+								<m_nTop type="a">192</m_nTop>
+								<m_nRight type="a">1288</m_nRight>
 								<m_nBottom type="a">632</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Week1_SmartMointerSystem_rpy\FUNCTIONAL.sbsx</_hfilename>
-								<_hsubsystem type="a">SMSWTD::ANALYSIS::REQUIREMENTS_PKG::FUNCTIONAL</_hsubsystem>
-								<_hname type="a">SMSWTD_FUNCTIONAL_REQUIREMENTS_DIAGRAM</_hname>
-								<_hid type="a">GUID 888f8e04-b35b-4d3c-b304-db16863677d4</_hid>
+								<_hname type="a">Model1</_hname>
+								<_hid type="a">GUID c6f4c201-d6c5-4363-a25f-c086c87aee5e</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">59 559 </_UpLeft>
-						<_DownRight type="a">1224 1105 </_DownRight>
-						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
-								<m_nLeft type="a">128</m_nLeft>
-								<m_nTop type="a">128</m_nTop>
-								<m_nRight type="a">1162</m_nRight>
-								<m_nBottom type="a">664</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Week1_SmartMointerSystem_rpy\NONFUNCTIONAL.sbsx</_hfilename>
-								<_hsubsystem type="a">SMSWTD::ANALYSIS::REQUIREMENTS_PKG::NONFUNCTIONAL</_hsubsystem>
-								<_hname type="a">SMSWTD_NONFUNCTIONAL_REQUIREMENTS_DIAGRAM</_hname>
-								<_hid type="a">GUID 07e4726a-b5b8-4c4c-b6da-ae0853bb00fc</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">21 258 </_UpLeft>
-						<_DownRight type="a">1012 722 </_DownRight>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1263 607 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -84,8 +50,72 @@
 						<_placement type="p">
 							<CCommon_WINDOWPLACEMENT type="e">
 								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">32</m_nLeft>
+								<m_nTop type="a">32</m_nTop>
+								<m_nRight type="a">1128</m_nRight>
+								<m_nBottom type="a">472</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Week1_SmartMointerSystem_rpy\SERVICE_UCS.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
+								<_hname type="a">BACKEND_UC_DIAGRAM</_hname>
+								<_hid type="a">GUID 27845941-e5e4-45f8-a804-202502ad4360</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 3 </_UpLeft>
+						<_DownRight type="a">1329 642 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
 								<m_nFlags type="a">0</m_nFlags>
 								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">64</m_nLeft>
+								<m_nTop type="a">64</m_nTop>
+								<m_nRight type="a">1160</m_nRight>
+								<m_nBottom type="a">504</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Week1_SmartMointerSystem_rpy\SERVICE_UCS.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
+								<_hname type="a">FRONTEND_UC_DIAGRAM</_hname>
+								<_hid type="a">GUID b45eb0f8-198c-4268-87f7-27645f92936b</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">132 -12 </_UpLeft>
+						<_DownRight type="a">1185 356 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
@@ -96,7 +126,7 @@
 								<m_nBottom type="a">561</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IUCDiagram</_hm2Class>
@@ -106,15 +136,47 @@
 								<_hid type="a">GUID 6ce96b26-8505-44a3-b4c1-2865f2c1a799</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">37 15 </_UpLeft>
-						<_DownRight type="a">1052 407 </_DownRight>
-						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<_UpLeft type="a">249 123 </_UpLeft>
+						<_DownRight type="a">1512 730 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">128</m_nLeft>
+								<m_nTop type="a">128</m_nTop>
+								<m_nRight type="a">1224</m_nRight>
+								<m_nBottom type="a">568</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Week1_SmartMointerSystem_rpy\SMSWTD.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD</_hsubsystem>
+								<_hname type="a">SMSWTD_PKG_DIAGRAM</_hname>
+								<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1263 607 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">D:\sysml\SysML-SMSTWD\Week1_SmartMointerSystem</_fullName>
+			<_fullName type="a">D:\projects\Rhapsody_9\Week1_SmartMointerSystem\Week1_SmartMointerSystem</_fullName>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -140,32 +202,13 @@
 				<name type="a">Avaliability</name>
 				<idOrFolder type="a">#startHnd# INObjectHandle 
 	- _m2Class = &quot;IRequirement&quot;#hndSem#
-	- _filename = &quot;D:\\sysml\\SysML-SMSTWD\\Week1_SmartMointerSystem_rpy\\NONFUNCTIONAL.sbsx&quot;#hndSem#
+	- _filename = &quot;D:\\projects\\Rhapsody_9\\Week1_SmartMointerSystem\\Week1_SmartMointerSystem_rpy\\NONFUNCTIONAL.sbsx&quot;#hndSem#
 	- _subsystem = &quot;SMSWTD::ANALYSIS::REQUIREMENTS_PKG::NONFUNCTIONAL&quot;#hndSem#
 	- _name = &quot;Avaliability&quot;#hndSem#
 	- _id = GUID 1edf3801-c89b-444b-878a-edce2ed9ba3e#hndSem#
 #endHnd#</idOrFolder>
 			</favoritesItem>
 			
-
-	- tableMatrixColWidth = {
-		count=1;
-		{ - TableMatrixView
-			id=56e14bf6-1d21-431e-b7cc-19178dd465e2;
-			colwidth=;60;-1;-1;;
-		}
-	}
-
-
-	- tableMatrixRowAdditionHight = {
-		count=1;
-		{ - TableMatrixView
-			id=56e14bf6-1d21-431e-b7cc-19178dd465e2;
-			rowAdditionalHight=;;
-			rowAdditionalHightExt=;
-		}
-	}
-
 		</CGEMdiWorkspace>
 		
 	</RHAPSODY-MODEL>
