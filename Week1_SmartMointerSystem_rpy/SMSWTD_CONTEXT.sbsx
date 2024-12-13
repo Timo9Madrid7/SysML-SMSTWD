@@ -12,7 +12,7 @@
 			<_id type="a">GUID 4b9def48-49f3-44ab-8b73-f66704b08a31</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SMSWTD_CONTEXT</_name>
-			<_modifiedTimeWeak type="a">12.13.2024::12:54:49</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.13.2024::14:19:13</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::12:54:49</_modifiedTime>
+			<_modifiedTime type="a">12.13.2024::14:23:19</_modifiedTime>
 			<_lastID type="a">31</_lastID>
-			<weakCGTime type="a">12.13.2024::12:54:49</weakCGTime>
+			<weakCGTime type="a">12.13.2024::14:19:13</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:4:10</strongCGTime>
 			<_defaultComposite type="s">GUID 17ab1116-29c5-4a1d-a1ac-5b14b7298388</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -5003,16 +5003,16 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.13.2024::12:54:49</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.13.2024::13:55:51</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e0460a5f-44f1-4ded-9864-7e7a3d9d7b9d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::12:54:49</_modifiedTime>
+			<_modifiedTime type="a">12.13.2024::13:55:51</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">12.13.2024::12:54:49</weakCGTime>
+			<weakCGTime type="a">12.13.2024::13:55:51</weakCGTime>
 			<strongCGTime type="a">12.6.2024::14:58:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -6135,15 +6135,15 @@
 			<_id type="a">GUID e5b29856-eb2e-4cf6-920e-951675242817</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">GovermentAgencies</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::14:28:43</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.13.2024::14:19:13</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e0460a5f-44f1-4ded-9864-7e7a3d9d7b9d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::14:28:43</_modifiedTime>
-			<weakCGTime type="a">12.12.2024::14:28:43</weakCGTime>
+			<_modifiedTime type="a">12.13.2024::14:19:13</_modifiedTime>
+			<weakCGTime type="a">12.13.2024::14:19:13</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:4:10</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -6181,16 +6181,16 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID d634f7f3-6aa7-455f-aa53-df0205e179d1</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsPushNotification</_name>
+			<_name type="a">itsNotify</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:28:37</_modifiedTime>
+			<_modifiedTime type="a">12.13.2024::14:23:55</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hname type="a">PushNotification</_hname>
+					<_hname type="a">Notify</_hname>
 					<_hid type="a">GUID ca99d3b7-3a50-491d-85b9-71e56efdf735</_hid>
 				</IClassifierHandle>
 			</_otherClass>
@@ -6199,7 +6199,7 @@
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hclass type="a">PushNotification</_hclass>
+					<_hclass type="a">Notify</_hclass>
 					<_hname type="a">itsGovermentAgencies</_hname>
 					<_hid type="a">GUID cb66f465-47aa-4865-8043-65380e7435cb</_hid>
 				</IHandle>
@@ -6210,16 +6210,16 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 5379c33a-8552-444c-b3ff-64edf52fdcf7</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsCheckWether</_name>
+			<_name type="a">itsCheckWeatherThreats</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:28:43</_modifiedTime>
+			<_modifiedTime type="a">12.13.2024::13:58:28</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hname type="a">CheckWether</_hname>
+					<_hname type="a">CheckWeatherThreats</_hname>
 					<_hid type="a">GUID e3916990-6df7-443f-bf7e-11c2b91b3196</_hid>
 				</IClassifierHandle>
 			</_otherClass>
@@ -6228,7 +6228,7 @@
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hclass type="a">CheckWether</_hclass>
+					<_hclass type="a">CheckWeatherThreats</_hclass>
 					<_hname type="a">itsGovermentAgencies</_hname>
 					<_hid type="a">GUID 2f37ff39-7fee-4b0e-bd7b-d8854ee6b09b</_hid>
 				</IHandle>
@@ -6240,15 +6240,15 @@
 			<_id type="a">GUID f883352f-0657-429b-b931-55c2d31c2669</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Public</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::14:28:52</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.13.2024::14:19:13</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e0460a5f-44f1-4ded-9864-7e7a3d9d7b9d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::14:28:52</_modifiedTime>
-			<weakCGTime type="a">12.12.2024::14:28:52</weakCGTime>
+			<_modifiedTime type="a">12.13.2024::14:19:13</_modifiedTime>
+			<weakCGTime type="a">12.13.2024::14:19:13</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:4:10</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -6286,16 +6286,16 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID bfdd024f-63b4-44c0-b409-146770e7950e</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsPushNotification</_name>
+			<_name type="a">itsNotify</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:28:47</_modifiedTime>
+			<_modifiedTime type="a">12.13.2024::14:23:55</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hname type="a">PushNotification</_hname>
+					<_hname type="a">Notify</_hname>
 					<_hid type="a">GUID ca99d3b7-3a50-491d-85b9-71e56efdf735</_hid>
 				</IClassifierHandle>
 			</_otherClass>
@@ -6304,7 +6304,7 @@
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hclass type="a">PushNotification</_hclass>
+					<_hclass type="a">Notify</_hclass>
 					<_hname type="a">itsPublic</_hname>
 					<_hid type="a">GUID 877370c7-d445-4bff-b8f4-6a843b6fc163</_hid>
 				</IHandle>
@@ -6315,16 +6315,16 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 3c408d29-e3ef-4917-82da-5f29c31eb844</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsCheckWether</_name>
+			<_name type="a">itsCheckWeatherThreats</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::14:28:52</_modifiedTime>
+			<_modifiedTime type="a">12.13.2024::13:58:28</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hname type="a">CheckWether</_hname>
+					<_hname type="a">CheckWeatherThreats</_hname>
 					<_hid type="a">GUID e3916990-6df7-443f-bf7e-11c2b91b3196</_hid>
 				</IClassifierHandle>
 			</_otherClass>
@@ -6333,7 +6333,7 @@
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hclass type="a">CheckWether</_hclass>
+					<_hclass type="a">CheckWeatherThreats</_hclass>
 					<_hname type="a">itsPublic</_hname>
 					<_hid type="a">GUID 0c544deb-60d8-435b-ba19-f67533a40848</_hid>
 				</IHandle>
