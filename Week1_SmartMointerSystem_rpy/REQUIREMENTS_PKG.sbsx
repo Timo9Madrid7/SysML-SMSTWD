@@ -12,7 +12,7 @@
 			<_id type="a">GUID 6fec1066-0a5f-41c8-af07-0c07b53cbfbf</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">REQUIREMENTS_PKG</_name>
-			<_modifiedTimeWeak type="a">12.13.2024::8:26:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.13.2024::13:42:56</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::8:26:0</_modifiedTime>
+			<_modifiedTime type="a">12.13.2024::13:42:56</_modifiedTime>
 			<_lastID type="a">2</_lastID>
-			<weakCGTime type="a">12.13.2024::8:26:0</weakCGTime>
+			<weakCGTime type="a">12.13.2024::13:42:56</weakCGTime>
 			<strongCGTime type="a">12.11.2024::18:43:16</strongCGTime>
 			<_defaultComposite type="s">GUID f1e0aa05-3c81-4265-8f1b-19f5b24a4b63</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -84,6 +84,35 @@
 		<ITableInstance type="e">
 			<_id type="a">GUID 56e14bf6-1d21-431e-b7cc-19178dd465e2</_id>
 			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Model</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">TableView</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">UseOwnerScope</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<_name type="a">FUNCTINAL_REQ_TABLE</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
@@ -98,8 +127,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.13.2024::8:26:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.13.2024::8:26:0</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.13.2024::13:42:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::13:42:56</_modifiedTime>
 			<LayoutHandle type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ITableLayout</_hm2Class>
