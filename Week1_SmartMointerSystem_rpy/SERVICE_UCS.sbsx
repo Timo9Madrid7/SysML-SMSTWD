@@ -12,10 +12,10 @@
 			<_id type="a">GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SERVICE_UCS</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::15:4:12</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::15:13:34</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.13.2024::12:54:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::12:54:49</_modifiedTime>
 			<_lastID type="a">14</_lastID>
-			<weakCGTime type="a">12.12.2024::15:4:12</weakCGTime>
+			<weakCGTime type="a">12.13.2024::12:54:49</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:22:59</strongCGTime>
 			<_defaultComposite type="s">GUID e0ceb06c-644f-4116-9fe5-b5d329f05ed8</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -440,8 +440,8 @@
 			</_properties>
 			<_name type="a">SERVICE_UC_DIAGRAM</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::15:13:3</_modifiedTime>
-			<_lastModifiedTime type="a">12.12.2024::15:13:3</_lastModifiedTime>
+			<_modifiedTime type="a">12.13.2024::12:54:59</_modifiedTime>
+			<_lastModifiedTime type="a">12.13.2024::12:54:59</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3588,7 +3588,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0489381 0 0 0.124343 1062.39 317.665 </m_transform>
+			<m_transform type="a">0.0489381 0 0 0.124343 1065.39 295.665 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3640,7 +3640,7 @@
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_pSource type="s">GUID 354ff985-699b-4d4c-86e2-28a824fd2513</m_pSource>
 			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 98f32bc5-e7ce-41a5-b872-48e359da758c</m_pTarget>
+			<m_pTarget type="s">GUID 7b907aaa-df98-4c57-bfd0-85034720211b</m_pTarget>
 			<m_targetType type="a">'T'</m_targetType>
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
@@ -3663,14 +3663,10 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">536 329 </m_TargetPort>
+			<m_TargetPort type="a">1127 558 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\SMSWTD_CONTEXT.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD::ANALYSIS::SMSWTD_CONTEXT</_hsubsystem>
-					<_hclass type="a">Processors</_hclass>
-					<_hname type="a">itsMaintainers</_hname>
 					<_hid type="a">GUID 71f88a5e-15dc-4045-bb6c-348201405b38</_hid>
 				</IAssociationEndHandle>
 			</m_pInverseModelObject>
@@ -3854,9 +3850,9 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">MointorWeatherAndTsunami</_name>
 			<_modifiedTimeWeak type="a">12.12.2024::14:42:29</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::15:13:3</_modifiedTime>
+			<_modifiedTime type="a">12.13.2024::12:54:49</_modifiedTime>
 			<_lastID type="a">5</_lastID>
-			<weakCGTime type="a">12.12.2024::14:42:29</weakCGTime>
+			<weakCGTime type="a">12.13.2024::12:54:49</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -3873,6 +3869,7 @@
 				<value>GUID 9cb30783-b5cc-4b74-b3eb-10a6a51b4d0b</value>
 				<value>GUID ecca1d37-9011-413b-bd0c-977a470af291</value>
 				<value>GUID 5a2aceab-d55c-4c09-b242-d807eea103a8</value>
+				<value>GUID 71f88a5e-15dc-4045-bb6c-348201405b38</value>
 			</AggregatesList>
 		</IUseCase>
 		<IDependency type="e">
@@ -4030,6 +4027,28 @@
 				</INObjectHandle>
 			</_dependent>
 		</IDependency>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 71f88a5e-15dc-4045-bb6c-348201405b38</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMaintainers</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::12:54:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::12:54:49</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID 020b266d-0b9d-4d2e-88cf-3d2f0ccf64e6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID f6c59e5b-7106-4957-8e96-8d96ad4975af</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IUseCase type="e">
 			<_id type="a">GUID ca99d3b7-3a50-491d-85b9-71e56efdf735</_id>
 			<_myState type="a">8192</_myState>
@@ -4428,15 +4447,15 @@
 			<_id type="a">GUID 020b266d-0b9d-4d2e-88cf-3d2f0ccf64e6</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Maintainers</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::15:7:52</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.13.2024::12:54:49</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
 					<_hid type="a">GUID 6ce96b26-8505-44a3-b4c1-2865f2c1a799</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::15:7:52</_modifiedTime>
-			<weakCGTime type="a">12.12.2024::15:7:52</weakCGTime>
+			<_modifiedTime type="a">12.13.2024::12:54:49</_modifiedTime>
+			<weakCGTime type="a">12.13.2024::12:54:49</weakCGTime>
 			<strongCGTime type="a">12.12.2024::15:4:22</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4450,26 +4469,19 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID f6c59e5b-7106-4957-8e96-8d96ad4975af</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsProcessors</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::15:7:52</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::15:7:52</_modifiedTime>
+			<_name type="a">itsMointorWeatherAndTsunami</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::12:54:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::12:54:49</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
-					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD_CONTEXT.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD::ANALYSIS::SMSWTD_CONTEXT</_hsubsystem>
-					<_hname type="a">Processors</_hname>
-					<_hid type="a">GUID dd20f456-c0d8-48c4-bc91-cf768de72c43</_hid>
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID bbb5d4cf-675e-4494-ae55-e1c39bc38431</_hid>
 				</IClassifierHandle>
 			</_otherClass>
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\SMSWTD_CONTEXT.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD::ANALYSIS::SMSWTD_CONTEXT</_hsubsystem>
-					<_hclass type="a">Processors</_hclass>
-					<_hname type="a">itsMaintainers</_hname>
 					<_hid type="a">GUID 71f88a5e-15dc-4045-bb6c-348201405b38</_hid>
 				</IHandle>
 			</_inverse>
