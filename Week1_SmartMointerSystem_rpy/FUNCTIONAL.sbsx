@@ -12,7 +12,7 @@
 			<_id type="a">GUID 27961a6d-c22f-4538-a98d-1be811d317fb</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FUNCTIONAL</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::9:17:33</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.13.2024::8:28:41</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,12 +22,16 @@
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::9:17:33</_modifiedTime>
-			<_lastID type="a">8</_lastID>
-			<weakCGTime type="a">12.12.2024::9:17:33</weakCGTime>
+			<_modifiedTime type="a">12.13.2024::8:28:41</_modifiedTime>
+			<_lastID type="a">9</_lastID>
+			<weakCGTime type="a">12.13.2024::8:28:41</weakCGTime>
 			<strongCGTime type="a">12.11.2024::18:36:1</strongCGTime>
 			<_defaultComposite type="s">GUID b100f88b-4d22-41fa-a7e6-132dd3bf3177</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<TableInstances type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</TableInstances>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 6f195e30-5279-423b-b5a9-b2cac692a12e</value>
@@ -41,8 +45,8 @@
 			<_id type="a">GUID 6f195e30-5279-423b-b5a9-b2cac692a12e</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FR_SMSWTD</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::9:17:33</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::9:17:33</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.13.2024::8:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::8:28:41</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The SMSWTD system shall satisfy all functional requirements.\par%0D
@@ -82,9 +86,9 @@
 			<_id type="a">GUID c5b7c444-a92b-4e00-a436-beb2590b2aa4</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">RealTimeAnalysis</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::9:17:33</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::9:17:33</_modifiedTime>
-			<_lastID type="a">5</_lastID>
+			<_modifiedTimeWeak type="a">12.13.2024::8:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::8:28:41</_modifiedTime>
+			<_lastID type="a">7</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The SMSTWD shall continuously analyze data from sensors and predict the weather change.\par%0D
 }%0D
@@ -95,6 +99,8 @@
 				<value>GUID 0616d8b6-3416-4bcb-9a77-6c485a7d9f9b</value>
 				<value>GUID 54bcfd7c-4dfc-4051-962a-09a5a4719890</value>
 				<value>GUID 08b5c1bb-f097-4ca9-a1f7-64e2d4e641f8</value>
+				<value>GUID 44097805-a66a-4e87-84bb-5629731d12c1</value>
+				<value>GUID d376d7a9-7d13-4d6b-817e-f4acf4fba7e2</value>
 			</AggregatesList>
 		</IRequirement>
 		<IRequirement type="e">
@@ -148,11 +154,11 @@
 			<_id type="a">GUID 0616d8b6-3416-4bcb-9a77-6c485a7d9f9b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DataAggregation</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::9:17:33</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::9:17:33</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.12.2024::14:26:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::14:26:20</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 The SMSTWD system shall integrate seismic and oceanographic data into predictive models, meanwhile the system shall collect data from satellites, aircraft, and underwater sensors and processes it through a central unit.\par%0D
+\viewkind4\uc1\pard\fs20 The SMSTWD system shall integrate seismic and oceanographic data into predictive models.\par%0D
 }%0D
 </_body>
 			<reqID type="a">101</reqID>
@@ -295,11 +301,11 @@
 			<_id type="a">GUID 08b5c1bb-f097-4ca9-a1f7-64e2d4e641f8</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MLModelAnalysis</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::8:43:23</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::8:43:23</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.12.2024::14:30:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::14:30:11</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20 The SMSTWD system shall integrate seismic and oceanographic data into predictive models, assessing the likelihood, intensity, and potential impact of a tsunami.\par%0D
+\viewkind4\uc1\pard\fs20 The SMSTWD system shall assess the likelihood, intensity, and potential impact of a tsunami based on the data processing result.\par%0D
 }%0D
 </_body>
 			<reqID type="a">103</reqID>
@@ -359,11 +365,125 @@
 			</_dependent>
 		</IDependency>
 		<IRequirement type="e">
+			<_id type="a">GUID 44097805-a66a-4e87-84bb-5629731d12c1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DataCollection</_name>
+			<_modifiedTimeWeak type="a">12.12.2024::14:25:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::14:25:54</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The SMSTWD system shall collect data from different data sources.\par%0D
+}%0D
+</_body>
+			<reqID type="a">105</reqID>
+			<AggregatesList type="e">
+				<value>GUID 91857da2-93b4-422e-aaf8-2b8dc8a588b9</value>
+				<value>GUID 0dc5a773-a837-4900-9577-6bbb99de7321</value>
+				<value>GUID f69f87b3-44fb-4cf7-bdad-b5ec7e4b397c</value>
+				<value>GUID 3e4e8c53-1fd6-4a72-aa1a-73e847a8d3e1</value>
+			</AggregatesList>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 91857da2-93b4-422e-aaf8-2b8dc8a588b9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SeismicSensorCollecting</_name>
+			<_modifiedTimeWeak type="a">12.12.2024::14:19:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::14:19:31</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The SMSTWD system shall be able to collect data from seismic sensors every X miliseconds. \par%0D
+}%0D
+</_body>
+			<reqID type="a">105.1</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 0dc5a773-a837-4900-9577-6bbb99de7321</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SatelliteDataCollecting</_name>
+			<_modifiedTimeWeak type="a">12.12.2024::14:21:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::14:21:22</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The SMSTWD system shall be able to collect imaging data from satellites.\par%0D
+}%0D
+</_body>
+			<reqID type="a">105.2</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID f69f87b3-44fb-4cf7-bdad-b5ec7e4b397c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">UnderWaterDataCollecting</_name>
+			<_modifiedTimeWeak type="a">12.12.2024::14:21:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::14:21:44</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The SMSTWD shall be able to collect data from under water sensors.\par%0D
+}%0D
+</_body>
+			<reqID type="a">105.3</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 3e4e8c53-1fd6-4a72-aa1a-73e847a8d3e1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">AircraftDataCollecting</_name>
+			<_modifiedTimeWeak type="a">12.12.2024::14:25:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::14:25:54</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The SMSTWD system shall be able to collect data from aircrafts.\par%0D
+}%0D
+</_body>
+			<reqID type="a">105.4</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID d376d7a9-7d13-4d6b-817e-f4acf4fba7e2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DataProcessing</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::8:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::8:28:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The SMSTWD shall be able to process the aggregated data through a central unit consisting of ML Models.\par%0D
+}%0D
+</_body>
+			<reqID type="a">106</reqID>
+			<AggregatesList type="e">
+				<value>GUID 68145a93-558e-49da-ad28-b15864280008</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 68145a93-558e-49da-ad28-b15864280008</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">RealTimeAnalysis</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.13.2024::8:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::8:28:41</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c5b7c444-a92b-4e00-a436-beb2590b2aa4</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID d376d7a9-7d13-4d6b-817e-f4acf4fba7e2</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
 			<_id type="a">GUID 4ea3d4b6-524b-40f9-b0d0-6839141b750d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">RealTimeCommunication</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::8:48:27</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::8:48:27</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.12.2024::15:50:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::15:50:53</_modifiedTime>
 			<_lastID type="a">4</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fs20 The SMSWTD system shall communicate with satellite imagery, aircraft-based and underwater sensors to monitor and track storms in real time.\par%0D
@@ -496,11 +616,11 @@
 			<_id type="a">GUID 56fbd678-989a-4e03-9d21-1a7a204dab6b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DataTransmission</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::8:35:4</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::8:35:4</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.12.2024::15:50:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::15:50:53</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\fs20\par%0D
+\viewkind4\uc1\pard\fs20 The SMSWTD system shall receive the raw data from sensors, and transfer the raw data to the processor for further preprocssing and analysis. \par%0D
 }%0D
 </_body>
 			<reqID type="a">201</reqID>
@@ -811,8 +931,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::9:17:40</_modifiedTime>
-			<_lastModifiedTime type="a">12.12.2024::9:17:40</_lastModifiedTime>
+			<_modifiedTime type="a">12.13.2024::8:29:40</_modifiedTime>
+			<_lastModifiedTime type="a">12.13.2024::8:29:40</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -977,7 +1097,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_transform type="a">7.51852 0 0 6.63636 16 20 </m_transform>
+			<m_transform type="a">8.41204 0 0 8.10606 20 20 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1056,7 +1176,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.116236 0 0 0.104396 904 59.687 </m_transform>
+			<m_transform type="a">0.116236 0 0 0.104396 1101 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1158,7 +1278,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.103321 0 0 0.104396 1311 59.687 </m_transform>
+			<m_transform type="a">0.103321 0 0 0.104396 1508 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1260,7 +1380,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.116236 0 0 0.104396 1104 59.687 </m_transform>
+			<m_transform type="a">0.116236 0 0 0.104396 1301 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1362,7 +1482,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.116236 0 0 0.104396 1504 59.687 </m_transform>
+			<m_transform type="a">0.116236 0 0 0.104396 1701 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1464,7 +1584,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.114391 0 0 0.155678 1136 539.533 </m_transform>
+			<m_transform type="a">0.114391 0 0 0.155678 1333 733.533 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1566,7 +1686,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.156827 0 0 0.172161 263 530.484 </m_transform>
+			<m_transform type="a">0.156827 0 0 0.172161 460 724.484 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1730,7 +1850,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.132841 0 0 0.292366 26 406.689 </m_transform>
+			<m_transform type="a">0.132841 0 0 0.292366 223 600.689 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1818,7 +1938,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.095941 0 0 0.104396 296 771.687 </m_transform>
+			<m_transform type="a">0.095941 0 0 0.104396 493 965.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1920,7 +2040,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.0867159 0 0 0.104396 26 59.687 </m_transform>
+			<m_transform type="a">0.0867159 0 0 0.104396 223 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2022,7 +2142,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.180812 0 0 0.104396 594 59.687 </m_transform>
+			<m_transform type="a">0.180812 0 0 0.104396 791 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2124,7 +2244,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.188192 0 0 0.104396 263 59.687 </m_transform>
+			<m_transform type="a">0.188192 0 0 0.104396 460 253.687 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2216,7 +2336,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 1198 741  374 741  </m_arrow>
+			<m_arrow type="a">2 1395 935  571 935  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -2323,7 +2443,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 98 749  322 749  </m_arrow>
+			<m_arrow type="a">2 295 943  519 943  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
