@@ -12,20 +12,20 @@
 			<_id type="a">GUID bc1817d3-d769-4c8a-8b9c-f70296eae11b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SMSWTD</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:7:40</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.16.2024::11:19:8</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.16.2024::10:7:40</_modifiedTime>
-			<_lastID type="a">15</_lastID>
-			<weakCGTime type="a">12.16.2024::10:7:40</weakCGTime>
-			<strongCGTime type="a">12.11.2024::18:42:25</strongCGTime>
+			<_modifiedTime type="a">12.16.2024::11:19:8</_modifiedTime>
+			<_lastID type="a">57</_lastID>
+			<weakCGTime type="a">12.16.2024::11:19:8</weakCGTime>
+			<strongCGTime type="a">12.16.2024::11:6:34</strongCGTime>
 			<_defaultComposite type="s">GUID b4863571-3946-4a62-abf3-bf26a084705a</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.16.2024::10:7:40</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">12.16.2024::10:51:5</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 7d5a2172-50e1-4696-9985-446746e23e09</value>
 				<value>GUID 6318d626-f6a6-4439-a936-5b0094dee642</value>
@@ -33,6 +33,24 @@
 				<value>GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</value>
 				<value>GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce</value>
 				<value>GUID b4863571-3946-4a62-abf3-bf26a084705a</value>
+				<value>GUID 7669df41-2049-4f23-bd8a-2fbc5d9c56d8</value>
+				<value>GUID 5820aabb-16b9-4c8e-a6ec-8608b6930678</value>
+				<value>GUID b8ff8b68-652c-4df3-a58f-ae24932f1eb2</value>
+				<value>GUID e97c22d4-40db-401c-a626-e7cfb8874710</value>
+				<value>GUID 8d65d5ec-91ea-4af9-943a-1014e7b1875e</value>
+				<value>GUID 96772d76-5a28-4d5f-a53c-0f7635bd9555</value>
+				<value>GUID 3352195a-1545-43c3-83e7-602d9f031d53</value>
+				<value>GUID 565ae51d-29c7-4489-8f7a-e33e8faeaf8f</value>
+				<value>GUID 37e04475-8451-43f4-8646-5921a69006ef</value>
+				<value>GUID 85875642-178e-4b66-a1b0-a611fca9944c</value>
+				<value>GUID 84c4f77c-6eff-4a8d-bbe0-096872c5e727</value>
+				<value>GUID 6a65e4d0-ba56-4e3f-86f5-785ae47659f2</value>
+				<value>GUID cebbbf68-32c1-4e03-ad4f-07b6a094afd3</value>
+				<value>GUID 4314678b-1972-429e-8470-c36efa66ce16</value>
+				<value>GUID 38cfa279-4cad-431b-910d-f23a2d4d5228</value>
+				<value>GUID 70807596-6ae0-47af-b6cd-68861dc56aa3</value>
+				<value>GUID 2f7d4293-aabc-4920-8dbc-5b7b641e8323</value>
+				<value>GUID b54c813b-e1d4-486e-85b7-dffeaa0a03a3</value>
 			</AggregatesList>
 		</ISubsystem>
 		<ISubsystem type="e">
@@ -2255,10 +2273,1065 @@
 			<_id type="a">GUID b4863571-3946-4a62-abf3-bf26a084705a</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
-			<_modifiedTimeWeak type="a">12.11.2024::18:42:25</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.16.2024::10:51:24</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<weakCGTime type="a">12.11.2024::18:42:25</weakCGTime>
-			<strongCGTime type="a">12.11.2024::18:42:25</strongCGTime>
+			<weakCGTime type="a">12.16.2024::10:51:24</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:51:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 7669df41-2049-4f23-bd8a-2fbc5d9c56d8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">IntraCommunicationInterface</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::11:14:40</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::11:14:40</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::11:14:40</weakCGTime>
+			<strongCGTime type="a">12.16.2024::11:11:56</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 73e4ad4b-994d-4bdb-a69a-157b3169c750</value>
+				<value>GUID f03bd6b3-012d-443f-9f1d-2c0b2391754d</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID 73e4ad4b-994d-4bdb-a69a-157b3169c750</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 5820aabb-16b9-4c8e-a6ec-8608b6930678</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f03bd6b3-012d-443f-9f1d-2c0b2391754d</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMaintainerPortal</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:14:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:14:40</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 6a65e4d0-ba56-4e3f-86f5-785ae47659f2</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 5820aabb-16b9-4c8e-a6ec-8608b6930678</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CommunicationInterface</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::10:51:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::10:41:27</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::10:51:24</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:51:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID b8ff8b68-652c-4df3-a58f-ae24932f1eb2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">InterCommunicationInterface</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::11:11:48</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::11:11:48</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::11:11:48</weakCGTime>
+			<strongCGTime type="a">12.16.2024::11:11:48</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 40d696c3-f95a-4daf-ae61-8b5005324509</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID 40d696c3-f95a-4daf-ae61-8b5005324509</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 5820aabb-16b9-4c8e-a6ec-8608b6930678</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IClass type="e">
+			<_id type="a">GUID e97c22d4-40db-401c-a626-e7cfb8874710</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SecurityManager</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::10:51:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::10:44:38</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::10:51:24</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:51:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 8d65d5ec-91ea-4af9-943a-1014e7b1875e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">LoginAuthenticator</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::11:17:22</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::11:17:22</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::11:17:22</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:51:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<Associations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Associations>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID fd47bf2d-b525-4eb7-a6f4-d8f3ea88836d</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID fd47bf2d-b525-4eb7-a6f4-d8f3ea88836d</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID e97c22d4-40db-401c-a626-e7cfb8874710</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IClass type="e">
+			<_id type="a">GUID 96772d76-5a28-4d5f-a53c-0f7635bd9555</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SecureTransmissionManager</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::10:51:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::10:45:50</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::10:51:24</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:51:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 35e3b9e2-08d0-44f6-acc6-7f000d39c513</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID 35e3b9e2-08d0-44f6-acc6-7f000d39c513</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID e97c22d4-40db-401c-a626-e7cfb8874710</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IClass type="e">
+			<_id type="a">GUID 3352195a-1545-43c3-83e7-602d9f031d53</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ProcessorDataLoader</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::10:51:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::10:50:24</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::10:51:24</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:51:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 565ae51d-29c7-4489-8f7a-e33e8faeaf8f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RawDataSender</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::10:51:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::10:50:24</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::10:51:24</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:51:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 1d61c8c5-faa0-40c1-80bc-897dc2deac93</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID 1d61c8c5-faa0-40c1-80bc-897dc2deac93</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 3352195a-1545-43c3-83e7-602d9f031d53</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IClass type="e">
+			<_id type="a">GUID 37e04475-8451-43f4-8646-5921a69006ef</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ProcessedDataReceiver</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::10:51:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::10:50:24</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::10:51:24</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:51:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID ae605724-263a-4e65-8703-c6e062619fdf</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID ae605724-263a-4e65-8703-c6e062619fdf</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 3352195a-1545-43c3-83e7-602d9f031d53</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IClass type="e">
+			<_id type="a">GUID 85875642-178e-4b66-a1b0-a611fca9944c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">UserPortal</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::10:53:13</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::10:53:13</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::10:53:13</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:53:13</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 84c4f77c-6eff-4a8d-bbe0-096872c5e727</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ResearcherPortal</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::11:17:22</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::11:17:22</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::11:17:22</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:52:30</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 7139be0e-b502-479f-ac44-062d163f4fd2</value>
+				<value>GUID e889f1ba-08f4-4d7d-9472-d3fe2e8f23a4</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID 7139be0e-b502-479f-ac44-062d163f4fd2</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 85875642-178e-4b66-a1b0-a611fca9944c</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID e889f1ba-08f4-4d7d-9472-d3fe2e8f23a4</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsLoginAuthenticator</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::10:57:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::10:57:20</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 8d65d5ec-91ea-4af9-943a-1014e7b1875e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 6a65e4d0-ba56-4e3f-86f5-785ae47659f2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MaintainerPortal</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::11:17:18</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::11:17:18</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::11:17:18</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:52:39</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID ae971116-5ccb-4a0e-8e36-aaef1f1c31a2</value>
+				<value>GUID 1d2ca1d7-3e87-40b9-b0ee-b6f78965e5cd</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID ae971116-5ccb-4a0e-8e36-aaef1f1c31a2</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 85875642-178e-4b66-a1b0-a611fca9944c</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1d2ca1d7-3e87-40b9-b0ee-b6f78965e5cd</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsLoginAuthenticator</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::10:57:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::10:57:39</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 8d65d5ec-91ea-4af9-943a-1014e7b1875e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID cebbbf68-32c1-4e03-ad4f-07b6a094afd3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CommunicationChannel</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::10:53:34</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::10:53:34</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::10:53:34</weakCGTime>
+			<strongCGTime type="a">12.16.2024::10:53:34</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 4314678b-1972-429e-8470-c36efa66ce16</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MonitorSystem</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::11:14:50</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::11:14:50</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::11:14:50</weakCGTime>
+			<strongCGTime type="a">12.16.2024::11:0:42</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 40ece66c-eaee-4548-ad9c-f12b71822926</value>
+				<value>GUID 209aa80f-b6e3-4c05-b1b0-938d6a1a12a8</value>
+				<value>GUID 910940ec-aebb-4164-a91e-ce0cecadf8df</value>
+				<value>GUID ca99c583-b692-4880-bb89-76a8ef07a601</value>
+				<value>GUID a815d444-f052-41c2-b94c-601056569a65</value>
+				<value>GUID 11cad7a8-186f-4c86-a820-81e69eec8a12</value>
+				<value>GUID ead2b6ed-95cd-467e-a700-bf71d6855791</value>
+				<value>GUID d061626d-9999-46cc-8995-0429ce3d3c0d</value>
+				<value>GUID 8dc19d8e-4215-46ad-9ccc-2bb960db72cb</value>
+				<value>GUID 55215c76-9082-40fc-8a7b-f07699302f8e</value>
+			</AggregatesList>
+		</IClass>
+		<IPart type="e">
+			<_id type="a">GUID 40ece66c-eaee-4548-ad9c-f12b71822926</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsIntraCommunicationInterface</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:11:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:11:56</_modifiedTime>
+			<_multiplicity type="a">1..*</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 7669df41-2049-4f23-bd8a-2fbc5d9c56d8</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 209aa80f-b6e3-4c05-b1b0-938d6a1a12a8</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsInterCommunicationInterface</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:11:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:11:48</_modifiedTime>
+			<_multiplicity type="a">1..*</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b8ff8b68-652c-4df3-a58f-ae24932f1eb2</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 910940ec-aebb-4164-a91e-ce0cecadf8df</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsResearcherPortal</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:5:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:5:7</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 84c4f77c-6eff-4a8d-bbe0-096872c5e727</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID ca99c583-b692-4880-bb89-76a8ef07a601</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMaintainerPortal</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:6:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:6:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 6a65e4d0-ba56-4e3f-86f5-785ae47659f2</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID a815d444-f052-41c2-b94c-601056569a65</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMaintainerPortal_1</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:14:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:14:38</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 6a65e4d0-ba56-4e3f-86f5-785ae47659f2</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Aggreg</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 11cad7a8-186f-4c86-a820-81e69eec8a12</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsResearcherPortal_1</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:14:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:14:50</_modifiedTime>
+			<_multiplicity type="a">*</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 84c4f77c-6eff-4a8d-bbe0-096872c5e727</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Aggreg</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID ead2b6ed-95cd-467e-a700-bf71d6855791</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsRawDataSender</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:9:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:9:22</_modifiedTime>
+			<_multiplicity type="a">1..*</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 565ae51d-29c7-4489-8f7a-e33e8faeaf8f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d061626d-9999-46cc-8995-0429ce3d3c0d</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsProcessedDataReceiver</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:9:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:9:27</_modifiedTime>
+			<_multiplicity type="a">1..*</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 37e04475-8451-43f4-8646-5921a69006ef</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IPart type="e">
+			<_id type="a">GUID 8dc19d8e-4215-46ad-9ccc-2bb960db72cb</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsRawDataSender_1</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:9:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:9:50</_modifiedTime>
+			<_multiplicity type="a">1..*</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 565ae51d-29c7-4489-8f7a-e33e8faeaf8f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 55215c76-9082-40fc-8a7b-f07699302f8e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsProcessedDataReceiver_1</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::11:9:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:9:57</_modifiedTime>
+			<_multiplicity type="a">1..*</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 37e04475-8451-43f4-8646-5921a69006ef</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IClass type="e">
+			<_id type="a">GUID 38cfa279-4cad-431b-910d-f23a2d4d5228</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">UserDatabase</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::11:19:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::11:19:24</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::11:19:24</weakCGTime>
+			<strongCGTime type="a">12.16.2024::11:17:42</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID d2011763-83ed-4f4f-b733-0f5ed54123a9</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID d2011763-83ed-4f4f-b733-0f5ed54123a9</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b54c813b-e1d4-486e-85b7-dffeaa0a03a3</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IClass type="e">
+			<_id type="a">GUID 70807596-6ae0-47af-b6cd-68861dc56aa3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SensorDatabase</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::11:19:22</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::11:19:22</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::11:19:22</weakCGTime>
+			<strongCGTime type="a">12.16.2024::11:18:38</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID a2718939-4585-4e66-b728-e3006a966e04</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID a2718939-4585-4e66-b728-e3006a966e04</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b54c813b-e1d4-486e-85b7-dffeaa0a03a3</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IClass type="e">
+			<_id type="a">GUID 2f7d4293-aabc-4920-8dbc-5b7b641e8323</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ProcessedDataDatabase</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::11:19:20</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::11:19:20</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::11:19:20</weakCGTime>
+			<strongCGTime type="a">12.16.2024::11:19:8</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 043dff1f-5dd8-4fff-be0a-01f85181c6b4</value>
+			</AggregatesList>
+		</IClass>
+		<IGeneralization type="e">
+			<_id type="a">GUID 043dff1f-5dd8-4fff-be0a-01f85181c6b4</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b54c813b-e1d4-486e-85b7-dffeaa0a03a3</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IClass type="e">
+			<_id type="a">GUID b54c813b-e1d4-486e-85b7-dffeaa0a03a3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Database</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.16.2024::11:19:13</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">MONITORSYSTEM</_hname>
+					<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::11:19:13</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::11:19:13</weakCGTime>
+			<strongCGTime type="a">12.16.2024::11:19:13</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
