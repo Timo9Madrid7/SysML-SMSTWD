@@ -24,9 +24,9 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.13.2024::15:21:39</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.13.2024::16:20:35</_modifiedTime>
-			<_lastID type="a">5</_lastID>
+			<_modifiedTimeWeak type="a">12.16.2024::9:9:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::9:10:4</_modifiedTime>
+			<_lastID type="a">7</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<value>16777215</value>
@@ -99,7 +99,7 @@
 				<value>GUID 5717d983-7bb5-4aba-bdc8-41bcb977f568</value>
 				<value>GUID 52939b8e-061c-41b8-b7d5-721e770f9c54</value>
 				<value>GUID bc1817d3-d769-4c8a-8b9c-f70296eae11b</value>
-				<value>GUID c6f4c201-d6c5-4363-a25f-c086c87aee5e</value>
+				<value>GUID 1f290363-ff5a-4d58-b66c-e3e8f6ee46c9</value>
 				<value>GUID 999121f5-ce5a-4693-86dc-bf82e99fa08a</value>
 			</AggregatesList>
 		</IProject>
@@ -131,7 +131,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.6.2024::14:50:25</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.16.2024::9:9:49</_modifiedTimeWeak>
 			<_modifiedTime type="a">12.6.2024::14:50:25</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
@@ -153,7 +153,7 @@
 			<_id type="a">GUID bc1817d3-d769-4c8a-8b9c-f70296eae11b</_id>
 		</ISubsystem>
 		<IDiagram type="e">
-			<_id type="a">GUID c6f4c201-d6c5-4363-a25f-c086c87aee5e</_id>
+			<_id type="a">GUID 1f290363-ff5a-4d58-b66c-e3e8f6ee46c9</_id>
 			<_myState type="a">8192</_myState>
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
@@ -226,7 +226,7 @@
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
-			<_name type="a">Model1</_name>
+			<_name type="a">MOBILEAPP</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -240,8 +240,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.11.2024::18:19:5</_modifiedTime>
-			<_lastModifiedTime type="a">12.11.2024::18:19:5</_lastModifiedTime>
+			<_modifiedTime type="a">12.16.2024::9:10:0</_modifiedTime>
+			<_lastModifiedTime type="a">12.16.2024::9:10:0</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -254,17 +254,17 @@
 				</IHandle>
 			</_defaultSubsystem>
 			<AggregatesList type="e">
-				<value>GUID e58dc5fa-3f31-4342-9624-759b5a35a90b</value>
+				<value>GUID 8f1fd434-d035-4392-9093-d0f7526b7c88</value>
 			</AggregatesList>
 		</IDiagram>
 		<CGIClassChart type="e">
-			<_id type="a">GUID e58dc5fa-3f31-4342-9624-759b5a35a90b</_id>
+			<_id type="a">GUID 8f1fd434-d035-4392-9093-d0f7526b7c88</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
-					<_hname type="a">Model1</_hname>
-					<_hid type="a">GUID c6f4c201-d6c5-4363-a25f-c086c87aee5e</_hid>
+					<_hname type="a">MOBILEAPP</_hname>
+					<_hid type="a">GUID 1f290363-ff5a-4d58-b66c-e3e8f6ee46c9</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s"></m_pParent>
@@ -294,17 +294,17 @@
 			<m_nCreateDate type="a">0</m_nCreateDate>
 			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
 			<m_arrowStyle type="a">'S'</m_arrowStyle>
-			<m_pRoot type="s">GUID f452502b-843c-4257-afc3-7f39195e6a3b</m_pRoot>
+			<m_pRoot type="s">GUID 9f461f9e-6f52-4137-a0cd-57a05a363d9c</m_pRoot>
 			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
 			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
 			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
 			<AggregatesList type="e">
-				<value>GUID f452502b-843c-4257-afc3-7f39195e6a3b</value>
-				<value>GUID 6d613d52-9493-41db-8229-cb7bfaf79cca</value>
+				<value>GUID 9f461f9e-6f52-4137-a0cd-57a05a363d9c</value>
+				<value>GUID 0ff55fed-e566-470c-bd35-9a521b6cb80f</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
-			<_id type="a">GUID f452502b-843c-4257-afc3-7f39195e6a3b</_id>
+			<_id type="a">GUID 9f461f9e-6f52-4137-a0cd-57a05a363d9c</_id>
 			<m_type type="a">78</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -363,13 +363,13 @@
 			</Operations>
 		</CGIClass>
 		<CGIDiagramFrame type="e">
-			<_id type="a">GUID 6d613d52-9493-41db-8229-cb7bfaf79cca</_id>
+			<_id type="a">GUID 0ff55fed-e566-470c-bd35-9a521b6cb80f</_id>
 			<m_type type="a">203</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
 				</IHandle>
 			</m_pModelObject>
-			<m_pParent type="s">GUID f452502b-843c-4257-afc3-7f39195e6a3b</m_pParent>
+			<m_pParent type="s">GUID 9f461f9e-6f52-4137-a0cd-57a05a363d9c</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>

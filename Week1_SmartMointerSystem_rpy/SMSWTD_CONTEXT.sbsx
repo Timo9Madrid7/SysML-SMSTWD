@@ -12,7 +12,7 @@
 			<_id type="a">GUID 4b9def48-49f3-44ab-8b73-f66704b08a31</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SMSWTD_CONTEXT</_name>
-			<_modifiedTimeWeak type="a">12.13.2024::14:19:13</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.16.2024::8:49:58</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::14:23:19</_modifiedTime>
+			<_modifiedTime type="a">12.16.2024::8:49:58</_modifiedTime>
 			<_lastID type="a">31</_lastID>
-			<weakCGTime type="a">12.13.2024::14:19:13</weakCGTime>
+			<weakCGTime type="a">12.16.2024::8:49:58</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:4:10</strongCGTime>
 			<_defaultComposite type="s">GUID 17ab1116-29c5-4a1d-a1ac-5b14b7298388</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -6345,15 +6345,15 @@
 			<_id type="a">GUID a6a652e1-0de9-45ab-af97-125700cf8ba9</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Scientists</_name>
-			<_modifiedTimeWeak type="a">12.12.2024::15:13:3</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.16.2024::8:49:58</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e0460a5f-44f1-4ded-9864-7e7a3d9d7b9d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.12.2024::15:13:3</_modifiedTime>
-			<weakCGTime type="a">12.12.2024::15:13:3</weakCGTime>
+			<_modifiedTime type="a">12.16.2024::8:49:58</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::8:49:58</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:4:10</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -6436,16 +6436,16 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID b93fb049-852a-4058-813d-08ade33562d8</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsReadData</_name>
+			<_name type="a">itsReadDataForResearch</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.12.2024::15:13:3</_modifiedTime>
+			<_modifiedTime type="a">12.16.2024::8:49:58</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hname type="a">ReadData</_hname>
+					<_hname type="a">ReadDataForResearch</_hname>
 					<_hid type="a">GUID 80b0adb3-37cc-47e7-b922-b365a097943e</_hid>
 				</IClassifierHandle>
 			</_otherClass>
@@ -6454,7 +6454,7 @@
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\SERVICE_UCS.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD::SERVICE_UCS</_hsubsystem>
-					<_hclass type="a">ReadData</_hclass>
+					<_hclass type="a">ReadDataForResearch</_hclass>
 					<_hname type="a">itsScientists</_hname>
 					<_hid type="a">GUID 12a7b7b2-ceef-4966-9600-80251e066869</_hid>
 				</IHandle>
