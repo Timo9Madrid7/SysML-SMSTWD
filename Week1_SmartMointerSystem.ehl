@@ -1,3 +1,10 @@
 [Op Calls]
 [Events]
+PushNotificationListener[0]->GEN(userSnoozed())`PushNotificationListener
+PushNotificationListener[0]->GEN(warningReceivedEv())`PushNotificationListener
+PushNotificationListener[0]->GEN(alarmReceivedEv())`PushNotificationListener
+PushNotificationListener[0]->GEN(crisisReceivedEv())`PushNotificationListener
+PushNotificationListener[0]->GEN(alarmResolvedEv())`PushNotificationListener
+PushNotificationListener[0]->GEN(crisisResolvedEv())`PushNotificationListener
+PushNotificationListener[0]->GEN(alarmRec())`PushNotificationListener
 [Breakpoints]
