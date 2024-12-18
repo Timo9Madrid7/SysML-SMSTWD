@@ -24,8 +24,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.17.2024::13:1:17</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.17.2024::13:10:18</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.17.2024::14:13:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::14:13:2</_modifiedTime>
 			<_lastID type="a">9</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -932,8 +932,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.17.2024::13:14:47</_modifiedTime>
-			<_lastModifiedTime type="a">12.17.2024::13:15:12</_lastModifiedTime>
+			<_modifiedTime type="a">12.17.2024::14:13:2</_modifiedTime>
+			<_lastModifiedTime type="a">12.17.2024::14:13:2</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2670,7 +2670,7 @@
 											<IRPYRawContainer type="e">
 												<IProperty type="e">
 													<_Name type="a">Compartments</_Name>
-													<_Value type="a">Attribute,Operation,</_Value>
+													<_Value type="a">Attribute,Operation</_Value>
 													<_Type type="a">MultiLine</_Type>
 												</IProperty>
 												
@@ -2691,14 +2691,14 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hname type="a">ProcessorDataLoader</_hname>
+					<_hname type="a">DataLoader</_hname>
 					<_hid type="a">GUID 3352195a-1545-43c3-83e7-602d9f031d53</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID c7ee5284-5612-4e08-9146-74bc116be8ee</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ProcessorDataLoader</m_str>
+					<m_str type="a">DataLoader</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2713,8 +2713,8 @@
 					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_name>
-			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.187913 0 0 0.101604 67.6241 606.572 </m_transform>
+			<m_drawBehavior type="a">2152</m_drawBehavior>
+			<m_transform type="a">0.187913 0 0 0.202317 67.6241 573.437 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2754,30 +2754,57 @@
 		<CGICompartment type="e">
 			<_id type="a">GUID 49164cc5-701d-43cd-a07e-f4e1952105ec</_id>
 			<m_name type="a">Attribute</m_name>
-			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<Items type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Items>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGICompartment type="e">
 			<_id type="a">GUID b9ef3d23-11cf-404e-b1f5-511e66f08dfa</_id>
 			<m_name type="a">Operation</m_name>
-			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<Items type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Items>
+			<_itemValueOfFontPropertiesMapCount type="a">3</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIClass type="e">
 			<_id type="a">GUID 088ed407-08db-4146-968c-f632e7021f08</_id>
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Block</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Font.FontColor</_Name>
+													<_Value type="a">0,0,0</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Underline</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
 						<IPropertySubject type="e">
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
@@ -2800,6 +2827,28 @@
 							</Metaclasses>
 						</IPropertySubject>
 						
+						<IPropertySubject type="e">
+							<_Name type="a">ObjectModelGe</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Block</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Compartments</_Name>
+													<_Value type="a">Attribute,Operation</_Value>
+													<_Type type="a">MultiLine</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
 					</IRPYRawContainer>
 				</Subjects>
 			</IPropertyContainer>
@@ -2809,14 +2858,14 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hname type="a">RawDataSender</_hname>
+					<_hname type="a">RawDataLoader</_hname>
 					<_hid type="a">GUID 565ae51d-29c7-4489-8f7a-e33e8faeaf8f</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID c7ee5284-5612-4e08-9146-74bc116be8ee</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">RawDataSender</m_str>
+					<m_str type="a">RawDataLoader</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2831,8 +2880,8 @@
 					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_name>
-			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.187913 0 0 0.101604 375.624 518.572 </m_transform>
+			<m_drawBehavior type="a">2152</m_drawBehavior>
+			<m_transform type="a">0.187913 0 0 0.202317 375.624 424.437 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2872,24 +2921,20 @@
 		<CGICompartment type="e">
 			<_id type="a">GUID 001fb15d-b273-4899-909c-1a51611b2d29</_id>
 			<m_name type="a">Attribute</m_name>
-			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<Items type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Items>
 		</CGICompartment>
 		<CGICompartment type="e">
 			<_id type="a">GUID e67fdf7b-0c70-4592-867a-983b26bfe8fc</_id>
 			<m_name type="a">Operation</m_name>
-			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<Items type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Items>
+			<_itemValueOfFontPropertiesMapCount type="a">3</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIClass type="e">
 			<_id type="a">GUID 4c9c1f01-5634-4017-b9a0-353161da564f</_id>
@@ -3070,7 +3115,7 @@
 											<IRPYRawContainer type="e">
 												<IProperty type="e">
 													<_Name type="a">Compartments</_Name>
-													<_Value type="a">Attribute,Operation,</_Value>
+													<_Value type="a">Attribute,Operation</_Value>
 													<_Type type="a">MultiLine</_Type>
 												</IProperty>
 												
@@ -3091,14 +3136,14 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hname type="a">ProcessedDataReceiver</_hname>
+					<_hname type="a">ProcessedDataLoader</_hname>
 					<_hid type="a">GUID 37e04475-8451-43f4-8646-5921a69006ef</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID c7ee5284-5612-4e08-9146-74bc116be8ee</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ProcessedDataReceiver</m_str>
+					<m_str type="a">ProcessedDataLoader</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3113,8 +3158,8 @@
 					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_name>
-			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.187913 0 0 0.101604 375.624 700.572 </m_transform>
+			<m_drawBehavior type="a">2152</m_drawBehavior>
+			<m_transform type="a">0.187913 0 0 0.221033 375.624 661.279 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3154,24 +3199,16 @@
 		<CGICompartment type="e">
 			<_id type="a">GUID 5204bdbc-925e-4a35-81ef-c0c2a6fed4db</_id>
 			<m_name type="a">Attribute</m_name>
-			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<Items type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Items>
 		</CGICompartment>
 		<CGICompartment type="e">
 			<_id type="a">GUID 5c0f2dac-6126-4f5c-9ed0-f5a14b46b21a</_id>
 			<m_name type="a">Operation</m_name>
-			<m_displayOption type="a">Explicit</m_displayOption>
+			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<Items type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Items>
 		</CGICompartment>
 		<CGIInheritance type="e">
 			<_id type="a">GUID 1007cbc0-b02c-4472-a08a-8f531c8a9cd0</_id>
@@ -3209,8 +3246,8 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IGeneralization</_hm2Class>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hclass type="a">RawDataSender</_hclass>
-					<_hname type="a">ProcessorDataLoader</_hname>
+					<_hclass type="a">RawDataLoader</_hclass>
+					<_hname type="a">DataLoader</_hname>
 					<_hid type="a">GUID 1d61c8c5-faa0-40c1-80bc-897dc2deac93</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -3254,12 +3291,12 @@
 					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 321 622  321 688  </m_arrow>
+			<m_arrow type="a">2 321 630  321 736  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
-			<m_SourcePort type="a">2 1018 </m_SourcePort>
-			<m_TargetPort type="a">1061 801 </m_TargetPort>
+			<m_SourcePort type="a">2 1016 </m_SourcePort>
+			<m_TargetPort type="a">1061 804 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -3299,8 +3336,8 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IGeneralization</_hm2Class>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hclass type="a">ProcessedDataReceiver</_hclass>
-					<_hname type="a">ProcessorDataLoader</_hname>
+					<_hclass type="a">ProcessedDataLoader</_hclass>
+					<_hname type="a">DataLoader</_hname>
 					<_hid type="a">GUID ae605724-263a-4e65-8703-c6e062619fdf</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -3344,12 +3381,12 @@
 					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 321 771  321 688  </m_arrow>
+			<m_arrow type="a">2 321 815  321 736  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
-			<m_SourcePort type="a">2 693 </m_SourcePort>
-			<m_TargetPort type="a">1061 801 </m_TargetPort>
+			<m_SourcePort type="a">2 695 </m_SourcePort>
+			<m_TargetPort type="a">1061 804 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -4467,7 +4504,7 @@
 					<_hm2Class type="a">IPart</_hm2Class>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
 					<_hclass type="a">MonitorSystem</_hclass>
-					<_hname type="a">itsRawDataSender_1</_hname>
+					<_hname type="a">itsRawDataLoader</_hname>
 					<_hid type="a">GUID 8dc19d8e-4215-46ad-9ccc-2bb960db72cb</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -4511,12 +4548,12 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 693 681  693 609  </m_arrow>
+			<m_arrow type="a">2 693 681  693 604  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
 			<m_SourcePort type="a">2 536 </m_SourcePort>
-			<m_TargetPort type="a">1061 890 </m_TargetPort>
+			<m_TargetPort type="a">1061 888 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 				</IAssociationEndHandle>
@@ -4684,7 +4721,7 @@
 					<_hm2Class type="a">IPart</_hm2Class>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
 					<_hclass type="a">MonitorSystem</_hclass>
-					<_hname type="a">itsProcessedDataReceiver_1</_hname>
+					<_hname type="a">itsProcessedDataLoader_1</_hname>
 					<_hid type="a">GUID 55215c76-9082-40fc-8a7b-f07699302f8e</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -4728,12 +4765,12 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 693 721  693 806  </m_arrow>
+			<m_arrow type="a">2 693 721  693 891  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
 			<m_SourcePort type="a">2 929 </m_SourcePort>
-			<m_TargetPort type="a">1061 1038 </m_TargetPort>
+			<m_TargetPort type="a">1061 1039 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 				</IAssociationEndHandle>
@@ -6905,7 +6942,7 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hclass type="a">RawDataSender</_hclass>
+					<_hclass type="a">RawDataLoader</_hclass>
 					<_hname type="a">InterCommunicationInterface</_hname>
 					<_hid type="a">GUID ac1b9e72-e890-4d47-9776-d38d73842925</_hid>
 				</IHandle>
@@ -6954,7 +6991,7 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1061 644 </m_SourcePort>
+			<m_SourcePort type="a">1061 645 </m_SourcePort>
 			<m_TargetPort type="a">21 329 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
@@ -7027,7 +7064,7 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hclass type="a">ProcessedDataReceiver</_hclass>
+					<_hclass type="a">ProcessedDataLoader</_hclass>
 					<_hname type="a">InterCommunicationInterface</_hname>
 					<_hid type="a">GUID d413f7b9-fd7d-44c8-846e-c20e1de8b18c</_hid>
 				</IHandle>
@@ -7077,7 +7114,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">529 890 </m_SourcePort>
-			<m_TargetPort type="a">2 1313 </m_TargetPort>
+			<m_TargetPort type="a">-3 1303 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
