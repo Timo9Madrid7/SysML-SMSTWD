@@ -1,0 +1,13 @@
+
+Parsing Summary:
+"D:\projects\Rhapsody_9\Week1_SmartMointerSystem\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 365 *** no function rawDataTransmissionDone was declared in this context
+"D:\projects\Rhapsody_9\Week1_SmartMointerSystem\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 365 *** There is no declaration for >>rawDataTransmissionDone<< that is visible here.
+
+Reverse Engineering Done (2).
+
+Source Artifacts have been added to the model to ensure that the generated code reflects details from the original code, such as global comments, preprocessor directives, and the order of elements. See the log file for more details.
+To view the Source Artifacts in the Rhapsody browser, open the View menu and select Browser Display Options > Show Source Artifacts.
+Source Artifacts were added for the following files:
+Adding File 'SMSWTD:impl' to Class 'SMSWTD'.
+Adding File 'SMSWTD:spec' to Class 'SMSWTD'.
+
