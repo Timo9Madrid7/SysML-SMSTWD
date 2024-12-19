@@ -1,7 +1,7 @@
 
 Parsing Summary:
-"D:\projects\Rhapsody_9\Week1_SmartMointerSystem\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 365 *** no function rawDataTransmissionDone was declared in this context
-"D:\projects\Rhapsody_9\Week1_SmartMointerSystem\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 365 *** There is no declaration for >>rawDataTransmissionDone<< that is visible here.
+"D:\projects\Rhapsody_9\Week1_SmartMointerSystem\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 353 *** no function reqRawDataFromSensors was declared in this context
+"D:\projects\Rhapsody_9\Week1_SmartMointerSystem\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 353 *** There is no declaration for >>reqRawDataFromSensors<< that is visible here.
 
 Reverse Engineering Done (2).
 

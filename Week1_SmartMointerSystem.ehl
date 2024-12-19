@@ -1,6 +1,3 @@
 [Op Calls]
 [Events]
-RawDataLoader[0]->GEN(uploadRawDataToDatabase())`RawDataLoader
-RawDataLoader[0]->GEN(receiveAllRawData())`RawDataLoader
-RawDataLoader[0]->GEN(reqRawDataFromSensors())`RawDataLoader
 [Breakpoints]
