@@ -217,8 +217,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:33:38</_modifiedTime>
-			<_lastModifiedTime type="a">12.19.2024::8:33:38</_lastModifiedTime>
+			<_modifiedTime type="a">12.19.2024::9:7:24</_modifiedTime>
+			<_lastModifiedTime type="a">12.19.2024::9:7:24</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -226,9 +226,10 @@
 			<_defaultSubsystem type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hname type="a">SMSWTD</_hname>
-					<_hid type="a">GUID bc1817d3-d769-4c8a-8b9c-f70296eae11b</_hid>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN</_hsubsystem>
+					<_hname type="a">MOBILEAPP</_hname>
+					<_hid type="a">GUID b1f124be-7cc6-47ba-97e8-f09df31eebb5</_hid>
 				</IHandle>
 			</_defaultSubsystem>
 			<AggregatesList type="e">
@@ -314,10 +315,10 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">TopLevel</_hname>
-					<_hid type="a">GUID b4863571-3946-4a62-abf3-bf26a084705a</_hid>
+					<_hid type="a">GUID 12a4ebbb-6566-4408-8ff9-26c85c835c82</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s"></m_pParent>
@@ -450,8 +451,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">PushNotificationListener</_hname>
 					<_hid type="a">GUID 0a0c4f7c-1881-40ae-adaa-24dfa0188ca9</_hid>
 				</IHandle>
@@ -569,8 +570,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">GUI</_hname>
 					<_hid type="a">GUID 28bea55c-fb44-4b03-b86a-64e5d07865c6</_hid>
 				</IHandle>
@@ -688,8 +689,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">CarrierNotificationListener</_hname>
 					<_hid type="a">GUID 81fe8580-6076-4376-9e5a-9293ee811990</_hid>
 				</IHandle>
@@ -778,8 +779,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">NotificationUI</_hname>
 					<_hid type="a">GUID e62a9cf9-9543-47d1-a251-33693f5f6737</_hid>
 				</IHandle>
@@ -868,8 +869,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">BackendAPIClient</_hname>
 					<_hid type="a">GUID 42863204-8943-4e9c-b109-0afc36c6f9ed</_hid>
 				</IHandle>
@@ -958,8 +959,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">NotificationAPIClient</_hname>
 					<_hid type="a">GUID 95253a09-ad0a-446f-a149-5c2c581ab54d</_hid>
 				</IHandle>
@@ -1077,8 +1078,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">WeatherAPIClient</_hname>
 					<_hid type="a">GUID f96f121e-0585-4862-a9af-f4f26086c034</_hid>
 				</IHandle>
@@ -1167,8 +1168,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">LocationProvider</_hname>
 					<_hid type="a">GUID 3f43eb8c-76ca-4995-bc57-fb20ccb8e23b</_hid>
 				</IHandle>
@@ -1257,8 +1258,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">Dashboard</_hname>
 					<_hid type="a">GUID adc4095b-0f8d-43da-b23e-7dae740b4a2c</_hid>
 				</IHandle>
@@ -1398,8 +1399,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">NotificationListener</_hname>
 					<_hid type="a">GUID b8423041-dd4e-4cab-b7bb-fc826513383e</_hid>
 				</IHandle>
@@ -1524,8 +1525,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IGeneralization</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">PushNotificationListener</_hclass>
 					<_hname type="a">NotificationListener</_hname>
 					<_hid type="a">GUID e0ed12db-f8f6-4f76-b0f3-613a4fd55fb9</_hid>
@@ -1615,8 +1616,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IGeneralization</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">CarrierNotificationListener</_hclass>
 					<_hname type="a">NotificationListener</_hname>
 					<_hid type="a">GUID 1f05ca81-780a-4354-8859-752926ccf332</_hid>
@@ -1677,8 +1678,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">BackendAPIClient</_hclass>
 					<_hname type="a">itsLocationProvider</_hname>
 					<_hid type="a">GUID e758c803-73e6-4d46-9f68-aa283c75a470</_hid>
@@ -1889,8 +1890,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IGeneralization</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">NotificationAPIClient</_hclass>
 					<_hname type="a">BackendAPIClient</_hname>
 					<_hid type="a">GUID f039ef48-a386-47ea-a1d9-c211f18287ff</_hid>
@@ -1980,8 +1981,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IGeneralization</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">WeatherAPIClient</_hclass>
 					<_hname type="a">BackendAPIClient</_hname>
 					<_hid type="a">GUID 01c26b12-e26e-48ce-8a03-0a377fc18564</_hid>
@@ -2042,8 +2043,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">NotificationUI</_hclass>
 					<_hname type="a">itsNotificationAPIClient</_hname>
 					<_hid type="a">GUID ebc24b66-76c2-436d-8120-b0e56ce759ac</_hid>
@@ -2226,8 +2227,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">Dashboard</_hclass>
 					<_hname type="a">itsWeatherAPIClient</_hname>
 					<_hid type="a">GUID 1640d111-0d3e-49fd-a57d-c4681ab7e93a</_hid>
@@ -2410,8 +2411,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">Context</_hname>
 					<_hid type="a">GUID 13b269b1-7e6e-4850-8fcd-458903336301</_hid>
 				</IHandle>
@@ -2500,8 +2501,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">Context</_hclass>
 					<_hname type="a">itsNotificationListener</_hname>
 					<_hid type="a">GUID d252de32-5641-4ac9-b31f-38209f729a25</_hid>
@@ -2684,8 +2685,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">Context</_hclass>
 					<_hname type="a">itsGUI</_hname>
 					<_hid type="a">GUID 55efcfff-bab4-4cfe-86e3-f53d025e1803</_hid>
@@ -2868,8 +2869,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">GUI</_hclass>
 					<_hname type="a">itsNotificationUI</_hname>
 					<_hid type="a">GUID 661e5763-1598-4771-aa7c-0b87044fe214</_hid>
@@ -3052,8 +3053,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">GUI</_hclass>
 					<_hname type="a">itsDashboard</_hname>
 					<_hid type="a">GUID 31f69107-71e8-4de2-9fcd-0df8862da2ca</_hid>
@@ -3236,8 +3237,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">WeatherForcastUI</_hname>
 					<_hid type="a">GUID df77d667-2b95-4e2c-b03b-1af93c2dce9b</_hid>
 				</IHandle>
@@ -3326,8 +3327,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">ThreatsUI</_hname>
 					<_hid type="a">GUID 50498bc4-30e1-4932-a006-84d3d3df8a92</_hid>
 				</IHandle>
@@ -3416,8 +3417,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hname type="a">LocationChangeUI</_hname>
 					<_hid type="a">GUID c8fabea8-63fb-4caa-bca0-f1ab51c99776</_hid>
 				</IHandle>
@@ -3506,8 +3507,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">Dashboard</_hclass>
 					<_hname type="a">itsWeatherForcastUI</_hname>
 					<_hid type="a">GUID 89151941-c9ab-43cb-be6a-80eccc9d5985</_hid>
@@ -3690,8 +3691,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">Dashboard</_hclass>
 					<_hname type="a">itsLocationChangeUI</_hname>
 					<_hid type="a">GUID 35405a01-54d4-458c-b902-e7432802e92d</_hid>
@@ -3873,8 +3874,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hfilename type="a">.\MOBILEAPP.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::BDD_DESIGN::MOBILEAPP</_hsubsystem>
 					<_hclass type="a">Dashboard</_hclass>
 					<_hname type="a">itsThreatsUI</_hname>
 					<_hid type="a">GUID aaf30794-64b1-4a51-8400-103d2f0575bb</_hid>

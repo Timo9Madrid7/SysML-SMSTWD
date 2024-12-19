@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 4ff2c2ac-9259-4175-8e61-356f73b85477</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">COMMUNICATOR</_name>
+			<_modifiedTimeWeak type="a">12.19.2024::9:9:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.19.2024::9:9:13</_modifiedTime>
+			<weakCGTime type="a">12.19.2024::9:9:13</weakCGTime>
+			<strongCGTime type="a">12.19.2024::9:6:0</strongCGTime>
+			<_defaultComposite type="s">GUID 46fb6bcc-01e3-4e9e-81b1-d027bb973baa</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<Events type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Events>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 45de19d2-7b9f-42ed-915b-1d801d374df6</value>
+				<value>GUID 46fb6bcc-01e3-4e9e-81b1-d027bb973baa</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDiagram type="e">
+			<fileName type="a">COMMUNICATOR</fileName>
+			<_id type="a">GUID 45de19d2-7b9f-42ed-915b-1d801d374df6</_id>
+		</IDiagram>
+		<IClass type="e">
+			<_id type="a">GUID 46fb6bcc-01e3-4e9e-81b1-d027bb973baa</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">12.19.2024::9:6:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">12.19.2024::9:6:0</weakCGTime>
+			<strongCGTime type="a">12.19.2024::9:6:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
