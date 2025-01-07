@@ -1,7 +1,7 @@
 
 Parsing Summary:
-"D:\projects\Rhapsody_9\SysML-SMSTWD\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 473 *** no function uploadRawDataToDatabase was declared in this context
-"D:\projects\Rhapsody_9\SysML-SMSTWD\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 473 *** There is no declaration for >>uploadRawDataToDatabase<< that is visible here.
+"D:\projects\Rhapsody_9\SysML-SMSTWD\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 535 *** no function receiveAllRawData was declared in this context
+"D:\projects\Rhapsody_9\SysML-SMSTWD\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 535 *** There is no declaration for >>receiveAllRawData<< that is visible here.
 
 Reverse Engineering Done (2).
 

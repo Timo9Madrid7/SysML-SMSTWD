@@ -12,7 +12,7 @@
 			<_id type="a">GUID 54ee032a-a479-4fb9-8059-a86b78adee1b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">BACKEND_UCS</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:27:52</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.7.2025::17:49:22</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,13 +22,13 @@
 					<_hid type="a">GUID 1d45c166-a3d1-41fe-b421-24ae81568cf9</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.16.2024::10:27:52</_modifiedTime>
+			<_modifiedTime type="a">1.7.2025::18:23:14</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">12.16.2024::10:27:52</weakCGTime>
+			<weakCGTime type="a">1.7.2025::17:49:22</weakCGTime>
 			<strongCGTime type="a">12.16.2024::10:10:50</strongCGTime>
 			<_defaultComposite type="s">GUID c2f3051d-b641-4b28-86ee-35447f9329a3</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID b93de4dc-5431-4727-8517-6156943f2f21</value>
 				<value>GUID 27845941-e5e4-45f8-a804-202502ad4360</value>
@@ -449,6 +449,56 @@
 										</Properties>
 									</IPropertyMetaclass>
 									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">proxyPort</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,68,73</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
 								</IRPYRawContainer>
 							</Metaclasses>
 						</IPropertySubject>
@@ -459,8 +509,8 @@
 			</_properties>
 			<_name type="a">BACKEND_UC_DIAGRAM</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:27:52</_modifiedTime>
-			<_lastModifiedTime type="a">12.16.2024::10:27:52</_lastModifiedTime>
+			<_modifiedTime type="a">1.7.2025::17:49:22</_modifiedTime>
+			<_lastModifiedTime type="a">1.7.2025::17:49:22</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2605,7 +2655,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -2726,7 +2776,7 @@
 			<_id type="a">GUID 20c08ed5-1547-47df-8093-9208b1670052</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MonitorWeatherAndTsunami</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.16.2024::9:38:3</_modifiedTimeWeak>
 			<_modifiedTime type="a">12.16.2024::10:4:13</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">12.16.2024::9:38:3</weakCGTime>
@@ -2736,10 +2786,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -2818,10 +2864,6 @@
 			<_id type="a">GUID cec594f3-18d0-47d5-9cb1-76e0fc91617d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ProcessRawData</_name>
-			<OwnedDependencies type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</OwnedDependencies>
 			<_modifiedTimeWeak type="a">12.16.2024::8:43:24</_modifiedTimeWeak>
 			<_modifiedTime type="a">12.16.2024::10:26:30</_modifiedTime>
 			<_lastID type="a">1</_lastID>

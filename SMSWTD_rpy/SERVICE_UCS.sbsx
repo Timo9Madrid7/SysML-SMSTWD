@@ -12,27 +12,19 @@
 			<_id type="a">GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SERVICE_UCS</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:33:10</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.7.2025::17:49:22</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 1d45c166-a3d1-41fe-b421-24ae81568cf9</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.16.2024::10:33:10</_modifiedTime>
+			<_modifiedTime type="a">1.7.2025::18:23:14</_modifiedTime>
 			<_lastID type="a">43</_lastID>
-			<weakCGTime type="a">12.16.2024::10:33:10</weakCGTime>
-			<strongCGTime type="a">12.16.2024::8:42:38</strongCGTime>
+			<weakCGTime type="a">1.7.2025::17:49:22</weakCGTime>
+			<strongCGTime type="a">1.7.2025::17:47:55</strongCGTime>
 			<_defaultComposite type="s">GUID e0ceb06c-644f-4116-9fe5-b5d329f05ed8</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<UseCases type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCases>
-			<Actors type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Actors>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 5bafedc3-41ba-4de7-b430-150810db2707</value>
@@ -338,6 +330,56 @@
 										</Properties>
 									</IPropertyMetaclass>
 									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">proxyPort</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,68,73</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
 								</IRPYRawContainer>
 							</Metaclasses>
 						</IPropertySubject>
@@ -411,8 +453,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:36:3</_modifiedTime>
-			<_lastModifiedTime type="a">12.16.2024::10:36:3</_lastModifiedTime>
+			<_modifiedTime type="a">1.7.2025::17:49:22</_modifiedTime>
+			<_lastModifiedTime type="a">1.7.2025::17:49:22</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1214,7 +1256,7 @@
 			<m_pParent type="s">GUID 426d11a3-1d2a-4b39-9209-8bf7f93cf297</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">COMMUNICATION_UCS::CommunicateBetweenBackendAndFrontend</m_str>
+					<m_str type="a">CommunicateBetweenBackendAndFrontend</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
