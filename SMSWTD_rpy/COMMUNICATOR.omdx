@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RhapsodyArchive>
 	<MagicNumber></MagicNumber>
-	<CODE-PAGE>1252</CODE-PAGE>
+	<CODE-PAGE>65001</CODE-PAGE>
 	<version>109.0</version>
 	<lang>C++</lang>
 	<BuildNo>202002261110</BuildNo>
@@ -97,8 +97,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">12.19.2024::9:47:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:48:25</_modifiedTime>
-			<_lastModifiedTime type="a">12.19.2024::9:48:25</_lastModifiedTime>
+			<_modifiedTime type="a">1.9.2025::13:25:2</_modifiedTime>
+			<_lastModifiedTime type="a">1.9.2025::13:25:2</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>

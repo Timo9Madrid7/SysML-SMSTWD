@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RhapsodyArchive>
 	<MagicNumber></MagicNumber>
-	<CODE-PAGE>1252</CODE-PAGE>
+	<CODE-PAGE>65001</CODE-PAGE>
 	<version>109.0</version>
 	<lang>C++</lang>
 	<BuildNo>202002261110</BuildNo>
@@ -12,7 +12,7 @@
 			<_id type="a">GUID 4b9def48-49f3-44ab-8b73-f66704b08a31</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SMSWTD_CONTEXT</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::8:49:58</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.9.2025::10:52:5</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::10:53:22</_modifiedTime>
 			<_lastID type="a">31</_lastID>
-			<weakCGTime type="a">12.16.2024::8:49:58</weakCGTime>
+			<weakCGTime type="a">1.9.2025::10:52:5</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:4:10</strongCGTime>
 			<_defaultComposite type="s">GUID 17ab1116-29c5-4a1d-a1ac-5b14b7298388</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -4673,15 +4673,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.12.2024::14:4:10</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.9.2025::10:57:26</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e0460a5f-44f1-4ded-9864-7e7a3d9d7b9d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<weakCGTime type="a">12.12.2024::14:4:10</weakCGTime>
+			<_modifiedTime type="a">1.9.2025::10:57:26</_modifiedTime>
+			<weakCGTime type="a">1.9.2025::10:57:26</weakCGTime>
 			<strongCGTime type="a">12.12.2024::14:4:10</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4702,8 +4702,8 @@
 			<_id type="a">GUID 8a80edb3-28c2-4b66-814a-799f73a06578</_id>
 			<_myState type="a">139264</_myState>
 			<_name type="a">SMSWTD</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTimeWeak type="a">1.9.2025::10:57:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::10:57:26</_modifiedTime>
 			<m_type type="a">implFile</m_type>
 			<AggregatesList type="e">
 				<value>GUID 98ddbecb-12f3-4316-891a-2c8bc0f44e9e</value>
@@ -4712,8 +4712,11 @@
 				<value>GUID a47f53c9-61a1-41c4-83b4-1af54637339b</value>
 				<value>GUID 6e312588-6915-424c-9fd7-7afc4433baab</value>
 				<value>GUID 6964cf47-2c72-4c37-8dd1-84d1a2da2c03</value>
-				<value>GUID 20e9701b-f8a8-4ed5-a055-977fa284f3b6</value>
-				<value>GUID 2817b6d4-85cc-4c89-bb2f-20c3868d5813</value>
+				<value>GUID a8fae257-796a-4f85-85b0-c61165efe9d0</value>
+				<value>GUID 039a556a-40e4-40ed-bcae-8a9dbfcf7628</value>
+				<value>GUID ed6bee7f-e1ad-4a70-ab08-599859b67415</value>
+				<value>GUID 8ade19e0-d140-4706-99e3-7174643f33f5</value>
+				<value>GUID 746f7fd5-c7db-4140-91dc-7086809cf6be</value>
 				<value>GUID 5873e1be-d636-479c-881e-c1df275d52c7</value>
 				<value>GUID d5676204-7abb-4dca-a0a7-be3ddca69405</value>
 				<value>GUID be00a633-dd5d-482c-bc5d-e91c5e626b49</value>
@@ -4736,6 +4739,8 @@
 				<value>GUID 190a3fd2-a14a-437c-9a41-fa4fb14781ac</value>
 				<value>GUID 12092055-dee9-4b1a-b236-a32c216b26a2</value>
 				<value>GUID da98043c-803f-4773-9848-fd4a71a08a34</value>
+				<value>GUID 7fa35730-fbb1-41f5-a48c-fc49bdfb1a4a</value>
+				<value>GUID 79562b8d-7311-45ce-bcb1-21c71ef50c69</value>
 			</AggregatesList>
 		</IFile>
 		<IFileFragment type="e">
@@ -4822,11 +4827,11 @@
 			<_id type="a">GUID 6964cf47-2c72-4c37-8dd1-84d1a2da2c03</_id>
 			<_name type="a">SMSWTD</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">191</m_startRow>
+			<m_startRow type="a">202</m_startRow>
 			<m_startCol_Short type="a">9</m_startCol_Short>
-			<m_endRow type="a">191</m_endRow>
+			<m_endRow type="a">202</m_endRow>
 			<m_endCol_Short type="a">9</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -4869,12 +4874,12 @@
 			<_id type="a">GUID d5b44d04-5bcb-47e5-8aca-ca5a033d0f41</_id>
 			<_name type="a">SMSWTD:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation SMSWTD():impl</m_text>
-			<m_startRow type="a">191</m_startRow>
+			<m_startRow type="a">202</m_startRow>
 			<m_startCol_Short type="a">9</m_startCol_Short>
-			<m_endRow type="a">193</m_endRow>
+			<m_endRow type="a">204</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -4890,7 +4895,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -4907,8 +4912,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID a9637bd9-9b07-4263-ac1c-3ddbc688c2d9</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">191</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">202</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID dfba098e-230f-4986-b164-8f1dad7a8b20</_id>
@@ -4939,12 +4944,12 @@
 			<_id type="a">GUID 92eaf03e-6834-42ec-9dab-d061f0dfb411</_id>
 			<_name type="a">~SMSWTD:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation ~SMSWTD():impl</m_text>
-			<m_startRow type="a">195</m_startRow>
+			<m_startRow type="a">206</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">198</m_endRow>
+			<m_endRow type="a">209</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -4960,7 +4965,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -4977,8 +4982,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 7398f0f8-e745-46e7-be18-bc349462161b</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">195</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">206</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 3896aa6b-2992-4d9b-9085-1bc596ec8a6c</_id>
@@ -5009,12 +5014,12 @@
 			<_id type="a">GUID a945fdc1-f592-40e6-9c4e-45e98366e867</_id>
 			<_name type="a">getItsCommunicationInfrastructure:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation getItsCommunicationInfrastructure() const:impl</m_text>
-			<m_startRow type="a">200</m_startRow>
+			<m_startRow type="a">211</m_startRow>
 			<m_startCol_Short type="a">90</m_startCol_Short>
-			<m_endRow type="a">202</m_endRow>
+			<m_endRow type="a">213</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5030,7 +5035,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5047,8 +5052,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID bbe37fa5-5777-431b-83de-5856b785cb75</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">200</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">211</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID bab29a15-8a92-411c-9d4a-a4c43d16436a</_id>
@@ -5079,12 +5084,12 @@
 			<_id type="a">GUID 3d405c5d-2daa-407a-b3a0-361cc791e460</_id>
 			<_name type="a">setItsCommunicationInfrastructure:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation setItsCommunicationInfrastructure(CommunicationInfrastructure * const):impl</m_text>
-			<m_startRow type="a">204</m_startRow>
+			<m_startRow type="a">215</m_startRow>
 			<m_startCol_Short type="a">114</m_startCol_Short>
-			<m_endRow type="a">210</m_endRow>
+			<m_endRow type="a">221</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5100,7 +5105,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5117,8 +5122,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 8f8a9198-a91d-42c2-9d70-4e5efb0a04fa</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">204</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">215</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 27fe3b9f-3012-4395-8eef-6293fe981431</_id>
@@ -5149,12 +5154,12 @@
 			<_id type="a">GUID f31d242c-e8fe-4c98-a6b3-dabb9370d402</_id>
 			<_name type="a">getItsDataStorage:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation getItsDataStorage() const:impl</m_text>
-			<m_startRow type="a">212</m_startRow>
+			<m_startRow type="a">223</m_startRow>
 			<m_startCol_Short type="a">58</m_startCol_Short>
-			<m_endRow type="a">214</m_endRow>
+			<m_endRow type="a">225</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5170,7 +5175,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5187,8 +5192,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 6fd182b2-df1c-4b4b-baa1-314dbe248389</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">212</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">223</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 5b25b840-d4b9-4f4c-8955-f133ef8c9af1</_id>
@@ -5219,12 +5224,12 @@
 			<_id type="a">GUID fdb0250b-a6e5-4ef2-97a7-40116f3a69d1</_id>
 			<_name type="a">setItsDataStorage:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation setItsDataStorage(DataStorage * const):impl</m_text>
-			<m_startRow type="a">216</m_startRow>
+			<m_startRow type="a">227</m_startRow>
 			<m_startCol_Short type="a">66</m_startCol_Short>
-			<m_endRow type="a">222</m_endRow>
+			<m_endRow type="a">233</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5240,7 +5245,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5257,8 +5262,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 370002ab-dc39-4014-886b-95ab33857bf8</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">216</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">227</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 26acfa96-a64e-4931-8bf0-ccf90664d31f</_id>
@@ -5289,12 +5294,12 @@
 			<_id type="a">GUID 75a56968-594e-4032-a674-33f8f0691dff</_id>
 			<_name type="a">getItsDataStorage_1:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation getItsDataStorage_1() const:impl</m_text>
-			<m_startRow type="a">224</m_startRow>
+			<m_startRow type="a">235</m_startRow>
 			<m_startCol_Short type="a">60</m_startCol_Short>
-			<m_endRow type="a">226</m_endRow>
+			<m_endRow type="a">237</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5310,7 +5315,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5327,8 +5332,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 97db4d3b-eb15-4e28-b60b-9034a4b3c2f0</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">224</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">235</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 15fb278f-7aca-42b8-b75b-acfaff99f32a</_id>
@@ -5359,12 +5364,12 @@
 			<_id type="a">GUID d68e91d9-e9f8-4615-923a-6a8f648d25dd</_id>
 			<_name type="a">setItsDataStorage_1:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation setItsDataStorage_1(DataStorage * const):impl</m_text>
-			<m_startRow type="a">228</m_startRow>
+			<m_startRow type="a">239</m_startRow>
 			<m_startCol_Short type="a">68</m_startCol_Short>
-			<m_endRow type="a">234</m_endRow>
+			<m_endRow type="a">245</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5380,7 +5385,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5397,8 +5402,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID f32efb05-6d92-41a4-95c2-2c6ea538dc8a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">228</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">239</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 30429262-39fd-4f2b-b257-632ae371537a</_id>
@@ -5429,12 +5434,12 @@
 			<_id type="a">GUID 46243785-f236-40f6-8889-0f08fca1fb7c</_id>
 			<_name type="a">getItsProcessors:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation getItsProcessors() const:impl</m_text>
-			<m_startRow type="a">236</m_startRow>
+			<m_startRow type="a">247</m_startRow>
 			<m_startCol_Short type="a">56</m_startCol_Short>
-			<m_endRow type="a">238</m_endRow>
+			<m_endRow type="a">249</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5450,7 +5455,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5467,8 +5472,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID b916ae5a-b687-471e-8545-1f457eb123df</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">236</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">247</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID baae7e7d-ac41-4c06-8645-bebef8e42045</_id>
@@ -5499,12 +5504,12 @@
 			<_id type="a">GUID ad5bc477-cdea-4d7d-938a-dac5ba413807</_id>
 			<_name type="a">setItsProcessors:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation setItsProcessors(Processors * const):impl</m_text>
-			<m_startRow type="a">240</m_startRow>
+			<m_startRow type="a">251</m_startRow>
 			<m_startCol_Short type="a">63</m_startCol_Short>
-			<m_endRow type="a">246</m_endRow>
+			<m_endRow type="a">257</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5520,7 +5525,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5537,8 +5542,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 4d31c32b-db64-4342-aab9-c5abe6997b72</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">240</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">251</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID e2aa3907-1598-47ae-a89d-3933150fa049</_id>
@@ -5569,12 +5574,12 @@
 			<_id type="a">GUID fc1696e6-b110-48f4-bec5-4c534031a1f3</_id>
 			<_name type="a">getItsSensors:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation getItsSensors() const:impl</m_text>
-			<m_startRow type="a">248</m_startRow>
+			<m_startRow type="a">259</m_startRow>
 			<m_startCol_Short type="a">50</m_startCol_Short>
-			<m_endRow type="a">250</m_endRow>
+			<m_endRow type="a">261</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5590,7 +5595,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5607,8 +5612,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID c6fb5d28-d8ac-4b51-a784-8e71b3169a2f</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">248</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">259</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 9fde7beb-ee7e-486f-b1d7-79c30c81fe2c</_id>
@@ -5639,12 +5644,12 @@
 			<_id type="a">GUID 44887bf4-e11a-4a96-b740-86d9a28971d7</_id>
 			<_name type="a">setItsSensors:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation setItsSensors(Sensors * const):impl</m_text>
-			<m_startRow type="a">252</m_startRow>
+			<m_startRow type="a">263</m_startRow>
 			<m_startCol_Short type="a">54</m_startCol_Short>
-			<m_endRow type="a">258</m_endRow>
+			<m_endRow type="a">269</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5660,7 +5665,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5677,8 +5682,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 906e8752-f4c1-4c88-8043-8819d4c94bf2</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">252</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">263</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID f4d321af-4bbf-48c6-b87d-bc471e52e276</_id>
@@ -5709,12 +5714,12 @@
 			<_id type="a">GUID fc737c96-3185-41d5-87e5-b791d0ceb848</_id>
 			<_name type="a">cleanUpRelations:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation cleanUpRelations():impl</m_text>
-			<m_startRow type="a">260</m_startRow>
+			<m_startRow type="a">271</m_startRow>
 			<m_startCol_Short type="a">37</m_startCol_Short>
-			<m_endRow type="a">311</m_endRow>
+			<m_endRow type="a">322</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5730,7 +5735,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5747,8 +5752,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 0215ad88-34ac-4ef6-9812-b48472c4410b</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">260</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">271</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID f3c4e3a0-006e-420c-9226-473c7d93effa</_id>
@@ -5779,12 +5784,12 @@
 			<_id type="a">GUID e37a8384-6c69-4556-9c0e-8f259e463950</_id>
 			<_name type="a">__setItsCommunicationInfrastructure:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation __setItsCommunicationInfrastructure(CommunicationInfrastructure * const):impl</m_text>
-			<m_startRow type="a">313</m_startRow>
+			<m_startRow type="a">324</m_startRow>
 			<m_startCol_Short type="a">116</m_startCol_Short>
-			<m_endRow type="a">323</m_endRow>
+			<m_endRow type="a">334</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5800,7 +5805,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5817,8 +5822,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 45eef284-6185-4c36-81a7-069a69f5b0e1</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">313</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">324</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID a515d222-8be2-4399-b886-1dea29074420</_id>
@@ -5849,12 +5854,12 @@
 			<_id type="a">GUID 022e2080-c3c0-4e6c-916e-e3e1cca72d2b</_id>
 			<_name type="a">_setItsCommunicationInfrastructure:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _setItsCommunicationInfrastructure(CommunicationInfrastructure * const):impl</m_text>
-			<m_startRow type="a">325</m_startRow>
+			<m_startRow type="a">336</m_startRow>
 			<m_startCol_Short type="a">115</m_startCol_Short>
-			<m_endRow type="a">331</m_endRow>
+			<m_endRow type="a">342</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5870,7 +5875,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5887,8 +5892,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID b6a1e51f-84f4-44b6-a316-c4916fca1a30</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">325</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">336</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 6cce2cab-bc0e-44a0-bfe9-5231aa969478</_id>
@@ -5919,12 +5924,12 @@
 			<_id type="a">GUID 69ed484c-62aa-4c3f-89c0-749ee38f3b22</_id>
 			<_name type="a">_clearItsCommunicationInfrastructure:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _clearItsCommunicationInfrastructure():impl</m_text>
-			<m_startRow type="a">333</m_startRow>
+			<m_startRow type="a">344</m_startRow>
 			<m_startCol_Short type="a">57</m_startCol_Short>
-			<m_endRow type="a">336</m_endRow>
+			<m_endRow type="a">347</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -5940,7 +5945,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -5957,8 +5962,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 3d9ced0a-1d33-4449-ab93-d595a1cfbd14</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">333</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">344</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 6019ad78-0466-4a85-b00b-2ea063de2026</_id>
@@ -5989,12 +5994,12 @@
 			<_id type="a">GUID 8e60068b-ade7-405b-aced-4ef25fd3b6fd</_id>
 			<_name type="a">__setItsDataStorage:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation __setItsDataStorage(DataStorage * const):impl</m_text>
-			<m_startRow type="a">338</m_startRow>
+			<m_startRow type="a">349</m_startRow>
 			<m_startCol_Short type="a">68</m_startCol_Short>
-			<m_endRow type="a">348</m_endRow>
+			<m_endRow type="a">359</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6010,7 +6015,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6027,8 +6032,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 3a0c7b90-5e5a-4228-9e1b-af248f9fdc70</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">338</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">349</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID bdac0a92-ce4c-4455-ae7c-10b8a12f4cda</_id>
@@ -6059,12 +6064,12 @@
 			<_id type="a">GUID 173863d5-b228-4649-8c31-f09014829bb8</_id>
 			<_name type="a">_setItsDataStorage:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _setItsDataStorage(DataStorage * const):impl</m_text>
-			<m_startRow type="a">350</m_startRow>
+			<m_startRow type="a">361</m_startRow>
 			<m_startCol_Short type="a">67</m_startCol_Short>
-			<m_endRow type="a">356</m_endRow>
+			<m_endRow type="a">367</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6080,7 +6085,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6097,8 +6102,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 98018f5a-7774-4511-a506-d3e5ca0a9f6a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">350</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">361</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 0235b158-0b22-499a-9caf-1b5294ee72ce</_id>
@@ -6129,12 +6134,12 @@
 			<_id type="a">GUID 44c7ed78-4da0-4977-872a-bc4799647121</_id>
 			<_name type="a">_clearItsDataStorage:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _clearItsDataStorage():impl</m_text>
-			<m_startRow type="a">358</m_startRow>
+			<m_startRow type="a">369</m_startRow>
 			<m_startCol_Short type="a">41</m_startCol_Short>
-			<m_endRow type="a">361</m_endRow>
+			<m_endRow type="a">372</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6150,7 +6155,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6167,8 +6172,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 0a5fc89b-2ad5-416b-bebf-64c83a517b26</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">358</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">369</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID da893df3-3364-4499-9547-d5da93faa4c2</_id>
@@ -6199,12 +6204,12 @@
 			<_id type="a">GUID 27a84c75-7c33-4be0-9f19-ba92c3ca0f96</_id>
 			<_name type="a">__setItsDataStorage_1:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation __setItsDataStorage_1(DataStorage * const):impl</m_text>
-			<m_startRow type="a">363</m_startRow>
+			<m_startRow type="a">374</m_startRow>
 			<m_startCol_Short type="a">70</m_startCol_Short>
-			<m_endRow type="a">373</m_endRow>
+			<m_endRow type="a">384</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6220,7 +6225,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6237,8 +6242,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 9171e928-2c03-4c4f-b2c8-dafb5b15c196</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">363</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">374</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID a13c6991-2a9f-4e29-9283-1f920e66e790</_id>
@@ -6269,12 +6274,12 @@
 			<_id type="a">GUID 68a90730-fd97-4071-ad84-01ab1ce76626</_id>
 			<_name type="a">_setItsDataStorage_1:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _setItsDataStorage_1(DataStorage * const):impl</m_text>
-			<m_startRow type="a">375</m_startRow>
+			<m_startRow type="a">386</m_startRow>
 			<m_startCol_Short type="a">69</m_startCol_Short>
-			<m_endRow type="a">381</m_endRow>
+			<m_endRow type="a">392</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6290,7 +6295,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6307,8 +6312,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 8e2cefa4-f07b-4ad4-8f85-c98a5a3746f0</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">375</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">386</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 30af5597-2c1e-4d68-ab41-bee31b15f382</_id>
@@ -6339,12 +6344,12 @@
 			<_id type="a">GUID 00d691db-b07e-4190-86ce-6166877e60a3</_id>
 			<_name type="a">_clearItsDataStorage_1:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _clearItsDataStorage_1():impl</m_text>
-			<m_startRow type="a">383</m_startRow>
+			<m_startRow type="a">394</m_startRow>
 			<m_startCol_Short type="a">43</m_startCol_Short>
-			<m_endRow type="a">386</m_endRow>
+			<m_endRow type="a">397</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6360,7 +6365,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6377,8 +6382,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID ce03f1e6-166c-4791-b7fd-b72ec52f26fb</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">383</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">394</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 12776f79-5625-4bbe-ae02-ead99600b9fb</_id>
@@ -6409,12 +6414,12 @@
 			<_id type="a">GUID 7a1891fc-0b15-4bea-9648-a010ebce7d53</_id>
 			<_name type="a">__setItsProcessors:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation __setItsProcessors(Processors * const):impl</m_text>
-			<m_startRow type="a">388</m_startRow>
+			<m_startRow type="a">399</m_startRow>
 			<m_startCol_Short type="a">65</m_startCol_Short>
-			<m_endRow type="a">398</m_endRow>
+			<m_endRow type="a">409</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6430,7 +6435,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6447,8 +6452,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 40b6c2c9-dad4-4b69-967b-a2b288668e9a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">388</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">399</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID bfe69456-4722-4b2a-9d85-35b968022d3a</_id>
@@ -6479,12 +6484,12 @@
 			<_id type="a">GUID cb108644-228e-4b7f-8297-49b5b8a91c12</_id>
 			<_name type="a">_setItsProcessors:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _setItsProcessors(Processors * const):impl</m_text>
-			<m_startRow type="a">400</m_startRow>
+			<m_startRow type="a">411</m_startRow>
 			<m_startCol_Short type="a">64</m_startCol_Short>
-			<m_endRow type="a">406</m_endRow>
+			<m_endRow type="a">417</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6500,7 +6505,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6517,8 +6522,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 0ca756ae-a3d7-45c6-8c3e-895ced2a3252</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">400</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">411</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 3b4e8982-4661-413b-a74f-6d67c05b7dcd</_id>
@@ -6549,12 +6554,12 @@
 			<_id type="a">GUID d165f6a0-7b8e-45dd-bf8f-43920fd93da2</_id>
 			<_name type="a">_clearItsProcessors:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _clearItsProcessors():impl</m_text>
-			<m_startRow type="a">408</m_startRow>
+			<m_startRow type="a">419</m_startRow>
 			<m_startCol_Short type="a">40</m_startCol_Short>
-			<m_endRow type="a">411</m_endRow>
+			<m_endRow type="a">422</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6570,7 +6575,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6587,8 +6592,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID d221f8b7-9587-420b-840e-0452bcacb1d6</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">408</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">419</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 782da473-20ee-460d-8517-58a90d31be0f</_id>
@@ -6619,12 +6624,12 @@
 			<_id type="a">GUID fb19e789-1a58-4282-ab27-bfecf3841f5d</_id>
 			<_name type="a">__setItsSensors:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation __setItsSensors(Sensors * const):impl</m_text>
-			<m_startRow type="a">413</m_startRow>
+			<m_startRow type="a">424</m_startRow>
 			<m_startCol_Short type="a">56</m_startCol_Short>
-			<m_endRow type="a">423</m_endRow>
+			<m_endRow type="a">434</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6640,7 +6645,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6657,8 +6662,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 23f0be60-11ce-467c-beda-1cb120aec033</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">413</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">424</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 87625e18-7988-4cb9-8843-02b5e733f6e5</_id>
@@ -6689,12 +6694,12 @@
 			<_id type="a">GUID a128234d-cad1-430c-bf24-b0c8174d6387</_id>
 			<_name type="a">_setItsSensors:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _setItsSensors(Sensors * const):impl</m_text>
-			<m_startRow type="a">425</m_startRow>
+			<m_startRow type="a">436</m_startRow>
 			<m_startCol_Short type="a">55</m_startCol_Short>
-			<m_endRow type="a">431</m_endRow>
+			<m_endRow type="a">442</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6710,7 +6715,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6727,8 +6732,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 0cbbfff2-f2f5-4d66-bdad-e78735aa1a29</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">425</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">436</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 7846212a-06b9-40c6-b87b-68a383f162cb</_id>
@@ -6759,12 +6764,12 @@
 			<_id type="a">GUID 5fd3cb99-4938-45d2-878b-0bb1add4237d</_id>
 			<_name type="a">_clearItsSensors:impl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _clearItsSensors():impl</m_text>
-			<m_startRow type="a">433</m_startRow>
+			<m_startRow type="a">444</m_startRow>
 			<m_startCol_Short type="a">37</m_startCol_Short>
-			<m_endRow type="a">436</m_endRow>
+			<m_endRow type="a">447</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6780,7 +6785,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -6797,8 +6802,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 111ae00e-0aaa-476c-b918-7c4093d0201d</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_value type="a">433</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">444</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID b4c60bd4-9740-4323-b0d1-531d4ce65941</_id>
@@ -6826,54 +6831,168 @@
 			<_value type="a">37</_value>
 		</ILiteralSpecification>
 		<IFileFragment type="e">
-			<_id type="a">GUID 20e9701b-f8a8-4ed5-a055-977fa284f3b6</_id>
-			<_name type="a">receiveAllRawData</_name>
+			<_id type="a">GUID a8fae257-796a-4f85-85b0-c61165efe9d0</_id>
+			<_name type="a">itsLocationProvider</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">485</m_startRow>
-			<m_startCol_Short type="a">20</m_startCol_Short>
-			<m_endRow type="a">485</m_endRow>
-			<m_endCol_Short type="a">20</m_endCol_Short>
+			<m_startRow type="a">456</m_startRow>
+			<m_startCol_Short type="a">18</m_startCol_Short>
+			<m_endRow type="a">456</m_endRow>
+			<m_endCol_Short type="a">37</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
-					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hm2Class type="a">IPart</_hm2Class>
 					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hname type="a">receiveAllRawData()</_hname>
-					<_hid type="a">GUID 57ceb497-c1f2-44b7-9415-b58f3443cba8</_hid>
+					<_hclass type="a">TopLevel</_hclass>
+					<_hname type="a">itsLocationProvider</_hname>
+					<_hid type="a">GUID 918f728c-8fb5-4de0-aaf7-992844508112</_hid>
 				</INObjectHandle>
 			</m_subject>
 		</IFileFragment>
 		<IFileFragment type="e">
-			<_id type="a">GUID 2817b6d4-85cc-4c89-bb2f-20c3868d5813</_id>
-			<_name type="a">checkRawData</_name>
+			<_id type="a">GUID 039a556a-40e4-40ed-bcae-8a9dbfcf7628</_id>
+			<_name type="a">itsRawDataLoader</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">497</m_startRow>
+			<m_startRow type="a">459</m_startRow>
 			<m_startCol_Short type="a">15</m_startCol_Short>
-			<m_endRow type="a">497</m_endRow>
-			<m_endCol_Short type="a">15</m_endCol_Short>
+			<m_endRow type="a">459</m_endRow>
+			<m_endCol_Short type="a">31</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
-					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hm2Class type="a">IPart</_hm2Class>
 					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hname type="a">checkRawData()</_hname>
-					<_hid type="a">GUID 1eacd727-7af2-495f-a3df-fbd72564dc4f</_hid>
+					<_hclass type="a">TopLevel</_hclass>
+					<_hname type="a">itsRawDataLoader</_hname>
+					<_hid type="a">GUID 69db355b-729f-4b7b-b725-cac6b65ab03e</_hid>
 				</INObjectHandle>
 			</m_subject>
 		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID ed6bee7f-e1ad-4a70-ab08-599859b67415</_id>
+			<_name type="a">itsRegionNameAPIClient</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">implFragment</m_type>
+			<m_startRow type="a">462</m_startRow>
+			<m_startCol_Short type="a">21</m_startCol_Short>
+			<m_endRow type="a">462</m_endRow>
+			<m_endCol_Short type="a">43</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hclass type="a">TopLevel</_hclass>
+					<_hname type="a">itsRegionNameAPIClient</_hname>
+					<_hid type="a">GUID bb32e9d2-138e-4f88-a183-8c57fe6bff2c</_hid>
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID 8ade19e0-d140-4706-99e3-7174643f33f5</_id>
+			<_name type="a">itsWeatherAPIClient</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">implFragment</m_type>
+			<m_startRow type="a">465</m_startRow>
+			<m_startCol_Short type="a">18</m_startCol_Short>
+			<m_endRow type="a">465</m_endRow>
+			<m_endCol_Short type="a">37</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hclass type="a">TopLevel</_hclass>
+					<_hname type="a">itsWeatherAPIClient</_hname>
+					<_hid type="a">GUID 19a6dad2-6f54-4a96-b685-ac8d4d33c9d5</_hid>
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID 746f7fd5-c7db-4140-91dc-7086809cf6be</_id>
+			<_name type="a">SMSWTD_initRelations:impl</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">textFragment</m_type>
+			<m_text type="a">//## auto:operation SMSWTD_initRelations():impl</m_text>
+			<m_startRow type="a">467</m_startRow>
+			<m_startCol_Short type="a">33</m_startCol_Short>
+			<m_endRow type="a">497</m_endRow>
+			<m_endCol_Short type="a">1</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</m_subject>
+			<AggregatesList type="e">
+				<value>GUID d1ce1a8e-4455-40a0-87e8-4b26cb4a8093</value>
+				<value>GUID 0d726e4c-5171-4897-9cf3-2703fa44b0ab</value>
+			</AggregatesList>
+		</IFileFragment>
+		<ITag type="e">
+			<_id type="a">GUID d1ce1a8e-4455-40a0-87e8-4b26cb4a8093</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">BodyStartLine</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 4d76a1e8-a70b-47cb-87d3-fb358e3c9975</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 4d76a1e8-a70b-47cb-87d3-fb358e3c9975</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">467</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 0d726e4c-5171-4897-9cf3-2703fa44b0ab</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">BodyStartCol</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 04248407-c092-4617-9343-8d8a19445966</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 04248407-c092-4617-9343-8d8a19445966</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">33</_value>
+		</ILiteralSpecification>
 		<IFileFragment type="e">
 			<_id type="a">GUID 5873e1be-d636-479c-881e-c1df275d52c7</_id>
 			<_name type="a">reqRawDataFromSensors</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">509</m_startRow>
+			<m_startRow type="a">553</m_startRow>
 			<m_startCol_Short type="a">24</m_startCol_Short>
-			<m_endRow type="a">509</m_endRow>
+			<m_endRow type="a">553</m_endRow>
 			<m_endCol_Short type="a">24</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6889,11 +7008,11 @@
 			<_id type="a">GUID d5676204-7abb-4dca-a0a7-be3ddca69405</_id>
 			<_name type="a">alarmRec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">521</m_startRow>
+			<m_startRow type="a">565</m_startRow>
 			<m_startCol_Short type="a">11</m_startCol_Short>
-			<m_endRow type="a">521</m_endRow>
+			<m_endRow type="a">565</m_endRow>
 			<m_endCol_Short type="a">11</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6909,11 +7028,11 @@
 			<_id type="a">GUID be00a633-dd5d-482c-bc5d-e91c5e626b49</_id>
 			<_name type="a">alarmReceivedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">533</m_startRow>
+			<m_startRow type="a">577</m_startRow>
 			<m_startCol_Short type="a">18</m_startCol_Short>
-			<m_endRow type="a">533</m_endRow>
+			<m_endRow type="a">577</m_endRow>
 			<m_endCol_Short type="a">18</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6929,11 +7048,11 @@
 			<_id type="a">GUID 6f86ffc8-6947-4fd2-a7c1-5411e631c522</_id>
 			<_name type="a">AlarmReceivedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">545</m_startRow>
+			<m_startRow type="a">589</m_startRow>
 			<m_startCol_Short type="a">18</m_startCol_Short>
-			<m_endRow type="a">545</m_endRow>
+			<m_endRow type="a">589</m_endRow>
 			<m_endCol_Short type="a">18</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6949,11 +7068,11 @@
 			<_id type="a">GUID 48336756-1620-46c6-9282-46da6e7ca916</_id>
 			<_name type="a">alarmResolved</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">557</m_startRow>
+			<m_startRow type="a">601</m_startRow>
 			<m_startCol_Short type="a">16</m_startCol_Short>
-			<m_endRow type="a">557</m_endRow>
+			<m_endRow type="a">601</m_endRow>
 			<m_endCol_Short type="a">16</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6969,11 +7088,11 @@
 			<_id type="a">GUID 9c01d262-4cb6-440d-bd70-af9b24cb3297</_id>
 			<_name type="a">alarmResolvedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">569</m_startRow>
+			<m_startRow type="a">613</m_startRow>
 			<m_startCol_Short type="a">18</m_startCol_Short>
-			<m_endRow type="a">569</m_endRow>
+			<m_endRow type="a">613</m_endRow>
 			<m_endCol_Short type="a">18</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -6989,11 +7108,11 @@
 			<_id type="a">GUID ac28e222-5e5e-44f9-bed4-97f6e55d654f</_id>
 			<_name type="a">AlarmResolvedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">581</m_startRow>
+			<m_startRow type="a">625</m_startRow>
 			<m_startCol_Short type="a">18</m_startCol_Short>
-			<m_endRow type="a">581</m_endRow>
+			<m_endRow type="a">625</m_endRow>
 			<m_endCol_Short type="a">18</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7009,11 +7128,11 @@
 			<_id type="a">GUID 66ac590c-17a4-46b2-910c-71ae8dbd01c1</_id>
 			<_name type="a">crisisReceived</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">593</m_startRow>
+			<m_startRow type="a">637</m_startRow>
 			<m_startCol_Short type="a">17</m_startCol_Short>
-			<m_endRow type="a">593</m_endRow>
+			<m_endRow type="a">637</m_endRow>
 			<m_endCol_Short type="a">17</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7029,11 +7148,11 @@
 			<_id type="a">GUID 6cc640a7-8035-4cb0-86f3-4e485923789d</_id>
 			<_name type="a">crisisReceivedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">605</m_startRow>
+			<m_startRow type="a">649</m_startRow>
 			<m_startCol_Short type="a">19</m_startCol_Short>
-			<m_endRow type="a">605</m_endRow>
+			<m_endRow type="a">649</m_endRow>
 			<m_endCol_Short type="a">19</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7049,11 +7168,11 @@
 			<_id type="a">GUID 6ad82a2c-ff83-4cb7-8fdb-4d48c55afceb</_id>
 			<_name type="a">crisisResolvedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">617</m_startRow>
+			<m_startRow type="a">661</m_startRow>
 			<m_startCol_Short type="a">19</m_startCol_Short>
-			<m_endRow type="a">617</m_endRow>
+			<m_endRow type="a">661</m_endRow>
 			<m_endCol_Short type="a">19</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7069,11 +7188,11 @@
 			<_id type="a">GUID c7f653d5-befb-4e88-b1d8-763030d0a565</_id>
 			<_name type="a">notificationReadyEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">629</m_startRow>
+			<m_startRow type="a">673</m_startRow>
 			<m_startCol_Short type="a">22</m_startCol_Short>
-			<m_endRow type="a">629</m_endRow>
+			<m_endRow type="a">673</m_endRow>
 			<m_endCol_Short type="a">22</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7089,11 +7208,11 @@
 			<_id type="a">GUID 05665878-5cde-46ae-908d-ee9a2d5b8d86</_id>
 			<_name type="a">NotificationReadyEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">641</m_startRow>
+			<m_startRow type="a">685</m_startRow>
 			<m_startCol_Short type="a">22</m_startCol_Short>
-			<m_endRow type="a">641</m_endRow>
+			<m_endRow type="a">685</m_endRow>
 			<m_endCol_Short type="a">22</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7109,11 +7228,11 @@
 			<_id type="a">GUID e888e4b4-29c6-44bf-93b9-4c7ba51279e3</_id>
 			<_name type="a">userDismissedAlarm</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">653</m_startRow>
+			<m_startRow type="a">697</m_startRow>
 			<m_startCol_Short type="a">21</m_startCol_Short>
-			<m_endRow type="a">653</m_endRow>
+			<m_endRow type="a">697</m_endRow>
 			<m_endCol_Short type="a">21</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7129,11 +7248,11 @@
 			<_id type="a">GUID 153db932-4ecc-4d4c-8949-8a4c755280ca</_id>
 			<_name type="a">userDismissedAlarmE</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">665</m_startRow>
+			<m_startRow type="a">709</m_startRow>
 			<m_startCol_Short type="a">22</m_startCol_Short>
-			<m_endRow type="a">665</m_endRow>
+			<m_endRow type="a">709</m_endRow>
 			<m_endCol_Short type="a">22</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7149,11 +7268,11 @@
 			<_id type="a">GUID 325b06f1-07b9-42e1-8c34-65181c29efb4</_id>
 			<_name type="a">userDismissedAlarmEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">677</m_startRow>
+			<m_startRow type="a">721</m_startRow>
 			<m_startCol_Short type="a">23</m_startCol_Short>
-			<m_endRow type="a">677</m_endRow>
+			<m_endRow type="a">721</m_endRow>
 			<m_endCol_Short type="a">23</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7169,11 +7288,11 @@
 			<_id type="a">GUID 546e92eb-06a7-4093-aeac-7fc88b7133fe</_id>
 			<_name type="a">UserDismissedAlarmEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">689</m_startRow>
+			<m_startRow type="a">733</m_startRow>
 			<m_startCol_Short type="a">23</m_startCol_Short>
-			<m_endRow type="a">689</m_endRow>
+			<m_endRow type="a">733</m_endRow>
 			<m_endCol_Short type="a">23</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7189,11 +7308,11 @@
 			<_id type="a">GUID 21f7a5e4-8d08-4abb-b00f-3a3a9d15dc80</_id>
 			<_name type="a">userSnoozed</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">701</m_startRow>
+			<m_startRow type="a">745</m_startRow>
 			<m_startCol_Short type="a">14</m_startCol_Short>
-			<m_endRow type="a">701</m_endRow>
+			<m_endRow type="a">745</m_endRow>
 			<m_endCol_Short type="a">14</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7209,11 +7328,11 @@
 			<_id type="a">GUID 3e8b755f-84d9-4f2a-835e-29e2e4d0c3b6</_id>
 			<_name type="a">userSnoozedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">713</m_startRow>
+			<m_startRow type="a">757</m_startRow>
 			<m_startCol_Short type="a">16</m_startCol_Short>
-			<m_endRow type="a">713</m_endRow>
+			<m_endRow type="a">757</m_endRow>
 			<m_endCol_Short type="a">16</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7229,11 +7348,11 @@
 			<_id type="a">GUID d43e82a8-16ed-497f-8d62-f8c2aaadbd95</_id>
 			<_name type="a">UserSnoozedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">725</m_startRow>
+			<m_startRow type="a">769</m_startRow>
 			<m_startCol_Short type="a">16</m_startCol_Short>
-			<m_endRow type="a">725</m_endRow>
+			<m_endRow type="a">769</m_endRow>
 			<m_endCol_Short type="a">16</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7249,11 +7368,11 @@
 			<_id type="a">GUID 190a3fd2-a14a-437c-9a41-fa4fb14781ac</_id>
 			<_name type="a">warningReceived</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">737</m_startRow>
+			<m_startRow type="a">781</m_startRow>
 			<m_startCol_Short type="a">18</m_startCol_Short>
-			<m_endRow type="a">737</m_endRow>
+			<m_endRow type="a">781</m_endRow>
 			<m_endCol_Short type="a">18</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7269,11 +7388,11 @@
 			<_id type="a">GUID 12092055-dee9-4b1a-b236-a32c216b26a2</_id>
 			<_name type="a">warningReceivedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">749</m_startRow>
+			<m_startRow type="a">793</m_startRow>
 			<m_startCol_Short type="a">20</m_startCol_Short>
-			<m_endRow type="a">749</m_endRow>
+			<m_endRow type="a">793</m_endRow>
 			<m_endCol_Short type="a">20</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7289,11 +7408,11 @@
 			<_id type="a">GUID da98043c-803f-4773-9848-fd4a71a08a34</_id>
 			<_name type="a">rawDataTransmissionDone</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">implFragment</m_type>
-			<m_startRow type="a">761</m_startRow>
+			<m_startRow type="a">805</m_startRow>
 			<m_startCol_Short type="a">26</m_startCol_Short>
-			<m_endRow type="a">761</m_endRow>
+			<m_endRow type="a">805</m_endRow>
 			<m_endCol_Short type="a">26</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7305,24 +7424,73 @@
 				</INObjectHandle>
 			</m_subject>
 		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID 7fa35730-fbb1-41f5-a48c-fc49bdfb1a4a</_id>
+			<_name type="a">uploadRawDataToDatabase</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<m_type type="a">implFragment</m_type>
+			<m_startRow type="a">817</m_startRow>
+			<m_startCol_Short type="a">26</m_startCol_Short>
+			<m_endRow type="a">817</m_endRow>
+			<m_endCol_Short type="a">26</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hname type="a">uploadRawDataToDatabase()</_hname>
+					<_hid type="a">GUID 8544ba44-a116-4f60-9f65-f6a783384e66</_hid>
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID 79562b8d-7311-45ce-bcb1-21c71ef50c69</_id>
+			<_name type="a">receiveAllRawData</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">implFragment</m_type>
+			<m_startRow type="a">829</m_startRow>
+			<m_startCol_Short type="a">20</m_startCol_Short>
+			<m_endRow type="a">829</m_endRow>
+			<m_endCol_Short type="a">20</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hname type="a">receiveAllRawData()</_hname>
+					<_hid type="a">GUID 57ceb497-c1f2-44b7-9415-b58f3443cba8</_hid>
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
 		<IFile type="e">
 			<_id type="a">GUID 9439cf9e-f77a-4124-af34-d428b120b4fd</_id>
 			<_myState type="a">139264</_myState>
 			<_name type="a">SMSWTD</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTimeWeak type="a">1.9.2025::10:57:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::10:57:26</_modifiedTime>
 			<m_type type="a">specFile</m_type>
 			<AggregatesList type="e">
 				<value>GUID 4563593f-28f0-43af-95cb-acf6a2921e4d</value>
 				<value>GUID 6b615cec-bd89-46ee-8caa-d7bef166f3a6</value>
 				<value>GUID 44d4e898-0657-4db4-8b21-963a457c88ed</value>
+				<value>GUID 2a726db1-ba9f-441a-a0dc-2bb86364d982</value>
+				<value>GUID a9d77b66-5c84-44f4-8fd9-37a082538822</value>
+				<value>GUID 7c899ce0-abcd-4cf5-8617-b8ecd2a087c2</value>
+				<value>GUID e1b9f593-1aa5-4776-b773-0f8ac66ea64a</value>
+				<value>GUID 5e425032-a03c-4687-9033-0b1f7e7de9ff</value>
+				<value>GUID 35ff9d93-d27d-4d0e-be58-67e02b747919</value>
 				<value>GUID c1d7b5d4-b9cc-4074-b09d-71311c94eb8a</value>
 				<value>GUID 2ff97110-28b7-4430-837f-b680a8686058</value>
 				<value>GUID 38e7eb77-e68a-4c17-81e0-acca3570154e</value>
 				<value>GUID 46db4dd4-a95e-420d-9c22-fb6f5cc44d75</value>
 				<value>GUID f642074f-40fd-40e1-9e3c-0a11bf3bfa73</value>
-				<value>GUID b2f4411a-37e8-4577-999e-14fb9966a362</value>
-				<value>GUID 32ecb3e5-148e-49c1-86c2-affd825e9597</value>
+				<value>GUID 98e565f9-bfbf-4c7b-96c0-878ac394d31a</value>
+				<value>GUID b6c21aec-95d2-4522-94c4-2a1ec4053e70</value>
+				<value>GUID 72771667-8036-483d-9043-8d1f95075aea</value>
+				<value>GUID 09d3ea1f-3213-47be-8005-24edee0d9cb6</value>
+				<value>GUID 48bc616e-0d35-4783-b058-2c67f426363e</value>
 				<value>GUID 470c6a3b-822d-4a99-b537-b8735af36d15</value>
 				<value>GUID bf9a0785-4fcb-476b-9ebb-d5b006cffc82</value>
 				<value>GUID 04886179-6633-4073-bfed-8d87620e8cbb</value>
@@ -7345,6 +7513,8 @@
 				<value>GUID 8afafc48-d263-4f73-b59a-4d426aabfe46</value>
 				<value>GUID 750cf219-801c-438f-a01f-d8bc6cd804f2</value>
 				<value>GUID 0bddfc8c-0498-422d-8fc3-9034c89cc90f</value>
+				<value>GUID e265393a-354f-45fe-b21d-7fb54a79bc99</value>
+				<value>GUID 91e6883f-49f5-447a-a436-9a2059f41bd3</value>
 			</AggregatesList>
 		</IFile>
 		<IFileFragment type="e">
@@ -7396,15 +7566,111 @@
 			</m_subject>
 		</IFileFragment>
 		<IFileFragment type="e">
-			<_id type="a">GUID c1d7b5d4-b9cc-4074-b09d-71311c94eb8a</_id>
-			<_name type="a">CommunicationInfrastructure:spec</_name>
+			<_id type="a">GUID 2a726db1-ba9f-441a-a0dc-2bb86364d982</_id>
+			<_name type="a">BackendAPIClient:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
-			<m_text type="a">//## auto:dependency CommunicationInfrastructure:spec</m_text>
+			<m_text type="a">//## auto:dependency BackendAPIClient:spec</m_text>
 			<m_startRow type="a">21</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
 			<m_endRow type="a">21</m_endRow>
+			<m_endCol_Short type="a">23</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID a9d77b66-5c84-44f4-8fd9-37a082538822</_id>
+			<_name type="a">Dashboard:spec</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">textFragment</m_type>
+			<m_text type="a">//## auto:dependency Dashboard:spec</m_text>
+			<m_startRow type="a">24</m_startRow>
+			<m_startCol_Short type="a">1</m_startCol_Short>
+			<m_endRow type="a">24</m_endRow>
+			<m_endCol_Short type="a">16</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID 7c899ce0-abcd-4cf5-8617-b8ecd2a087c2</_id>
+			<_name type="a">LocationProvider:spec</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">textFragment</m_type>
+			<m_text type="a">//## auto:dependency LocationProvider:spec</m_text>
+			<m_startRow type="a">27</m_startRow>
+			<m_startCol_Short type="a">1</m_startCol_Short>
+			<m_endRow type="a">27</m_endRow>
+			<m_endCol_Short type="a">23</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID e1b9f593-1aa5-4776-b773-0f8ac66ea64a</_id>
+			<_name type="a">RawDataLoader:spec</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">textFragment</m_type>
+			<m_text type="a">//## auto:dependency RawDataLoader:spec</m_text>
+			<m_startRow type="a">30</m_startRow>
+			<m_startCol_Short type="a">1</m_startCol_Short>
+			<m_endRow type="a">30</m_endRow>
+			<m_endCol_Short type="a">20</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID 5e425032-a03c-4687-9033-0b1f7e7de9ff</_id>
+			<_name type="a">RegionNameAPIClient:spec</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">textFragment</m_type>
+			<m_text type="a">//## auto:dependency RegionNameAPIClient:spec</m_text>
+			<m_startRow type="a">33</m_startRow>
+			<m_startCol_Short type="a">1</m_startCol_Short>
+			<m_endRow type="a">33</m_endRow>
+			<m_endCol_Short type="a">26</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID 35ff9d93-d27d-4d0e-be58-67e02b747919</_id>
+			<_name type="a">WeatherAPIClient:spec</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">textFragment</m_type>
+			<m_text type="a">//## auto:dependency WeatherAPIClient:spec</m_text>
+			<m_startRow type="a">36</m_startRow>
+			<m_startCol_Short type="a">1</m_startCol_Short>
+			<m_endRow type="a">36</m_endRow>
+			<m_endCol_Short type="a">23</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID c1d7b5d4-b9cc-4074-b09d-71311c94eb8a</_id>
+			<_name type="a">CommunicationInfrastructure:spec</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<m_type type="a">textFragment</m_type>
+			<m_text type="a">//## auto:dependency CommunicationInfrastructure:spec</m_text>
+			<m_startRow type="a">39</m_startRow>
+			<m_startCol_Short type="a">1</m_startCol_Short>
+			<m_endRow type="a">39</m_endRow>
 			<m_endCol_Short type="a">34</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7415,12 +7681,12 @@
 			<_id type="a">GUID 2ff97110-28b7-4430-837f-b680a8686058</_id>
 			<_name type="a">DataStorage:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:dependency DataStorage:spec</m_text>
-			<m_startRow type="a">24</m_startRow>
+			<m_startRow type="a">42</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">24</m_endRow>
+			<m_endRow type="a">42</m_endRow>
 			<m_endCol_Short type="a">18</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7431,12 +7697,12 @@
 			<_id type="a">GUID 38e7eb77-e68a-4c17-81e0-acca3570154e</_id>
 			<_name type="a">Processors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:dependency Processors:spec</m_text>
-			<m_startRow type="a">27</m_startRow>
+			<m_startRow type="a">45</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">27</m_endRow>
+			<m_endRow type="a">45</m_endRow>
 			<m_endCol_Short type="a">17</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7447,12 +7713,12 @@
 			<_id type="a">GUID 46db4dd4-a95e-420d-9c22-fb6f5cc44d75</_id>
 			<_name type="a">Sensors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:dependency Sensors:spec</m_text>
-			<m_startRow type="a">30</m_startRow>
+			<m_startRow type="a">48</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">30</m_endRow>
+			<m_endRow type="a">48</m_endRow>
 			<m_endCol_Short type="a">14</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7463,11 +7729,11 @@
 			<_id type="a">GUID f642074f-40fd-40e1-9e3c-0a11bf3bfa73</_id>
 			<_name type="a">SMSWTD</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">35</m_startRow>
+			<m_startRow type="a">53</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">151</m_endRow>
+			<m_endRow type="a">167</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7500,7 +7766,6 @@
 				<value>GUID fb32b962-7a1b-408b-9812-6d121d1b2e50</value>
 				<value>GUID b68556e1-4c6a-4983-9e83-a8aacb8a55a1</value>
 				<value>GUID 863cf931-1688-4be2-b4a3-3b32fc547cc2</value>
-				<value>GUID ee8f9830-b45e-4056-a8bc-657006abba87</value>
 				<value>GUID 5f752757-11cd-418f-82cc-167ab67fc982</value>
 				<value>GUID b80f393b-51fe-4742-9154-fac52c997775</value>
 				<value>GUID 5f071403-c394-4b97-9a15-f5c5fc330785</value>
@@ -7523,7 +7788,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -7540,8 +7805,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 70afd4a3-a248-4d2f-8fce-42076aae22ec</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<_value type="a">35</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">53</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID d9afd0b7-5ae9-4a1c-ac1b-303fd9866893</_id>
@@ -7572,13 +7837,13 @@
 			<_id type="a">GUID d0a82781-06d4-40d7-94cf-b4f2859f01a1</_id>
 			<_name type="a">////    Friends    ////</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">////    Friends    ////
 </m_text>
-			<m_startRow type="a">36</m_startRow>
+			<m_startRow type="a">54</m_startRow>
 			<m_startCol_Short type="a">5</m_startCol_Short>
-			<m_endRow type="a">36</m_endRow>
+			<m_endRow type="a">54</m_endRow>
 			<m_endCol_Short type="a">28</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7589,13 +7854,13 @@
 			<_id type="a">GUID 5606440f-35a3-47ec-b2ab-3ba18100be6b</_id>
 			<_name type="a">////    Constructors and destructors    ////</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">////    Constructors and destructors    ////
 </m_text>
-			<m_startRow type="a">44</m_startRow>
+			<m_startRow type="a">62</m_startRow>
 			<m_startCol_Short type="a">5</m_startCol_Short>
-			<m_endRow type="a">44</m_endRow>
+			<m_endRow type="a">62</m_endRow>
 			<m_endCol_Short type="a">49</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7606,12 +7871,12 @@
 			<_id type="a">GUID 73dcb624-c57d-42ee-be95-cf5586236514</_id>
 			<_name type="a">SMSWTD:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation SMSWTD():spec</m_text>
-			<m_startRow type="a">47</m_startRow>
+			<m_startRow type="a">65</m_startRow>
 			<m_startCol_Short type="a">5</m_startCol_Short>
-			<m_endRow type="a">47</m_endRow>
+			<m_endRow type="a">65</m_endRow>
 			<m_endCol_Short type="a">17</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7622,12 +7887,12 @@
 			<_id type="a">GUID a065125d-6887-418a-b27f-e15e0b127a40</_id>
 			<_name type="a">~SMSWTD:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation ~SMSWTD():spec</m_text>
-			<m_startRow type="a">50</m_startRow>
+			<m_startRow type="a">68</m_startRow>
 			<m_startCol_Short type="a">6</m_startCol_Short>
-			<m_endRow type="a">50</m_endRow>
+			<m_endRow type="a">68</m_endRow>
 			<m_endCol_Short type="a">18</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7638,13 +7903,13 @@
 			<_id type="a">GUID 49d1cb0d-eee7-4e49-8225-6665da1446e2</_id>
 			<_name type="a">////    Additional operations    ////</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">////    Additional operations    ////
 </m_text>
-			<m_startRow type="a">52</m_startRow>
+			<m_startRow type="a">70</m_startRow>
 			<m_startCol_Short type="a">5</m_startCol_Short>
-			<m_endRow type="a">52</m_endRow>
+			<m_endRow type="a">70</m_endRow>
 			<m_endCol_Short type="a">42</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7655,12 +7920,12 @@
 			<_id type="a">GUID 34dc4821-ef7f-47ef-a4d2-cca7eff17c52</_id>
 			<_name type="a">getItsCommunicationInfrastructure:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation getItsCommunicationInfrastructure() const:spec</m_text>
-			<m_startRow type="a">55</m_startRow>
+			<m_startRow type="a">73</m_startRow>
 			<m_startCol_Short type="a">40</m_startCol_Short>
-			<m_endRow type="a">55</m_endRow>
+			<m_endRow type="a">73</m_endRow>
 			<m_endCol_Short type="a">85</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7671,12 +7936,12 @@
 			<_id type="a">GUID a163913d-59ac-41c9-9050-64fafd1f5cfd</_id>
 			<_name type="a">setItsCommunicationInfrastructure:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation setItsCommunicationInfrastructure(CommunicationInfrastructure * const):spec</m_text>
-			<m_startRow type="a">58</m_startRow>
+			<m_startRow type="a">76</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">58</m_endRow>
+			<m_endRow type="a">76</m_endRow>
 			<m_endCol_Short type="a">109</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7687,12 +7952,12 @@
 			<_id type="a">GUID 6ecb2a09-8a6e-4d5d-87ca-ec5f3a9827e3</_id>
 			<_name type="a">getItsDataStorage:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation getItsDataStorage() const:spec</m_text>
-			<m_startRow type="a">61</m_startRow>
+			<m_startRow type="a">79</m_startRow>
 			<m_startCol_Short type="a">24</m_startCol_Short>
-			<m_endRow type="a">61</m_endRow>
+			<m_endRow type="a">79</m_endRow>
 			<m_endCol_Short type="a">53</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7703,12 +7968,12 @@
 			<_id type="a">GUID 9ad9db4e-cb25-458d-9886-59a080d7b902</_id>
 			<_name type="a">setItsDataStorage:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation setItsDataStorage(DataStorage * const):spec</m_text>
-			<m_startRow type="a">64</m_startRow>
+			<m_startRow type="a">82</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">64</m_endRow>
+			<m_endRow type="a">82</m_endRow>
 			<m_endCol_Short type="a">61</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7719,12 +7984,12 @@
 			<_id type="a">GUID 85bb60b3-2996-4eed-b673-53804b06218a</_id>
 			<_name type="a">getItsDataStorage_1:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation getItsDataStorage_1() const:spec</m_text>
-			<m_startRow type="a">67</m_startRow>
+			<m_startRow type="a">85</m_startRow>
 			<m_startCol_Short type="a">24</m_startCol_Short>
-			<m_endRow type="a">67</m_endRow>
+			<m_endRow type="a">85</m_endRow>
 			<m_endCol_Short type="a">55</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7735,12 +8000,12 @@
 			<_id type="a">GUID d7481e63-9a0e-4498-9ac1-c913d54ea541</_id>
 			<_name type="a">setItsDataStorage_1:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation setItsDataStorage_1(DataStorage * const):spec</m_text>
-			<m_startRow type="a">70</m_startRow>
+			<m_startRow type="a">88</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">70</m_endRow>
+			<m_endRow type="a">88</m_endRow>
 			<m_endCol_Short type="a">63</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7751,12 +8016,12 @@
 			<_id type="a">GUID 6ee4b353-c398-477c-9d75-4b051426ef28</_id>
 			<_name type="a">getItsProcessors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation getItsProcessors() const:spec</m_text>
-			<m_startRow type="a">73</m_startRow>
+			<m_startRow type="a">91</m_startRow>
 			<m_startCol_Short type="a">23</m_startCol_Short>
-			<m_endRow type="a">73</m_endRow>
+			<m_endRow type="a">91</m_endRow>
 			<m_endCol_Short type="a">51</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7767,12 +8032,12 @@
 			<_id type="a">GUID bee0bd48-6c9b-4f03-942c-cfcc2b2e70a0</_id>
 			<_name type="a">setItsProcessors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation setItsProcessors(Processors * const):spec</m_text>
-			<m_startRow type="a">76</m_startRow>
+			<m_startRow type="a">94</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">76</m_endRow>
+			<m_endRow type="a">94</m_endRow>
 			<m_endCol_Short type="a">58</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7783,12 +8048,12 @@
 			<_id type="a">GUID 98e4973b-07f1-4bcb-95a3-957abe24e824</_id>
 			<_name type="a">getItsSensors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation getItsSensors() const:spec</m_text>
-			<m_startRow type="a">79</m_startRow>
+			<m_startRow type="a">97</m_startRow>
 			<m_startCol_Short type="a">20</m_startCol_Short>
-			<m_endRow type="a">79</m_endRow>
+			<m_endRow type="a">97</m_endRow>
 			<m_endCol_Short type="a">45</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7799,12 +8064,12 @@
 			<_id type="a">GUID a57dca9e-3779-4e6b-8e97-61f9d939b452</_id>
 			<_name type="a">setItsSensors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation setItsSensors(Sensors * const):spec</m_text>
-			<m_startRow type="a">82</m_startRow>
+			<m_startRow type="a">100</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">82</m_endRow>
+			<m_endRow type="a">100</m_endRow>
 			<m_endCol_Short type="a">49</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7815,12 +8080,12 @@
 			<_id type="a">GUID 70dee1c7-509c-4b7b-ac30-c9155fa0bbff</_id>
 			<_name type="a">cleanUpRelations:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation cleanUpRelations():spec</m_text>
-			<m_startRow type="a">87</m_startRow>
+			<m_startRow type="a">105</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">87</m_endRow>
+			<m_endRow type="a">105</m_endRow>
 			<m_endCol_Short type="a">32</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7831,13 +8096,13 @@
 			<_id type="a">GUID 20b8e405-1b1a-4776-ac40-6fe54648a905</_id>
 			<_name type="a">////    Relations and components    ////</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">////    Relations and components    ////
 </m_text>
-			<m_startRow type="a">89</m_startRow>
+			<m_startRow type="a">107</m_startRow>
 			<m_startCol_Short type="a">5</m_startCol_Short>
-			<m_endRow type="a">89</m_endRow>
+			<m_endRow type="a">107</m_endRow>
 			<m_endCol_Short type="a">45</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7848,11 +8113,11 @@
 			<_id type="a">GUID 20d45dbe-55ef-4ab7-874c-249dfb4453cb</_id>
 			<_name type="a">itsCommunicationInfrastructure</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">93</m_startRow>
+			<m_startRow type="a">111</m_startRow>
 			<m_startCol_Short type="a">34</m_startCol_Short>
-			<m_endRow type="a">93</m_endRow>
+			<m_endRow type="a">111</m_endRow>
 			<m_endCol_Short type="a">64</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7865,11 +8130,11 @@
 			<_id type="a">GUID 05497d48-c727-43fd-8420-294e9b23afe4</_id>
 			<_name type="a">itsDataStorage</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">95</m_startRow>
+			<m_startRow type="a">113</m_startRow>
 			<m_startCol_Short type="a">18</m_startCol_Short>
-			<m_endRow type="a">95</m_endRow>
+			<m_endRow type="a">113</m_endRow>
 			<m_endCol_Short type="a">32</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7882,11 +8147,11 @@
 			<_id type="a">GUID fb32b962-7a1b-408b-9812-6d121d1b2e50</_id>
 			<_name type="a">itsDataStorage_1</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">97</m_startRow>
+			<m_startRow type="a">115</m_startRow>
 			<m_startCol_Short type="a">18</m_startCol_Short>
-			<m_endRow type="a">97</m_endRow>
+			<m_endRow type="a">115</m_endRow>
 			<m_endCol_Short type="a">34</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7899,11 +8164,11 @@
 			<_id type="a">GUID b68556e1-4c6a-4983-9e83-a8aacb8a55a1</_id>
 			<_name type="a">itsProcessors</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">99</m_startRow>
+			<m_startRow type="a">117</m_startRow>
 			<m_startCol_Short type="a">17</m_startCol_Short>
-			<m_endRow type="a">99</m_endRow>
+			<m_endRow type="a">117</m_endRow>
 			<m_endCol_Short type="a">30</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7916,11 +8181,11 @@
 			<_id type="a">GUID 863cf931-1688-4be2-b4a3-3b32fc547cc2</_id>
 			<_name type="a">itsSensors</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">101</m_startRow>
+			<m_startRow type="a">119</m_startRow>
 			<m_startCol_Short type="a">14</m_startCol_Short>
-			<m_endRow type="a">101</m_endRow>
+			<m_endRow type="a">119</m_endRow>
 			<m_endCol_Short type="a">24</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7930,32 +8195,15 @@
 			</m_subject>
 		</IFileFragment>
 		<IFileFragment type="e">
-			<_id type="a">GUID ee8f9830-b45e-4056-a8bc-657006abba87</_id>
-			<_name type="a">////    Framework operations    ////</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<m_type type="a">textFragment</m_type>
-			<m_text type="a">////    Framework operations    ////
-</m_text>
-			<m_startRow type="a">103</m_startRow>
-			<m_startCol_Short type="a">5</m_startCol_Short>
-			<m_endRow type="a">103</m_endRow>
-			<m_endCol_Short type="a">41</m_endCol_Short>
-			<m_subject type="r">
-				<INObjectHandle type="e">
-				</INObjectHandle>
-			</m_subject>
-		</IFileFragment>
-		<IFileFragment type="e">
 			<_id type="a">GUID 5f752757-11cd-418f-82cc-167ab67fc982</_id>
 			<_name type="a">__setItsCommunicationInfrastructure:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation __setItsCommunicationInfrastructure(CommunicationInfrastructure * const):spec</m_text>
-			<m_startRow type="a">108</m_startRow>
+			<m_startRow type="a">124</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">108</m_endRow>
+			<m_endRow type="a">124</m_endRow>
 			<m_endCol_Short type="a">111</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7966,12 +8214,12 @@
 			<_id type="a">GUID b80f393b-51fe-4742-9154-fac52c997775</_id>
 			<_name type="a">_setItsCommunicationInfrastructure:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _setItsCommunicationInfrastructure(CommunicationInfrastructure * const):spec</m_text>
-			<m_startRow type="a">111</m_startRow>
+			<m_startRow type="a">127</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">111</m_endRow>
+			<m_endRow type="a">127</m_endRow>
 			<m_endCol_Short type="a">110</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7982,12 +8230,12 @@
 			<_id type="a">GUID 5f071403-c394-4b97-9a15-f5c5fc330785</_id>
 			<_name type="a">_clearItsCommunicationInfrastructure:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _clearItsCommunicationInfrastructure():spec</m_text>
-			<m_startRow type="a">114</m_startRow>
+			<m_startRow type="a">130</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">114</m_endRow>
+			<m_endRow type="a">130</m_endRow>
 			<m_endCol_Short type="a">52</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -7998,12 +8246,12 @@
 			<_id type="a">GUID 225eb127-6b1a-4e38-9ae8-d7b7a7f45e17</_id>
 			<_name type="a">__setItsDataStorage:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation __setItsDataStorage(DataStorage * const):spec</m_text>
-			<m_startRow type="a">117</m_startRow>
+			<m_startRow type="a">133</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">117</m_endRow>
+			<m_endRow type="a">133</m_endRow>
 			<m_endCol_Short type="a">63</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8014,12 +8262,12 @@
 			<_id type="a">GUID 41d16658-cbd7-49a3-98c2-bdeb857294f3</_id>
 			<_name type="a">_setItsDataStorage:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _setItsDataStorage(DataStorage * const):spec</m_text>
-			<m_startRow type="a">120</m_startRow>
+			<m_startRow type="a">136</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">120</m_endRow>
+			<m_endRow type="a">136</m_endRow>
 			<m_endCol_Short type="a">62</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8030,12 +8278,12 @@
 			<_id type="a">GUID c1d7332e-66b2-4f6d-a983-804a85a20fb1</_id>
 			<_name type="a">_clearItsDataStorage:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _clearItsDataStorage():spec</m_text>
-			<m_startRow type="a">123</m_startRow>
+			<m_startRow type="a">139</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">123</m_endRow>
+			<m_endRow type="a">139</m_endRow>
 			<m_endCol_Short type="a">36</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8046,12 +8294,12 @@
 			<_id type="a">GUID a141f66b-7911-4f9e-9c14-7c78fab2ec5f</_id>
 			<_name type="a">__setItsDataStorage_1:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation __setItsDataStorage_1(DataStorage * const):spec</m_text>
-			<m_startRow type="a">126</m_startRow>
+			<m_startRow type="a">142</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">126</m_endRow>
+			<m_endRow type="a">142</m_endRow>
 			<m_endCol_Short type="a">65</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8062,12 +8310,12 @@
 			<_id type="a">GUID 2188ba25-e662-4c73-b7fc-6255313a5fc1</_id>
 			<_name type="a">_setItsDataStorage_1:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _setItsDataStorage_1(DataStorage * const):spec</m_text>
-			<m_startRow type="a">129</m_startRow>
+			<m_startRow type="a">145</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">129</m_endRow>
+			<m_endRow type="a">145</m_endRow>
 			<m_endCol_Short type="a">64</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8078,12 +8326,12 @@
 			<_id type="a">GUID 878eacc8-bdcf-4cc3-b704-2fd60fb1851d</_id>
 			<_name type="a">_clearItsDataStorage_1:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _clearItsDataStorage_1():spec</m_text>
-			<m_startRow type="a">132</m_startRow>
+			<m_startRow type="a">148</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">132</m_endRow>
+			<m_endRow type="a">148</m_endRow>
 			<m_endCol_Short type="a">38</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8094,12 +8342,12 @@
 			<_id type="a">GUID 72fb3600-ca77-4b4c-9494-fdc0ea7f32e4</_id>
 			<_name type="a">__setItsProcessors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation __setItsProcessors(Processors * const):spec</m_text>
-			<m_startRow type="a">135</m_startRow>
+			<m_startRow type="a">151</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">135</m_endRow>
+			<m_endRow type="a">151</m_endRow>
 			<m_endCol_Short type="a">60</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8110,12 +8358,12 @@
 			<_id type="a">GUID 37bb3955-4301-4503-ba95-303f96503aea</_id>
 			<_name type="a">_setItsProcessors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _setItsProcessors(Processors * const):spec</m_text>
-			<m_startRow type="a">138</m_startRow>
+			<m_startRow type="a">154</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">138</m_endRow>
+			<m_endRow type="a">154</m_endRow>
 			<m_endCol_Short type="a">59</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8126,12 +8374,12 @@
 			<_id type="a">GUID 127674dc-d543-437f-9a2b-34908ead6c94</_id>
 			<_name type="a">_clearItsProcessors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _clearItsProcessors():spec</m_text>
-			<m_startRow type="a">141</m_startRow>
+			<m_startRow type="a">157</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">141</m_endRow>
+			<m_endRow type="a">157</m_endRow>
 			<m_endCol_Short type="a">35</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8142,12 +8390,12 @@
 			<_id type="a">GUID 08e39d3b-79cc-45d6-8a22-71d53f1ee3de</_id>
 			<_name type="a">__setItsSensors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation __setItsSensors(Sensors * const):spec</m_text>
-			<m_startRow type="a">144</m_startRow>
+			<m_startRow type="a">160</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">144</m_endRow>
+			<m_endRow type="a">160</m_endRow>
 			<m_endCol_Short type="a">51</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8158,12 +8406,12 @@
 			<_id type="a">GUID 7c915a75-326c-42ce-b8ee-9ebe8462779a</_id>
 			<_name type="a">_setItsSensors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _setItsSensors(Sensors * const):spec</m_text>
-			<m_startRow type="a">147</m_startRow>
+			<m_startRow type="a">163</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">147</m_endRow>
+			<m_endRow type="a">163</m_endRow>
 			<m_endCol_Short type="a">50</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8174,12 +8422,12 @@
 			<_id type="a">GUID e1708446-a1f1-42b4-b1a6-1ff2b111ea72</_id>
 			<_name type="a">_clearItsSensors:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:19:10</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">//## auto:operation _clearItsSensors():spec</m_text>
-			<m_startRow type="a">150</m_startRow>
+			<m_startRow type="a">166</m_startRow>
 			<m_startCol_Short type="a">10</m_startCol_Short>
-			<m_endRow type="a">150</m_endRow>
+			<m_endRow type="a">166</m_endRow>
 			<m_endCol_Short type="a">32</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8187,162 +8435,114 @@
 			</m_subject>
 		</IFileFragment>
 		<IFileFragment type="e">
-			<_id type="a">GUID b2f4411a-37e8-4577-999e-14fb9966a362</_id>
-			<_name type="a">receiveAllRawData</_name>
+			<_id type="a">GUID 98e565f9-bfbf-4c7b-96c0-878ac394d31a</_id>
+			<_name type="a">itsLocationProvider</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">specFragment</m_type>
+			<m_startRow type="a">176</m_startRow>
+			<m_startCol_Short type="a">25</m_startCol_Short>
+			<m_endRow type="a">176</m_endRow>
+			<m_endCol_Short type="a">44</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hclass type="a">TopLevel</_hclass>
+					<_hname type="a">itsLocationProvider</_hname>
+					<_hid type="a">GUID 918f728c-8fb5-4de0-aaf7-992844508112</_hid>
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID b6c21aec-95d2-4522-94c4-2a1ec4053e70</_id>
+			<_name type="a">itsRawDataLoader</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">specFragment</m_type>
+			<m_startRow type="a">179</m_startRow>
+			<m_startCol_Short type="a">22</m_startCol_Short>
+			<m_endRow type="a">179</m_endRow>
+			<m_endCol_Short type="a">38</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hclass type="a">TopLevel</_hclass>
+					<_hname type="a">itsRawDataLoader</_hname>
+					<_hid type="a">GUID 69db355b-729f-4b7b-b725-cac6b65ab03e</_hid>
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
+		<IFileFragment type="e">
+			<_id type="a">GUID 72771667-8036-483d-9043-8d1f95075aea</_id>
+			<_name type="a">itsRegionNameAPIClient</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
 			<m_startRow type="a">182</m_startRow>
-			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">195</m_endRow>
-			<m_endCol_Short type="a">1</m_endCol_Short>
+			<m_startCol_Short type="a">28</m_startCol_Short>
+			<m_endRow type="a">182</m_endRow>
+			<m_endCol_Short type="a">50</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
-					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hm2Class type="a">IPart</_hm2Class>
 					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hname type="a">receiveAllRawData()</_hname>
-					<_hid type="a">GUID 57ceb497-c1f2-44b7-9415-b58f3443cba8</_hid>
+					<_hclass type="a">TopLevel</_hclass>
+					<_hname type="a">itsRegionNameAPIClient</_hname>
+					<_hid type="a">GUID bb32e9d2-138e-4f88-a183-8c57fe6bff2c</_hid>
 				</INObjectHandle>
 			</m_subject>
-			<AggregatesList type="e">
-				<value>GUID 4fab0eb5-a071-4a2e-aaa7-f3a9176678d1</value>
-				<value>GUID 5e5e95e4-37ae-43d0-8b5a-db3e2b063538</value>
-			</AggregatesList>
 		</IFileFragment>
-		<ITag type="e">
-			<_id type="a">GUID 4fab0eb5-a071-4a2e-aaa7-f3a9176678d1</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">BodyStartLine</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">RhpString</_hname>
-					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<AggregatesList type="e">
-				<value>GUID c3606c1c-7b00-442f-ba2d-b1632e2e1874</value>
-			</AggregatesList>
-		</ITag>
-		<ILiteralSpecification type="e">
-			<_id type="a">GUID c3606c1c-7b00-442f-ba2d-b1632e2e1874</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">182</_value>
-		</ILiteralSpecification>
-		<ITag type="e">
-			<_id type="a">GUID 5e5e95e4-37ae-43d0-8b5a-db3e2b063538</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">BodyStartCol</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">RhpString</_hname>
-					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<AggregatesList type="e">
-				<value>GUID c94a2bc4-50b6-4063-876c-e7d021cecee3</value>
-			</AggregatesList>
-		</ITag>
-		<ILiteralSpecification type="e">
-			<_id type="a">GUID c94a2bc4-50b6-4063-876c-e7d021cecee3</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<_value type="a">42</_value>
-		</ILiteralSpecification>
 		<IFileFragment type="e">
-			<_id type="a">GUID 32ecb3e5-148e-49c1-86c2-affd825e9597</_id>
-			<_name type="a">checkRawData</_name>
+			<_id type="a">GUID 09d3ea1f-3213-47be-8005-24edee0d9cb6</_id>
+			<_name type="a">itsWeatherAPIClient</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">210</m_startRow>
-			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">223</m_endRow>
-			<m_endCol_Short type="a">1</m_endCol_Short>
+			<m_startRow type="a">185</m_startRow>
+			<m_startCol_Short type="a">25</m_startCol_Short>
+			<m_endRow type="a">185</m_endRow>
+			<m_endCol_Short type="a">44</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
-					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hm2Class type="a">IPart</_hm2Class>
 					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD</_hsubsystem>
-					<_hname type="a">checkRawData()</_hname>
-					<_hid type="a">GUID 1eacd727-7af2-495f-a3df-fbd72564dc4f</_hid>
+					<_hclass type="a">TopLevel</_hclass>
+					<_hname type="a">itsWeatherAPIClient</_hname>
+					<_hid type="a">GUID 19a6dad2-6f54-4a96-b685-ac8d4d33c9d5</_hid>
 				</INObjectHandle>
 			</m_subject>
-			<AggregatesList type="e">
-				<value>GUID a954addc-06ea-48d9-9601-913066ab664b</value>
-				<value>GUID 0f2fb253-3e22-4fae-8787-0c4897b02286</value>
-			</AggregatesList>
 		</IFileFragment>
-		<ITag type="e">
-			<_id type="a">GUID a954addc-06ea-48d9-9601-913066ab664b</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">BodyStartLine</_name>
+		<IFileFragment type="e">
+			<_id type="a">GUID 48bc616e-0d35-4783-b058-2c67f426363e</_id>
+			<_name type="a">SMSWTD_initRelations:spec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:45:4</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">RhpString</_hname>
-					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<AggregatesList type="e">
-				<value>GUID cbb0a7bb-c119-4536-aa83-320c305d4f4c</value>
-			</AggregatesList>
-		</ITag>
-		<ILiteralSpecification type="e">
-			<_id type="a">GUID cbb0a7bb-c119-4536-aa83-320c305d4f4c</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">210</_value>
-		</ILiteralSpecification>
-		<ITag type="e">
-			<_id type="a">GUID 0f2fb253-3e22-4fae-8787-0c4897b02286</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">BodyStartCol</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">RhpString</_hname>
-					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<AggregatesList type="e">
-				<value>GUID f7b7a0cc-92bb-406f-8633-92890cfb47d6</value>
-			</AggregatesList>
-		</ITag>
-		<ILiteralSpecification type="e">
-			<_id type="a">GUID f7b7a0cc-92bb-406f-8633-92890cfb47d6</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<_value type="a">37</_value>
-		</ILiteralSpecification>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">textFragment</m_type>
+			<m_text type="a">//## auto:operation SMSWTD_initRelations():spec</m_text>
+			<m_startRow type="a">188</m_startRow>
+			<m_startCol_Short type="a">6</m_startCol_Short>
+			<m_endRow type="a">188</m_endRow>
+			<m_endCol_Short type="a">32</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</m_subject>
+		</IFileFragment>
 		<IFileFragment type="e">
 			<_id type="a">GUID 470c6a3b-822d-4a99-b537-b8735af36d15</_id>
 			<_name type="a">reqRawDataFromSensors</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">238</m_startRow>
+			<m_startRow type="a">228</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">251</m_endRow>
+			<m_endRow type="a">241</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8363,7 +8563,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8380,8 +8580,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID bbbc1fc0-8b16-45cd-a590-5e478ec7117f</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">238</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">228</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 6fb517d9-ad62-416e-a63c-d0165ef159d7</_id>
@@ -8412,11 +8612,11 @@
 			<_id type="a">GUID bf9a0785-4fcb-476b-9ebb-d5b006cffc82</_id>
 			<_name type="a">alarmRec</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">266</m_startRow>
+			<m_startRow type="a">256</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">279</m_endRow>
+			<m_endRow type="a">269</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8437,7 +8637,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8454,8 +8654,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID f49a5193-1829-4fa5-a056-6741f293885c</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">266</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">256</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 877425e9-5158-47fd-a131-cba9458509db</_id>
@@ -8486,11 +8686,11 @@
 			<_id type="a">GUID 04886179-6633-4073-bfed-8d87620e8cbb</_id>
 			<_name type="a">alarmReceivedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">294</m_startRow>
+			<m_startRow type="a">284</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">307</m_endRow>
+			<m_endRow type="a">297</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8511,7 +8711,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8528,8 +8728,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID be943494-5dfe-470b-a036-5c5be4626cd1</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">294</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">284</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 072b4cdf-2461-4689-8cb5-17a73d5e6d8a</_id>
@@ -8560,11 +8760,11 @@
 			<_id type="a">GUID 38c64052-e5a4-4436-8f85-544f7336d256</_id>
 			<_name type="a">AlarmReceivedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">322</m_startRow>
+			<m_startRow type="a">312</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">335</m_endRow>
+			<m_endRow type="a">325</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8585,7 +8785,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8602,8 +8802,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID acba7532-a145-4163-ab68-c819f2ca5a4a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">322</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">312</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 12624d84-094b-45c1-a399-8e57a2c195fa</_id>
@@ -8634,11 +8834,11 @@
 			<_id type="a">GUID f6370f94-ae7b-40f4-aec3-67e81b26c7d3</_id>
 			<_name type="a">alarmResolved</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">350</m_startRow>
+			<m_startRow type="a">340</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">363</m_endRow>
+			<m_endRow type="a">353</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8659,7 +8859,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8676,8 +8876,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 751ab86e-5f7c-4e66-9e9e-2c73254280dd</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">350</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">340</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID a5feeb38-0366-450b-92b9-9a71e42ee910</_id>
@@ -8708,11 +8908,11 @@
 			<_id type="a">GUID 5cf5c71f-8645-4f20-9a1f-d2934add4cc5</_id>
 			<_name type="a">alarmResolvedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">378</m_startRow>
+			<m_startRow type="a">368</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">391</m_endRow>
+			<m_endRow type="a">381</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8733,7 +8933,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8750,8 +8950,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID a4c1c891-0178-4b65-880b-368e5980b342</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">378</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">368</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 7312e936-df9b-4a4b-ba20-229675724229</_id>
@@ -8782,11 +8982,11 @@
 			<_id type="a">GUID 0a8a96d9-097b-4832-9d56-cb7aac924378</_id>
 			<_name type="a">AlarmResolvedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">406</m_startRow>
+			<m_startRow type="a">396</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">419</m_endRow>
+			<m_endRow type="a">409</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8807,7 +9007,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8824,8 +9024,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 2860d301-1d22-4dde-858c-620a9432e09c</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">406</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">396</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID ad6f747e-2635-4c11-bd0d-02995f477f46</_id>
@@ -8856,11 +9056,11 @@
 			<_id type="a">GUID 2df4900a-a2a7-4787-90fd-8cd88c0ff725</_id>
 			<_name type="a">crisisReceived</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">434</m_startRow>
+			<m_startRow type="a">424</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">447</m_endRow>
+			<m_endRow type="a">437</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8881,7 +9081,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8898,8 +9098,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID ee8d120f-80f3-4a74-afad-d93f46aebcd9</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">434</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">424</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID f5718c19-97ff-4b31-9bba-2b5782580643</_id>
@@ -8930,11 +9130,11 @@
 			<_id type="a">GUID d7afcef1-d2e1-4ac2-a394-23bdb49765d7</_id>
 			<_name type="a">crisisReceivedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">462</m_startRow>
+			<m_startRow type="a">452</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">475</m_endRow>
+			<m_endRow type="a">465</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -8955,7 +9155,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -8972,8 +9172,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 5da0f3ea-586d-4722-8bb9-f6662e984cf4</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">462</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">452</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID b99613b4-5422-4b69-ba7f-f1835077d9a4</_id>
@@ -9004,11 +9204,11 @@
 			<_id type="a">GUID 3cba22b9-ae41-4431-bdc3-32826f831f9c</_id>
 			<_name type="a">crisisResolvedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">490</m_startRow>
+			<m_startRow type="a">480</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">503</m_endRow>
+			<m_endRow type="a">493</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9029,7 +9229,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9046,8 +9246,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID f4c6b807-23a7-4330-a48c-0a95ee49614b</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">490</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">480</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 0f4f9d54-cd7b-4773-8eaa-ad1d85ef1815</_id>
@@ -9078,11 +9278,11 @@
 			<_id type="a">GUID 3b964d1e-bba9-47af-8885-a295c6e5e7c3</_id>
 			<_name type="a">notificationReadyEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">518</m_startRow>
+			<m_startRow type="a">508</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">531</m_endRow>
+			<m_endRow type="a">521</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9103,7 +9303,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9120,8 +9320,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID b8c96866-ec09-4efb-a580-379c21ad70f4</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">518</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">508</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 29374880-9fc9-498d-bee3-e4755ad6d1e0</_id>
@@ -9152,11 +9352,11 @@
 			<_id type="a">GUID aeaf8d80-e4dd-4c36-b521-11e84ace2b33</_id>
 			<_name type="a">NotificationReadyEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">546</m_startRow>
+			<m_startRow type="a">536</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">559</m_endRow>
+			<m_endRow type="a">549</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9177,7 +9377,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9194,8 +9394,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID d697e9af-7451-4e27-bb50-79fa737eaf08</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">546</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">536</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID aed842fc-2c32-4325-88ae-62bb3d1c9ae7</_id>
@@ -9226,11 +9426,11 @@
 			<_id type="a">GUID 9319f3ef-f897-4a99-aed5-58784784ec5d</_id>
 			<_name type="a">userDismissedAlarm</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">574</m_startRow>
+			<m_startRow type="a">564</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">587</m_endRow>
+			<m_endRow type="a">577</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9251,7 +9451,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9268,8 +9468,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID ad270800-b4a9-4991-a343-bc028e64cf32</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">574</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">564</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 96f1d8f9-1154-4fd8-84e2-500d61d566c3</_id>
@@ -9300,11 +9500,11 @@
 			<_id type="a">GUID 1a4caf79-dda6-4418-8a78-bf7757a68983</_id>
 			<_name type="a">userDismissedAlarmE</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">602</m_startRow>
+			<m_startRow type="a">592</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">615</m_endRow>
+			<m_endRow type="a">605</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9325,7 +9525,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9342,8 +9542,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 833e2f3e-4a22-45a2-b799-876616c07d58</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">602</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">592</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID e826ceac-9f31-4c09-b76b-167352e68238</_id>
@@ -9374,11 +9574,11 @@
 			<_id type="a">GUID 8c35dedf-5bf1-49d5-83b4-a8229d0514ec</_id>
 			<_name type="a">userDismissedAlarmEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">630</m_startRow>
+			<m_startRow type="a">620</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">643</m_endRow>
+			<m_endRow type="a">633</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9399,7 +9599,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9416,8 +9616,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID c1361374-369e-4da6-ac0f-5a8e935480d9</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">630</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">620</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID df5575ef-eaab-4850-9c81-c39348527e98</_id>
@@ -9448,11 +9648,11 @@
 			<_id type="a">GUID 8e780f41-f4b6-4c7f-b474-5becedbff12d</_id>
 			<_name type="a">UserDismissedAlarmEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">658</m_startRow>
+			<m_startRow type="a">648</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">671</m_endRow>
+			<m_endRow type="a">661</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9473,7 +9673,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9490,8 +9690,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID cba38e68-f96a-48cc-9336-88aaa50d8b19</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">658</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">648</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID e0c88c18-be04-4efb-a528-7fb5d9e037b6</_id>
@@ -9522,11 +9722,11 @@
 			<_id type="a">GUID d715f7ce-3947-458c-9065-3ce0c6224ba5</_id>
 			<_name type="a">userSnoozed</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">686</m_startRow>
+			<m_startRow type="a">676</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">699</m_endRow>
+			<m_endRow type="a">689</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9547,7 +9747,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9564,8 +9764,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 71ec7a6d-9ed6-4bf8-91ba-51e2c2bd0ccb</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">686</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">676</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 74ab908e-e5ff-4dd6-ac5a-3491070d4aa1</_id>
@@ -9596,11 +9796,11 @@
 			<_id type="a">GUID a34b193f-774b-4437-aad9-c0a2c3d03837</_id>
 			<_name type="a">userSnoozedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">714</m_startRow>
+			<m_startRow type="a">704</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">727</m_endRow>
+			<m_endRow type="a">717</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9621,7 +9821,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9638,8 +9838,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 8e39dc03-1e80-4704-a8c6-1df58e67f5d2</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">714</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">704</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID eacb29df-756b-4d01-97a6-679e14465652</_id>
@@ -9670,11 +9870,11 @@
 			<_id type="a">GUID 32aa0802-485f-4f71-ad47-3fa31464307f</_id>
 			<_name type="a">UserSnoozedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">742</m_startRow>
+			<m_startRow type="a">732</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">755</m_endRow>
+			<m_endRow type="a">745</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9695,7 +9895,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9712,8 +9912,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 0c4187f1-14b6-4d04-80ce-188ae329d2cc</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">742</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">732</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 4c1f2831-18cb-4242-87ef-bccb1afa7fa1</_id>
@@ -9744,11 +9944,11 @@
 			<_id type="a">GUID 8afafc48-d263-4f73-b59a-4d426aabfe46</_id>
 			<_name type="a">warningReceived</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">770</m_startRow>
+			<m_startRow type="a">760</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">783</m_endRow>
+			<m_endRow type="a">773</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9769,7 +9969,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9786,8 +9986,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 91e48455-6d65-44b4-b9e8-f5f9b652acb6</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">770</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">760</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 8ff90e80-b698-42e9-b5f8-555d42b92134</_id>
@@ -9818,11 +10018,11 @@
 			<_id type="a">GUID 750cf219-801c-438f-a01f-d8bc6cd804f2</_id>
 			<_name type="a">warningReceivedEv</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">798</m_startRow>
+			<m_startRow type="a">788</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">811</m_endRow>
+			<m_endRow type="a">801</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9843,7 +10043,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9860,8 +10060,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 79677fa6-713b-4c11-ad77-c1aac62b678d</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
-			<_value type="a">798</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">788</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID facb664e-144d-4305-95c6-eb77011e7205</_id>
@@ -9892,11 +10092,11 @@
 			<_id type="a">GUID 0bddfc8c-0498-422d-8fc3-9034c89cc90f</_id>
 			<_name type="a">rawDataTransmissionDone</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::9:50:24</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<m_type type="a">specFragment</m_type>
-			<m_startRow type="a">826</m_startRow>
+			<m_startRow type="a">816</m_startRow>
 			<m_startCol_Short type="a">1</m_startCol_Short>
-			<m_endRow type="a">839</m_endRow>
+			<m_endRow type="a">829</m_endRow>
 			<m_endCol_Short type="a">1</m_endCol_Short>
 			<m_subject type="r">
 				<INObjectHandle type="e">
@@ -9917,7 +10117,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">BodyStartLine</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -9934,8 +10134,8 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 27d6afe8-8c6f-459e-ab28-63950e14af19</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<_value type="a">826</_value>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">816</_value>
 		</ILiteralSpecification>
 		<ITag type="e">
 			<_id type="a">GUID 40c2e4fd-54b8-4c5e-b99e-69423d833cdb</_id>
@@ -9961,6 +10161,154 @@
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_value type="a">48</_value>
+		</ILiteralSpecification>
+		<IFileFragment type="e">
+			<_id type="a">GUID e265393a-354f-45fe-b21d-7fb54a79bc99</_id>
+			<_name type="a">uploadRawDataToDatabase</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<m_type type="a">specFragment</m_type>
+			<m_startRow type="a">844</m_startRow>
+			<m_startCol_Short type="a">1</m_startCol_Short>
+			<m_endRow type="a">857</m_endRow>
+			<m_endCol_Short type="a">1</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hname type="a">uploadRawDataToDatabase()</_hname>
+					<_hid type="a">GUID 8544ba44-a116-4f60-9f65-f6a783384e66</_hid>
+				</INObjectHandle>
+			</m_subject>
+			<AggregatesList type="e">
+				<value>GUID 13a3e975-9656-4a3a-869e-566036a615d2</value>
+				<value>GUID c8b4b53c-b22c-4e11-8615-2033c307ae9a</value>
+			</AggregatesList>
+		</IFileFragment>
+		<ITag type="e">
+			<_id type="a">GUID 13a3e975-9656-4a3a-869e-566036a615d2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">BodyStartLine</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 4b9cd81f-2ef6-4ceb-afd6-fbd1ae3f3e31</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 4b9cd81f-2ef6-4ceb-afd6-fbd1ae3f3e31</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:16</_modifiedTime>
+			<_value type="a">844</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID c8b4b53c-b22c-4e11-8615-2033c307ae9a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">BodyStartCol</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID f3c756af-0a51-43cd-aa8e-a567eb1090b3</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID f3c756af-0a51-43cd-aa8e-a567eb1090b3</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">48</_value>
+		</ILiteralSpecification>
+		<IFileFragment type="e">
+			<_id type="a">GUID 91e6883f-49f5-447a-a436-9a2059f41bd3</_id>
+			<_name type="a">receiveAllRawData</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.9.2025::9:49:15</_modifiedTime>
+			<m_type type="a">specFragment</m_type>
+			<m_startRow type="a">872</m_startRow>
+			<m_startCol_Short type="a">1</m_startCol_Short>
+			<m_endRow type="a">885</m_endRow>
+			<m_endCol_Short type="a">1</m_endCol_Short>
+			<m_subject type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hname type="a">receiveAllRawData()</_hname>
+					<_hid type="a">GUID 57ceb497-c1f2-44b7-9415-b58f3443cba8</_hid>
+				</INObjectHandle>
+			</m_subject>
+			<AggregatesList type="e">
+				<value>GUID 6f2564be-1212-4d38-b1be-d888d4423c03</value>
+				<value>GUID 255482de-6f95-4d0c-a19f-bb4790559bee</value>
+			</AggregatesList>
+		</IFileFragment>
+		<ITag type="e">
+			<_id type="a">GUID 6f2564be-1212-4d38-b1be-d888d4423c03</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">BodyStartLine</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 5ef2fc24-8116-4ccd-9ea7-2ec58ee091e6</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 5ef2fc24-8116-4ccd-9ea7-2ec58ee091e6</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">872</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 255482de-6f95-4d0c-a19f-bb4790559bee</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">BodyStartCol</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID f4ce0878-9c2b-47a4-9e68-204dee773f5b</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID f4ce0878-9c2b-47a4-9e68-204dee773f5b</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_value type="a">42</_value>
 		</ILiteralSpecification>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID b6fc09d6-a42c-4934-b80d-f2a747553c8f</_id>

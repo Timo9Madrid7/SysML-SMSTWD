@@ -1,7 +1,7 @@
+File: D:\sysml\SysML-SMSTWD\DefaultComponent\DefaultConfig\SMSWTD.h, Line: 924 #endif ignored -- no matching #if.
+File: D:\sysml\SysML-SMSTWD\DefaultComponent\DefaultConfig\LocationProvider.h, Line: 213 #endif ignored -- no matching #if.
 
-Parsing Summary:
-"D:\projects\Rhapsody_9\SysML-SMSTWD\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 473 *** no function uploadRawDataToDatabase was declared in this context
-"D:\projects\Rhapsody_9\SysML-SMSTWD\DefaultComponent\DefaultConfig\SMSWTD.cpp":LINE 473 *** There is no declaration for >>uploadRawDataToDatabase<< that is visible here.
+Abort by user selection.
 
-Reverse Engineering Done (2).
+Reverse Engineering Done (1). Abort By User.
 
