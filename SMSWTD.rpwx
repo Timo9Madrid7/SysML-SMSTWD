@@ -28,11 +28,75 @@
 								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
 								<m_nLeft type="a">32</m_nLeft>
 								<m_nTop type="a">32</m_nTop>
+								<m_nRight type="a">1131</m_nRight>
+								<m_nBottom type="a">348</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\COMMUNICATOR.omdx</_hfilename>
+								<_hsubsystem type="a">SMSWTD</_hsubsystem>
+								<_hname type="a">COMMUNICATOR</_hname>
+								<_hid type="a">GUID 45de19d2-7b9f-42ed-915b-1d801d374df6</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1202 419 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">32</m_nLeft>
+								<m_nTop type="a">32</m_nTop>
+								<m_nRight type="a">1131</m_nRight>
+								<m_nBottom type="a">317</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\SMSWTD.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD</_hsubsystem>
+								<_hname type="a">FLOWDEMO</_hname>
+								<_hid type="a">GUID 4f9fb789-981f-4ef8-9c7f-ff1af6248f76</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 318 </_UpLeft>
+						<_DownRight type="a">1112 895 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">32</m_nLeft>
+								<m_nTop type="a">32</m_nTop>
 								<m_nRight type="a">1099</m_nRight>
 								<m_nBottom type="a">437</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IPanelDiagram</_hm2Class>
@@ -42,10 +106,10 @@
 								<_hid type="a">GUID e499164d-57ef-4960-b206-c23565d95077</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">5 0 </_UpLeft>
-						<_DownRight type="a">1207 540 </_DownRight>
+						<_UpLeft type="a">0 -14 </_UpLeft>
+						<_DownRight type="a">1503 766 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">1</m_bIsActiveView>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 					<CGEMdiDiagramParams type="e">
@@ -58,13 +122,45 @@
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">32</m_nLeft>
+								<m_nTop type="a">32</m_nTop>
+								<m_nRight type="a">1127</m_nRight>
+								<m_nBottom type="a">367</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\MOBILEAPP.omdx</_hfilename>
+								<_hsubsystem type="a">SMSWTD</_hsubsystem>
+								<_hname type="a">MOBILEAPP</_hname>
+								<_hid type="a">GUID 1f290363-ff5a-4d58-b66c-e3e8f6ee46c9</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">217 30 </_UpLeft>
+						<_DownRight type="a">1269 293 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
 								<m_nLeft type="a">160</m_nLeft>
 								<m_nTop type="a">160</m_nTop>
 								<m_nRight type="a">1191</m_nRight>
 								<m_nBottom type="a">552</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IDiagram</_hm2Class>
@@ -74,9 +170,105 @@
 								<_hid type="a">GUID 6fd60120-9848-472d-a1f9-8c8b1ad1421f</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 440 </_UpLeft>
-						<_DownRight type="a">1235 840 </_DownRight>
-						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<_UpLeft type="a">413 577 </_UpLeft>
+						<_DownRight type="a">1678 1233 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">997</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">1099</m_nRight>
+								<m_nBottom type="a">285</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IPanelDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\PushNotificationPanel.pldx</_hfilename>
+								<_hsubsystem type="a">SMSWTD</_hsubsystem>
+								<_hname type="a">PushNotificationPanel</_hname>
+								<_hid type="a">GUID 926a7709-fb8d-4fd9-9c5b-879ebbac9516</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1202 624 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">410</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">128</m_nLeft>
+								<m_nTop type="a">128</m_nTop>
+								<m_nRight type="a">1227</m_nRight>
+								<m_nBottom type="a">413</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IPanelDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\SMSWTD.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD</_hsubsystem>
+								<_hname type="a">RawDataLoaderPanel</_hname>
+								<_hid type="a">GUID 2f16bc5e-8ebb-4284-ad7a-8677ec3bafc0</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1202 624 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">192</m_nLeft>
+								<m_nTop type="a">192</m_nTop>
+								<m_nRight type="a">1227</m_nRight>
+								<m_nBottom type="a">649</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\SMSWTD.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD</_hsubsystem>
+								<_hname type="a">SMSWTD_PKG_DIAGRAM</_hname>
+								<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1503 780 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -115,6 +307,16 @@
 #endHnd#</idOrFolder>
 			</favoritesItem>
 			
+
+	- tableMatrixRowAdditionHight = {
+		count=1;
+		{ - TableMatrixView
+			id=56e14bf6-1d21-431e-b7cc-19178dd465e2;
+			rowAdditionalHight=;;
+			rowAdditionalHightExt=;
+		}
+	}
+
 		</CGEMdiWorkspace>
 		
 	</RHAPSODY-MODEL>
