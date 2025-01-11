@@ -9,25 +9,25 @@
 	
 	<RHAPSODY-MODEL>
 	<IWorkspace type="e">
-			<m_SavedActiveProjectsName type="a">Week1_SmartMointerSystem_fronted</m_SavedActiveProjectsName>
-			<_id type="a">GUID ce513867-5b15-480f-ba57-9f7ccb1e3f9b</_id>
+			<m_SavedActiveProjectsName type="a">DASHBOARD</m_SavedActiveProjectsName>
+			<_id type="a">GUID 184460b7-8305-45e6-9ec2-b8b4aefded0f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Projects</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.19.2024::8:14:38</_modifiedTime>
+			<_modifiedTime type="a">1.11.2025::12:16:42</_modifiedTime>
 			<AggregatesList type="e">
 				<value>GUID 3ba853ba-d9fd-4910-b3de-dbf6529773aa</value>
 				<value>GUID 3ba853ba-d9fd-4910-b3de-dbf6529773aa</value>
 			</AggregatesList>
 		</IWorkspace>
 		<IProject type="e">
-			<fileName type="a">Week1_SmartMointerSystem</fileName>
-			<_persistAs type="a">D:\projects\Rhapsody_9\Week1_SmartMointerSystem</_persistAs>
+			<fileName type="a">SMSWTD</fileName>
+			<_persistAs type="a">D:\projects\Rhapsody_9\SysML-SMSTWD</_persistAs>
 			<_id type="a">GUID 3ba853ba-d9fd-4910-b3de-dbf6529773aa</_id>
 		</IProject>
 		<IProject type="e">
-			<fileName type="a">Week1_SmartMointerSystem_fronted</fileName>
-			<_persistAs type="a">D:\projects\Rhapsody_9\Week1_SMSWTD_Frontend</_persistAs>
+			<fileName type="a">DASHBOARD</fileName>
+			<_persistAs type="a">D:\projects\Rhapsody_9\SysML-SMSTWD\DASHBOARD</_persistAs>
 			<_id type="a">GUID 3ba853ba-d9fd-4910-b3de-dbf6529773aa</_id>
 		</IProject>
 		
