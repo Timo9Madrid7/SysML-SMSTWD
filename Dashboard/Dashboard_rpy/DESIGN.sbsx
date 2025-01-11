@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 6318d626-f6a6-4439-a936-5b0094dee642</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DESIGN</_name>
+			<_modifiedTimeWeak type="a">12.11.2024::18:42:48</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\SMSWTD.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD</_hsubsystem>
+					<_hname type="a">SMSWTD_PKG_DIAGRAM</_hname>
+					<_hid type="a">GUID 8cc6f88c-82ae-479f-bc3d-e6edde590ca4</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.11.2024::21:22:3</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">12.11.2024::18:42:48</weakCGTime>
+			<strongCGTime type="a">12.11.2024::18:42:48</strongCGTime>
+			<_defaultComposite type="s">GUID 65e496b7-f996-4a82-b979-13897fba0afd</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 26442e0c-9c42-4fe9-a6ec-f39dd5ed8090</value>
+				<value>GUID 65e496b7-f996-4a82-b979-13897fba0afd</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 26442e0c-9c42-4fe9-a6ec-f39dd5ed8090</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">REQUIREMENTS_PKG</_name>
+			<_modifiedTimeWeak type="a">12.11.2024::18:42:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.11.2024::18:42:48</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\REQUIREMENTS_PKG.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD::ANALYSIS</_hsubsystem>
+					<_hname type="a">REQUIREMENTS_PKG</_hname>
+					<_hid type="a">GUID 6fec1066-0a5f-41c8-af07-0c07b53cbfbf</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 6318d626-f6a6-4439-a936-5b0094dee642</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 65e496b7-f996-4a82-b979-13897fba0afd</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

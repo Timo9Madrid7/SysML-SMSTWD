@@ -1,0 +1,531 @@
+I-Logix-RPY-Archive version 8.15.0 * 202002261110
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 105;
+	- value = "DefaultComponent\\DefaultConfig\\AircraftSensors.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\AircraftSensors.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Algorithms.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Algorithms.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\BACKEND_UCS.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\BACKEND_UCS.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\BackendAPIClient.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\BackendAPIClient.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\COMMUNICATION_UCS.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\COMMUNICATION_UCS.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\CarrierNotificationListener.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\CarrierNotificationListener.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\CommunicationInfrastructure.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\CommunicationInfrastructure.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\CommunicationInterface.cpp" 1.11.2025::11:59:12
+	"DefaultComponent\\DefaultConfig\\CommunicationInterface.h" 1.11.2025::11:59:12
+	"DefaultComponent\\DefaultConfig\\Context.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\Context.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\Dashboard.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\Dashboard.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\DataLoader.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\DataLoader.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\DataStorage.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\DataStorage.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Database.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\Database.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\FRONTEND_UCS.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\FRONTEND_UCS.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\GUI.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\GUI.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\GovermentAgencies.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\GovermentAgencies.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\InterCommunicationInterface.cpp" 1.11.2025::11:59:12
+	"DefaultComponent\\DefaultConfig\\InterCommunicationInterface.h" 1.11.2025::11:59:12
+	"DefaultComponent\\DefaultConfig\\IntraCommunicationInterface.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\IntraCommunicationInterface.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\LocationChangeUI.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\LocationChangeUI.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\LocationProvider.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\LocationProvider.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\LoginAuthenticator.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\LoginAuthenticator.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\MaintainerPortal.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\MaintainerPortal.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\Maintainers.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Maintainers.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\MonitorSystem.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\MonitorSystem.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\NotificationAPIClient.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\NotificationAPIClient.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\NotificationListener.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\NotificationListener.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\NotificationUI.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\NotificationUI.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\ProcessedDataDatabase.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\ProcessedDataDatabase.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\ProcessedDataLoader.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\ProcessedDataLoader.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\Processors.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Processors.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\ProxyPortInterfaces.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\ProxyPortInterfaces.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Public.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Public.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\PushNotificationListener.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\PushNotificationListener.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\RawDataLoader.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\RawDataLoader.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\ResearchGateway.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\ResearchGateway.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\ResearcherPortal.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\ResearcherPortal.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\RhpString_passwordHash_ProxyFlowPropertyInterface.h" 1.11.2025::11:59:12
+	"DefaultComponent\\DefaultConfig\\RhpString_password_ProxyFlowPropertyInterface.h" 1.11.2025::11:59:12
+	"DefaultComponent\\DefaultConfig\\RhpString_satelliteImage_ProxyFlowPropertyInterface.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\RhpString_username_ProxyFlowPropertyInterface.h" 1.11.2025::11:59:12
+	"DefaultComponent\\DefaultConfig\\SMSWTD.cpp" 1.11.2025::11:59:34
+	"DefaultComponent\\DefaultConfig\\SMSWTD.h" 1.11.2025::11:59:34
+	"DefaultComponent\\DefaultConfig\\SMSWTD_CONTEXT.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\SMSWTD_CONTEXT.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\SatelliteSystems.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\SatelliteSystems.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Scientists.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Scientists.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\SecureTransmissionManager.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\SecureTransmissionManager.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\SensorDatabase.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\SensorDatabase.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\Sensors.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Sensors.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\ThreatsUI.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\ThreatsUI.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\Transformer.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\Transformer.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\UnderwaterSensors.cpp" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\UnderwaterSensors.h" 1.11.2025::11:59:14
+	"DefaultComponent\\DefaultConfig\\UserDatabase.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\UserDatabase.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\UserPortal.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\UserPortal.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\WeatherAPIClient.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\WeatherAPIClient.h" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\WeatherForcastUI.cpp" 1.11.2025::11:59:13
+	"DefaultComponent\\DefaultConfig\\WeatherForcastUI.h" 1.11.2025::11:59:13
+	"d:\\projects\\rhapsody_9\\sysml-smstwd\\defaultcomponent\\defaultconfig\\SMSWTD.h" 1.11.2025::11:59:27
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 8;
+	- value = "GUID 31c9ccab-5fe4-4619-abe5-89d5c5a21024" "GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce"
+	"GUID 33386283-225c-4b2c-ab12-f5b6860e8d0f" "GUID 3ba853ba-d9fd-4910-b3de-dbf6529773aa"
+	"GUID 4b9def48-49f3-44ab-8b73-f66704b08a31" "GUID 7d5a2172-50e1-4696-9985-446746e23e09"
+	"GUID 54ee032a-a479-4fb9-8059-a86b78adee1b" "GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce"
+	"GUID 73b62dc7-9a13-40fb-a250-4979997e393d" "GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce"
+	"GUID 7d5a2172-50e1-4696-9985-446746e23e09" "GUID bc1817d3-d769-4c8a-8b9c-f70296eae11b"
+	"GUID 94f135bc-ead2-4dfd-964c-f7b2504d4cce" "GUID bc1817d3-d769-4c8a-8b9c-f70296eae11b"
+	"GUID bc1817d3-d769-4c8a-8b9c-f70296eae11b" "GUID 3ba853ba-d9fd-4910-b3de-dbf6529773aa"
+	
+}
+- size = 51;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "LocationChangeUI";
+	- _id = GUID c8fabea8-63fb-4caa-bca0-f1ab51c99776;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "Transformer";
+	- _id = GUID 6b409b04-4d1a-4e75-b434-5e240c070246;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "MaintainerPortal";
+	- _id = GUID 6a65e4d0-ba56-4e3f-86f5-785ae47659f2;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "UserPortal";
+	- _id = GUID 85875642-178e-4b66-a1b0-a611fca9944c;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "SecureTransmissionManager";
+	- _id = GUID 96772d76-5a28-4d5f-a53c-0f7635bd9555;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "SensorDatabase";
+	- _id = GUID 70807596-6ae0-47af-b6cd-68861dc56aa3;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "Sensors";
+	- _id = GUID b73733fa-a233-4ea6-877d-d82afbaa140d;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "SMSWTD";
+	- _id = GUID ebd2892c-844d-4a03-a69e-cd7413f71a8d;
+}
+- genTime = 1.11.2025::11:59:34;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\FRONTEND_UCS.sbsx";
+	- _subsystem = "SMSWTD::SERVICE_UCS";
+	- _name = "FRONTEND_UCS";
+	- _id = GUID 31c9ccab-5fe4-4619-abe5-89d5c5a21024;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\COMMUNICATION_UCS.sbsx";
+	- _subsystem = "SMSWTD::SERVICE_UCS";
+	- _name = "COMMUNICATION_UCS";
+	- _id = GUID 73b62dc7-9a13-40fb-a250-4979997e393d;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "Database";
+	- _id = GUID b54c813b-e1d4-486e-85b7-dffeaa0a03a3;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "RawDataLoader";
+	- _id = GUID 565ae51d-29c7-4489-8f7a-e33e8faeaf8f;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "NotificationListener";
+	- _id = GUID b8423041-dd4e-4cab-b7bb-fc826513383e;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "AircraftSensors";
+	- _id = GUID 774abe18-8447-4323-b39d-da5414b29488;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "ProcessedDataDatabase";
+	- _id = GUID 2f7d4293-aabc-4920-8dbc-5b7b641e8323;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "IntraCommunicationInterface";
+	- _id = GUID 7669df41-2049-4f23-bd8a-2fbc5d9c56d8;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "WeatherAPIClient";
+	- _id = GUID f96f121e-0585-4862-a9af-f4f26086c034;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "BackendAPIClient";
+	- _id = GUID 42863204-8943-4e9c-b109-0afc36c6f9ed;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "DataLoader";
+	- _id = GUID 3352195a-1545-43c3-83e7-602d9f031d53;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "LocationProvider";
+	- _id = GUID 3f43eb8c-76ca-4995-bc57-fb20ccb8e23b;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "WeatherForcastUI";
+	- _id = GUID df77d667-2b95-4e2c-b03b-1af93c2dce9b;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\BACKEND_UCS.sbsx";
+	- _subsystem = "SMSWTD::SERVICE_UCS::BACKEND_UCS";
+	- _name = "Maintainers";
+	- _id = GUID 020b266d-0b9d-4d2e-88cf-3d2f0ccf64e6;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS";
+	- _name = "SMSWTD_CONTEXT";
+	- _id = GUID 4b9def48-49f3-44ab-8b73-f66704b08a31;
+}
+- genTime = 1.11.2025::11:59:34;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "Scientists";
+	- _id = GUID a6a652e1-0de9-45ab-af97-125700cf8ba9;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "CarrierNotificationListener";
+	- _id = GUID 81fe8580-6076-4376-9e5a-9293ee811990;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "Processors";
+	- _id = GUID dd20f456-c0d8-48c4-bc91-cf768de72c43;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "CommunicationInterface";
+	- _id = GUID 5820aabb-16b9-4c8e-a6ec-8608b6930678;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "CommunicationInfrastructure";
+	- _id = GUID c22a75a0-8af1-4c8f-ad1c-eeb229fb5337;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "PushNotificationListener";
+	- _id = GUID 0a0c4f7c-1881-40ae-adaa-24dfa0188ca9;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\BACKEND_UCS.sbsx";
+	- _subsystem = "SMSWTD::SERVICE_UCS";
+	- _name = "BACKEND_UCS";
+	- _id = GUID 54ee032a-a479-4fb9-8059-a86b78adee1b;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "UnderwaterSensors";
+	- _id = GUID aeeb0849-a9f1-41dc-a4e9-2f33e0ba732b;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "NotificationUI";
+	- _id = GUID e62a9cf9-9543-47d1-a251-33693f5f6737;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "UserDatabase";
+	- _id = GUID 38cfa279-4cad-431b-910d-f23a2d4d5228;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "InterCommunicationInterface";
+	- _id = GUID b8ff8b68-652c-4df3-a58f-ae24932f1eb2;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _name = "SMSWTD";
+	- _id = GUID bc1817d3-d769-4c8a-8b9c-f70296eae11b;
+}
+- genTime = 1.11.2025::11:59:34;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "ProcessedDataLoader";
+	- _id = GUID 37e04475-8451-43f4-8646-5921a69006ef;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "GUI";
+	- _id = GUID 28bea55c-fb44-4b03-b86a-64e5d07865c6;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "DataStorage";
+	- _id = GUID cdf27dc6-e68b-460f-af74-01409fab4850;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "Algorithms";
+	- _id = GUID 9ed1ac68-7698-4f33-ac0c-116182d77482;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "ThreatsUI";
+	- _id = GUID 50498bc4-30e1-4932-a006-84d3d3df8a92;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "LoginAuthenticator";
+	- _id = GUID 8d65d5ec-91ea-4af9-943a-1014e7b1875e;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "Public";
+	- _id = GUID f883352f-0657-429b-b931-55c2d31c2669;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "GovermentAgencies";
+	- _id = GUID e5b29856-eb2e-4cf6-920e-951675242817;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "MonitorSystem";
+	- _id = GUID 4314678b-1972-429e-8470-c36efa66ce16;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "NotificationAPIClient";
+	- _id = GUID 95253a09-ad0a-446f-a149-5c2c581ab54d;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID 4b0207b3-f6b9-4c48-bcb3-64de722c24c4;
+}
+- genTime = 1.11.2025::12:1:32;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "SatelliteSystems";
+	- _id = GUID 0bb25443-a289-4778-8e37-215d9e13135d;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "Context";
+	- _id = GUID 13b269b1-7e6e-4850-8fcd-458903336301;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD_CONTEXT.sbsx";
+	- _subsystem = "SMSWTD::ANALYSIS::SMSWTD_CONTEXT";
+	- _name = "ResearchGateway";
+	- _id = GUID 95dcd5c0-5bd2-45bf-a691-09c926c59e1f;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "ResearcherPortal";
+	- _id = GUID 84c4f77c-6eff-4a8d-bbe0-096872c5e727;
+}
+- genTime = 1.11.2025::11:59:14;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\SMSWTD_rpy\\SMSWTD.sbsx";
+	- _subsystem = "SMSWTD";
+	- _name = "Dashboard";
+	- _id = GUID adc4095b-0f8d-43da-b23e-7dae740b4a2c;
+}
+- genTime = 1.11.2025::11:59:14;
+
